@@ -1,0 +1,231 @@
+[
+  {
+    "id": "work-1",
+    "category": "app",
+    "titleKey": "portfolio.items.work1.title",
+    "descriptionKey": "portfolio.items.work1.description",
+    "image": "/images/portfolio/sleep-app-screenshot-1024x576.png",
+    "client": "ギジン株式会社",
+    "year": "2022",
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Firebase"
+    ],
+    "details": {
+      "ja": "## 睡眠観測 - さわって眠れる革新的アプリ\n\n### 入眠前の寝付き改善に特化。スマホをさわってなでるだけで眠れる。\n\n<img src=\"/images/portfolio/sleep-app-screenshot-1024x576.png\" alt=\"睡眠観測アプリ画面\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n#### 📊 実績\n\n- **ダウンロード数**: **42,000DL突破**（2024年10月時点）\n- **App Store**: メディカルカテゴリ **1位**\n- **Google Play**: 健康＆フィットネスカテゴリ **1位**\n- **メディア掲載**: ITMedia News、ASCII、Tarzan、FNNプライムオンライン他多数\n\n---\n\n### 睡眠観測とは？\n\nメンタルヘルス領域で、睡眠導入のためのアプリは豊富にありますが、この「睡眠観測」では他にはない独自の方法で「**ベッドに入った後なかなか寝付けなくて苦しい**」という課題の解決を提案しています。\n\n#### 🌙 革新的なアプローチ\n\nその方法とは「**スマホをさわって眠る**」こと。\n\n従来の常識では：\n- スマホの光を見ると脳が覚醒する\n- 眠るためにはスマホはベッドに持ち込まない\n- 寝るときにはスマホを手放す\n\nしかし、私たちは考えました：\n\n> スマホをさわっている時間は誰に気を使うこともなく、ありのままの自分でいる。癒やしの時間を与えてくれるのがスマホなのに、どうして眠るときには手放さなくてはいけないのでしょう？\n\n---\n\n### 開発の背景\n\n**目を閉じてスマホをさわる**使いみちは、あまり開発されていないのではないか？開発者はここに着目し、目を閉じながら楽しめるコンテンツがあれば、睡眠導入に役立つアプリが作れるのでは？と考えました。\n\n最初は開発者自身の不眠解決のために作り始めましたが、今では**ベッドに行くことが楽しみになるアプリ**へと成長しました。\n\n---\n\n### 主な機能と特徴\n\n#### 🎯 さわって眠れるコンテンツ\n\n- **なでる・タップする**: 画面を優しくなでたりタップすることで、心地よい反応が返ってくる\n- **目を閉じて楽しめる**: 視覚に頼らない、触覚と聴覚のコンテンツ\n- **バリエーション豊富**: 様々なシチュエーションのコンテンツを用意\n\n#### 🎨 特別コンテンツ\n\n- **猫を撫でるコンテンツ**: 子供の寝息音を使った癒しのコンテンツ\n- **振動のみのコンテンツ**: 音を出せない環境でも使える\n- **AIで生成した秋のリトリート**: 8種類のシーン（そよ風、雨、夜明け、夕暮れ、朝、昼、夕方、夜）\n\n<img src=\"/images/portfolio/ai-sleep-content.jpg\" alt=\"AI生成睡眠コンテンツ\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n---\n\n### メディア掲載と評価\n\n#### 📺 主なメディア露出\n\n- **2022年**: ITMedia News「話題の睡眠アプリ特集」\n- **2022年**: Tarzan「睡眠テック特集」掲載\n- **2024年**: 宮城ニュースevery「情熱ラボ」TV出演\n- **2024年**: Amebaチョイス 睡眠アプリ専門家として監修\n\n#### 💬 ユーザーの声\n\n- 「**睡眠薬が不要になった**」\n- 「**3ヶ月で症状が劇的に改善**」\n- 「**ベッドに行くのが楽しみになった**」\n- 「**寝付きの悪さが解消された**」\n\n---\n\n### 法人向けサービス\n\n#### 🏢 睡眠観測 for Teams\n\n企業の健康経営をサポートする法人版も展開中：\n- 従業員の睡眠改善によるパフォーマンス向上\n- ストレス軽減とメンタルヘルス対策\n- 東京ビッグサイト「ジェンダード・イノベーションEXPO」出展\n\n公式サイト: https://suiminkansokuforteams.lovable.app/\n\n---\n\n### 成長の軌跡\n\n#### 📈 ダウンロード数の推移\n\n- **2022年7月**: リリース後1年で3,500DL（プロモーションなし）\n- **2022年8月**: 正式リリース4日で8,000DL\n- **2022年8月**: リリース2週間で10,000DL突破\n- **2024年10月**: 40,000DL突破（広告費ゼロ、口コミのみ）\n\n---\n\n### 今後の展開\n\n- **2025年6月**: 日本睡眠学会での発表予定\n- **AI技術の更なる活用**: パーソナライズされた睡眠導入コンテンツ\n- **グローバル展開**: 多言語対応による海外展開\n\n睡眠観測は、単なるアプリを超えて、**新しい睡眠文化**を創造しています。",
+      "en": "## Sleep Observation - Revolutionary Touch-to-Sleep App\n\n### Specialized in improving sleep onset. Fall asleep just by touching and stroking your smartphone.\n\n<img src=\"/images/portfolio/sleep-app-screenshot-1024x576.png\" alt=\"Sleep Observation App Screen\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n#### 📊 Achievements\n\n- **Downloads**: Over **42,000** (as of October 2024)\n- **App Store**: **#1** in Medical category\n- **Google Play**: **#1** in Health & Fitness category\n- **Media Coverage**: ITMedia News, ASCII, Tarzan, FNN Prime Online, and many more\n\n---\n\n### What is Sleep Observation?\n\nWhile there are many apps for sleep induction in the mental health field, 'Sleep Observation' proposes a solution to the problem of '**suffering from not being able to fall asleep after getting into bed**' with a unique method not found elsewhere.\n\n#### 🌙 Revolutionary Approach\n\nThat method is '**falling asleep while touching your smartphone**'.\n\nConventional wisdom says:\n- Looking at smartphone light awakens the brain\n- Don't bring smartphones to bed\n- Put away phones when sleeping\n\nBut we thought:\n\n> The time spent touching smartphones is when we can be ourselves without worrying about anyone. Why do we have to let go of our smartphones when sleeping, when they provide us with healing time?\n\n---\n\n### Development Background\n\nThe developer focused on the fact that there hasn't been much development for **using smartphones with eyes closed**, and thought that if there were content that could be enjoyed with eyes closed, it could create an app that helps with sleep induction.\n\nInitially created for the developer's own insomnia, it has now grown into an app that **makes going to bed something to look forward to**.\n\n---\n\n### Key Features\n\n#### 🎯 Touch-to-Sleep Content\n\n- **Stroke & Tap**: Get soothing responses by gently stroking or tapping the screen\n- **Eyes-Closed Enjoyment**: Tactile and auditory content that doesn't rely on vision\n- **Rich Variety**: Various situational content available\n\n#### 🎨 Special Content\n\n- **Cat Petting Content**: Healing content with child's breathing sounds\n- **Vibration-Only Content**: For environments where sound isn't possible\n- **AI-Generated Autumn Retreat**: 8 different scenes (gentle breeze, rain, dawn, dusk, morning, noon, evening, night)\n\n<img src=\"/images/portfolio/ai-sleep-content.jpg\" alt=\"AI-Generated Sleep Content\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n---\n\n### Media Coverage & Recognition\n\n#### 📺 Major Media Appearances\n\n- **2022**: ITMedia News \"Featured Sleep App Special\"\n- **2022**: Tarzan \"Sleep Tech Feature\"\n- **2024**: Miyagi News Every \"Passion Lab\" TV appearance\n- **2024**: Ameba Choice sleep app expert supervision\n\n#### 💬 User Testimonials\n\n- \"**No longer need sleeping pills**\"\n- \"**Symptoms dramatically improved in 3 months**\"\n- \"**Now look forward to going to bed**\"\n- \"**Sleep difficulties resolved**\"\n\n---\n\n### Corporate Services\n\n#### 🏢 Sleep Observation for Teams\n\nCorporate version supporting workplace wellness:\n- Employee performance improvement through better sleep\n- Stress reduction and mental health support\n- Exhibited at Tokyo Big Sight \"Gendered Innovation EXPO\"\n\nOfficial site: https://suiminkansokuforteams.lovable.app/\n\n---\n\n### Growth Timeline\n\n#### 📈 Download Progression\n\n- **July 2022**: 3,500 downloads after 1 year (no promotion)\n- **August 2022**: 8,000 downloads in 4 days after official release\n- **August 2022**: 10,000 downloads in 2 weeks\n- **October 2024**: 40,000+ downloads (zero advertising, word-of-mouth only)\n\n---\n\n### Future Development\n\n- **June 2025**: Presentation at Japan Sleep Society Conference\n- **Enhanced AI Integration**: Personalized sleep induction content\n- **Global Expansion**: Multi-language support for international markets\n\nSleep Observation is more than just an app - it's creating a **new sleep culture**."
+    },
+    "results": {
+      "ja": [
+        "42,000ダウンロード突破",
+        "App Store メディカルカテゴリ1位",
+        "Google Play 健康＆フィットネスカテゴリ1位"
+      ],
+      "en": [
+        "42,000+ downloads",
+        "#1 in App Store Medical category",
+        "#1 in Google Play Health & Fitness"
+      ]
+    }
+  },
+  {
+    "id": "work-2",
+    "category": "web",
+    "titleKey": "portfolio.items.work2.title",
+    "descriptionKey": "portfolio.items.work2.description",
+    "image": null,
+    "client": {
+      "ja": "複数企業",
+      "en": "Multiple Companies"
+    },
+    "year": "2014-2024",
+    "technologies": [
+      "Various Technologies"
+    ],
+    "details": {
+      "ja": "今まで商取引させていただいた法人のお客様をご紹介いたします。\nいつもご高配を賜りありがとうございます。\n\n（法人名は取引日時の昇順で掲載）\n\n• 株式会社NTTドコモ\n• パナソニックシステムネットワークス株式会社\n• サントリーシステムテクノロジー株式会社\n• LINE株式会社\n• Apple inc.\n• Google inc.\n• 大阪大学\n• 株式会社サイバーエージェント\n\n等多数",
+      "en": "We would like to introduce our corporate clients with whom we have conducted business transactions.\nThank you for your continued support.\n\n(Corporate names are listed in ascending order of transaction date)\n\n• NTT Docomo Inc.\n• Panasonic System Networks Co., Ltd.\n• Suntory System Technology Limited\n• LINE Corporation\n• Apple Inc.\n• Google Inc.\n• Osaka University\n• CyberAgent, Inc.\n\nAnd many others"
+    },
+    "results": {
+      "ja": [
+        "大手企業との豊富な取引実績",
+        "継続的な信頼関係の構築",
+        "多様な技術領域での実績"
+      ],
+      "en": [
+        "Extensive partnerships with major companies",
+        "Building long-term trust relationships",
+        "Achievements across various technology domains"
+      ]
+    }
+  },
+  {
+    "id": "work-3",
+    "category": "marketing",
+    "titleKey": "portfolio.items.work3.title",
+    "descriptionKey": "portfolio.items.work3.description",
+    "image": "/images/portfolio/ai-dancing-photo.gif",
+    "client": {
+      "ja": "複数クライアント",
+      "en": "Multiple Clients"
+    },
+    "year": "2024",
+    "technologies": [
+      "Stable Diffusion",
+      "GPT-4",
+      "MidJourney"
+    ],
+    "details": {
+      "ja": "## 生成AIコンテンツ制作の実績\n\n### 自社アプリでの活用事例\n\n**睡眠アプリ「睡眠観測」での生成AIコンテンツ制作**\n\n<img src=\"/images/portfolio/ai-sleep-content.jpg\" alt=\"睡眠コンテンツ制作事例\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n#### 導入効果\n- **制作費**: 90%削減\n- **コンテンツ量**: 48倍に増加\n- **制作期間**: 大幅短縮\n\n#### プロジェクト概要\n自身の不眠を解決するために開発した「さわって眠れる」アプリにて、生成AIを活用した睡眠導入コンテンツを制作しました。\n\n<img src=\"/images/portfolio/sleep-app-screenshot-1024x576.png\" alt=\"睡眠観測アプリ画面\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n#### 制作内容\n秋のリトリートをテーマに、AIが生成した画像・音楽・音声ガイドを組み合わせた睡眠導入コンテンツ。以下の8種類のシーンを用意：\n- そよ風\n- 雨\n- 夜明け\n- 夕暮れ\n- 朝\n- 昼\n- 夕方\n- 夜\n\n<img src=\"/images/portfolio/ai-content-autumn.png\" alt=\"秋のリトリートコンテンツ\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n各シーンでは、AIが生成した環境音と音声ガイドが、ユーザーを快適な入眠体験へと導きます。\n\n---\n\n### クライアントワーク実績\n\n#### 大学との共同研究プロジェクト\n**概要**: 生成AI技術を活用し、環境情報からクリエイティブコンテンツを自動生成するシステムを開発\n\n**成果**: 生成AIによるコンテンツ生成において、高い精度と品質を実現\n\n#### 大手映像制作会社との研究開発\n生成AIを活用した新しいコンテンツ制作フローの研究開発を実施\n\n#### 大手アニメーション制作会社との技術検証\n生成AIを活用したアニメーション制作の効率化について技術検証を実施\n\n---\n\n### 話題になった研究・実験\n\n#### 写真を踊らせる技術\nX（旧Twitter）で**23万インプレッション**を獲得した実験的プロジェクト\n\n<img src=\"/images/portfolio/ai-dancing-photo.gif\" alt=\"写真を踊らせる\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n静止画から自然な動きを生成する技術により、写真の人物があたかも踊っているかのような動画を作成。SNSで大きな話題となり、多くのユーザーから驚きの声が寄せられました。\n\n#### 写真に奥行きを出す技術\n2D画像から3D空間を生成する技術の研究開発\n\n<img src=\"/images/portfolio/ai-depth-photo.gif\" alt=\"写真に奥行きを出す\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n平面的な写真から深度情報を推定し、立体的な空間として再構築。カメラを動かしたような映像表現を可能にしました。",
+      "en": "## Generative AI Content Production Achievements\n\n### In-house Application Case Studies\n\n**Generative AI Content for Sleep App \"Sleep Observation\"**\n\n<img src=\"/images/portfolio/ai-sleep-content.jpg\" alt=\"Sleep Content Production Case Study\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n#### Implementation Results\n- **Production Costs**: 90% reduction\n- **Content Volume**: 48x increase\n- **Production Time**: Significantly reduced\n\n#### Project Overview\nDeveloped generative AI-powered sleep induction content for the \"Touch to Sleep\" app, originally created to solve the developer's own insomnia.\n\n#### Content Details\nAutumn retreat themed sleep induction content combining AI-generated images, music, and voice guidance. Features 8 different scenes:\n- Gentle breeze\n- Rain\n- Dawn\n- Dusk\n- Morning\n- Noon\n- Evening\n- Night\n\nEach scene features AI-generated ambient sounds and voice guidance that leads users to a comfortable sleep experience.\n\n---\n\n### Client Work Achievements\n\n#### University Joint Research Project\n**Overview**: Developed a system that automatically generates creative content from environmental information using generative AI technology\n\n**Results**: Achieved high accuracy and quality in AI-powered content generation\n\n#### Major Video Production Company R&D\nConducted research and development on new content production workflows utilizing generative AI\n\n#### Major Animation Studio Technical Verification\nPerformed technical verification on efficiency improvements in animation production using generative AI\n\n---\n\n### Notable Research & Experiments\n\n#### Making Photos Dance\nExperimental project that gained **230,000 impressions** on X (formerly Twitter)\n\n<img src=\"/images/portfolio/ai-dancing-photo.gif\" alt=\"Making photos dance\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />\n\n#### Adding Depth to Photos\nResearch and development on generating 3D space from 2D images\n\n<img src=\"/images/portfolio/ai-depth-photo.gif\" alt=\"Adding depth to photos\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px;\" />"
+    },
+    "results": {
+      "ja": [
+        "制作費90%削減",
+        "コンテンツ量48倍増加",
+        "23万インプのバズ"
+      ],
+      "en": [
+        "90% reduction in production costs",
+        "48x increase in content volume",
+        "230K impressions viral content"
+      ]
+    }
+  },
+  {
+    "id": "work-4",
+    "category": "branding",
+    "titleKey": "portfolio.items.work4.title",
+    "descriptionKey": "portfolio.items.work4.description",
+    "image": "/images/portfolio/manga-content-1024x714.jpg",
+    "images": [
+      "https://gizin.co.jp/wp-content/uploads/2024/09/manga3.jpg",
+      "https://gizin.co.jp/wp-content/uploads/2024/09/manga4.jpg",
+      "https://gizin.co.jp/wp-content/uploads/2024/09/manga5.jpg"
+    ],
+    "client": {
+      "ja": "大手通信会社、車載サービス企業他",
+      "en": "Major Telecom, Automotive Service Companies, etc."
+    },
+    "year": "2024",
+    "technologies": [
+      "Digital Illustration",
+      "Storytelling",
+      "Character Design"
+    ],
+    "details": {
+      "ja": "",
+      "en": ""
+    },
+    "results": {
+      "ja": [
+        "キャラクターが立ち、少ないページ数で内容が好意的に伝わる",
+        "オチでクスリと笑えて、漫画としてちゃんと面白く楽しめる",
+        "サービス理解度の向上",
+        "ユーザーエンゲージメント向上",
+        "ブランド好感度アップ"
+      ],
+      "en": [
+        "Characters come to life, conveying content positively in just a few pages",
+        "The punchlines bring a chuckle, making them genuinely enjoyable as manga",
+        "Improved service understanding",
+        "Enhanced user engagement",
+        "Increased brand favorability"
+      ]
+    }
+  },
+  {
+    "id": "work-5",
+    "category": "app",
+    "titleKey": "portfolio.items.work5.title",
+    "descriptionKey": "portfolio.items.work5.description",
+    "image": "/images/portfolio/game-content.png",
+    "client": "ギジン株式会社",
+    "year": "2007-2024",
+    "technologies": [
+      "Unity",
+      "Mobile Game Development",
+      "Game Design"
+    ],
+    "details": {
+      "ja": "## ギジンのゲームの魅力\n\n既存のプラットフォームや、既存のジャンルの枠を超えた新しい発想で、誰も見たこともない斬新な遊び方を提案します。\n\n---\n\n## ゲームコンテンツ制作の実績\n\n### モバイルウォーズ（Mobile Wars）\n\n<img src=\"/images/portfolio/game-content.png\" alt=\"モバイルウォーズ ゲーム画面\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n#### 概要\n\n**2007年7月リリース**（※1）。モバイルゲーム史に革命を起こした「**カード合成＆カードガチャ**」のモデルを世界で初めて提供したゲーム。\n\n#### 革新的なゲームシステム\n\n- **カード収集システム**: プレイヤーはバトルやガチャでカードを収集\n- **カード合成機能**: 複数のカードを組み合わせて、より強力なレアカードを生成\n- **ガチャメカニズム**: ランダム性を取り入れた課金システムの先駆け\n- **ソーシャル要素**: プレイヤー同士の対戦・協力プレイ\n\n#### 社会的インパクト\n\nこのゲームモデルは、その後多くの企業に取り入れられ、**法律を変えた社会現象**にまでなりました。（※2）\n\n- **業界への影響**: 国内外の多数のゲーム会社がこのモデルを採用\n- **市場の拡大**: モバイルゲーム市場の急速な成長に貢献\n- **法規制の整備**: ゲーム業界の健全な発展のための規制が制定\n\n#### 成果\n\n- **サービス会員数**: **70万人**突破\n- **収益モデル**: F2P（基本プレイ無料）＋アイテム課金の成功例\n- **運営期間**: 長期安定運営を実現\n- **業界認知度**: 多くのゲーム開発者に影響を与えた\n\n#### 技術的特徴\n\n- **サーバー技術**: 大規模同時接続に対応したインフラ構築\n- **データベース設計**: 膨大なカードデータとユーザー情報の効率的管理\n- **セキュリティ**: 不正対策とフェアプレイ環境の維持\n- **アップデート**: 定期的な新カード追加とイベント開催\n\n---\n\n### リバイバル版について\n\n2021年、ギジン株式会社により**リバイバル版**を配信。オリジナルの面白さを保ちながら、現代のスマートフォンに最適化。\n\n#### リバイバル版の特徴\n\n- **グラフィックの向上**: 高解像度ディスプレイ対応\n- **UI/UXの改善**: 現代のユーザビリティ基準に合わせた操作性\n- **バランス調整**: 長年の運営経験を活かしたゲームバランス\n- **新要素の追加**: 新規プレイヤーも楽しめる工夫\n\n---\n\n### 注釈\n\n※1 2007年当時の配信元は株式会社K sound designです。\n\n※2 平成24年（2012年）7月1日に、「カード合わせ」に当たる行為を対象とする新しい運用基準が施行されました。これにより、コンプガチャが消費者庁によって「カード合わせ」に該当する懸賞と見なされ、景品表示法に違反する可能性があるとされました。\n\n※ 画面は2021年にギジン株式会社が配信したリバイバル版です。",
+      "en": "## The Appeal of Gizin's Games\n\nWe propose innovative gameplay that no one has ever seen before, with new ideas that transcend existing platforms and genre boundaries.\n\n---\n\n## Game Content Production Achievements\n\n### Mobile Wars\n\n<img src=\"/images/portfolio/game-content.png\" alt=\"Mobile Wars Game Screen\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n#### Overview\n\n**Released in July 2007** (*1). The world's first game to provide the revolutionary \"**card synthesis & card gacha**\" model that transformed mobile gaming history.\n\n#### Innovative Game System\n\n- **Card Collection System**: Players collect cards through battles and gacha\n- **Card Synthesis Feature**: Combine multiple cards to create more powerful rare cards\n- **Gacha Mechanism**: Pioneer of randomized monetization systems\n- **Social Elements**: PvP battles and cooperative gameplay\n\n#### Social Impact\n\nThis game model was later adopted by many companies and became a **social phenomenon that changed the law** (*2).\n\n- **Industry Influence**: Numerous game companies worldwide adopted this model\n- **Market Expansion**: Contributed to rapid growth of the mobile gaming market\n- **Regulatory Development**: Led to regulations for healthy industry development\n\n#### Results\n\n- **Service Members**: Over **700,000** registered users\n- **Revenue Model**: Successful F2P (Free-to-Play) + item purchase model\n- **Operation Period**: Achieved long-term stable operation\n- **Industry Recognition**: Influenced many game developers\n\n#### Technical Features\n\n- **Server Technology**: Infrastructure supporting large-scale concurrent connections\n- **Database Design**: Efficient management of vast card data and user information\n- **Security**: Anti-cheat measures and fair play environment maintenance\n- **Updates**: Regular new card additions and event hosting\n\n---\n\n### About the Revival Version\n\nIn 2021, Gizin Inc. released a **revival version**, maintaining the original's appeal while optimizing for modern smartphones.\n\n#### Revival Version Features\n\n- **Improved Graphics**: High-resolution display support\n- **UI/UX Enhancement**: Usability aligned with modern standards\n- **Balance Adjustments**: Game balance refined through years of operational experience\n- **New Elements**: Features to engage new players\n\n---\n\n### Notes\n\n*1 The original distributor in 2007 was K sound design Inc.\n\n*2 On July 1, 2012, new operational standards targeting 'card matching' activities were enforced. This led to 'complete gacha' being considered by the Consumer Affairs Agency as a lottery equivalent to 'card matching,' potentially violating the Act against Unjustifiable Premiums and Misleading Representations.\n\n* The screenshots are from the revival version distributed by Gizin Inc. in 2021."
+    },
+    "results": {
+      "ja": [
+        "会員数70万人達成",
+        "業界初のカードガチャシステム開発",
+        "社会現象を生み出したゲームモデル"
+      ],
+      "en": [
+        "700,000 registered users",
+        "First card gacha system in the industry",
+        "Game model that created social phenomenon"
+      ]
+    }
+  },
+  {
+    "id": "work-6",
+    "category": "app",
+    "titleKey": "portfolio.items.work6.title",
+    "descriptionKey": "portfolio.items.work6.description",
+    "image": "/images/portfolio/gut-health-app-feature.png",
+    "client": "ギジン株式会社",
+    "year": "2024",
+    "technologies": [
+      "React Native",
+      "Data Analytics",
+      "Health Tech"
+    ],
+    "details": {
+      "ja": "## メモってととのう腸活アプリ - らくメモ腸活\n\n### 合わない食品が一目でわかる。データ分析で習慣化をサポート\n\n<img src=\"/images/portfolio/gut-health-app-feature.png\" alt=\"らくメモ腸活 アプリ画面\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n下痢や便秘などのお腹の不調を改善するための腸活アプリ、「**らくメモ腸活**」です。\n\nお腹の不調を改善するには、食事の記録やストレス管理など、生活習慣の改善が重要です。しかし、これらを続けることは難しいこともあります。「らくメモ腸活」は、そんな困難を解決するために開発されました。\n\n---\n\n### 🎯 こんな方におすすめ\n\n- 下痢または便秘を繰り返してつらい\n- 何が原因なのかよくわからない\n- 胃腸によいとされる食品やサプリを試しても改善が見られない\n- 低FODMAP食を試したが継続が難しい\n- 自分に合う食品と合わない食品が知りたい\n\n---\n\n## 「らくメモ腸活」の３つの特徴\n\n### 1️⃣ 直感的でシンプルな記録方法\n\n「らくメモ腸活」では、面倒な記録プロセスを一新しました。\n\n#### ✅ かんたん記録\n- **数タップ**で食事やトイレの記録が完了\n- 食前でも食後でも自分のペースで記録可能\n- 写真撮影不要でストレスフリー\n\n#### ✅ スマートな入力\n- よく食べる食品は履歴から選択\n- カテゴリー別の食品リスト\n- 症状も簡単にタップで記録\n\n### 2️⃣ データ分析による個別最適化\n\n記録したデータをAIが分析し、あなただけの「**腸内マップ**」を作成します。\n\n#### 📊 分析機能\n- **合う食品・合わない食品**の自動判定\n- 症状パターンの可視化\n- トレンドグラフで改善度合いを確認\n\n#### 🔍 詳細レポート\n- 週次・月次レポートの自動生成\n- 食品別の影響度スコア表示\n- 改善のためのアドバイス提供\n\n### 3️⃣ 継続をサポートする仕組み\n\nシンプルな操作性と視覚的にわかりやすいデータ表示により、記録の継続をサポートします。\n\n#### 🎉 モチベーション維持\n- 記録継続日数の表示\n- マイルストーン達成通知\n- 改善の変化を実感できるビジュアル\n\n#### 💡 習慣化サポート\n- リマインダー機能\n- 簡単入力で1日1分\n- ストレスのない継続体験\n\n---\n\n## 開発背景とこだわり\n\n### なぜ「らくメモ腸活」を作ったのか\n\n開発者自身が**過敏性腸症候群（IBS）**に長年悩まされ、様々な食事管理アプリを試しました。しかし、どれも継続が困難でした。\n\n#### 既存アプリの問題点\n- 入力が面倒で続かない\n- データはあるが活用方法がわからない\n- 一般的なアドバイスばかりで個人に合わない\n\n### 解決したかったこと\n\n1. **記録の手間を最小限に**\n   - 1日1分で完了する設計\n   - 必要最小限の情報だけを記録\n\n2. **データを意味のある情報に**\n   - ただの記録ではなく、改善につながる分析\n   - 個人差を考慮したパーソナライズ\n\n3. **継続できる仕組み**\n   - シンプルで美しいUI\n   - 成果が見える化される喜び\n\n---\n\n## ユーザーの声\n\n> 「**3ヶ月で症状が劇的に改善**しました。自分に合わない食品がはっきりわかったことが大きかったです」（30代女性）\n\n> 「シンプルで続けやすい。**毎日の記録が苦にならない**のが素晴らしい」（40代男性）\n\n> 「データ分析で**パンが原因**だとわかり、控えたら調子が良くなりました」（20代女性）\n\n---\n\n## 今後の展開\n\n### 🚀 開発中の新機能\n\n- **専門医との連携機能**\n  - 記録データを医師と共有\n  - オンライン相談対応\n\n- **AI栄養アドバイザー**\n  - 個人に最適化された食事提案\n  - 代替食品の推奨\n\n- **コミュニティ機能**\n  - 同じ悩みを持つユーザー同士の情報交換\n  - 成功体験の共有",
+      "en": "## Gut Health App - RakuMemo Gut Health\n\n### Easily identify foods that don't agree with you. Support habit formation through data analysis.\n\n<img src=\"/images/portfolio/gut-health-app-feature.png\" alt=\"RakuMemo Gut Health App Screen\" style=\"max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\" />\n\n**RakuMemo Gut Health** is a gut health app for improving digestive issues like diarrhea and constipation.\n\nImproving digestive issues requires lifestyle improvements such as food tracking and stress management. However, maintaining these habits can be challenging. RakuMemo Gut Health was developed to solve these difficulties.\n\n---\n\n### 🎯 Recommended For\n\n- Those suffering from recurring diarrhea or constipation\n- Those unsure of the cause\n- Those who haven't seen improvement despite trying gut-friendly foods or supplements\n- Those who found low-FODMAP diets difficult to maintain\n- Those wanting to know which foods suit them and which don't\n\n---\n\n## 3 Key Features of RakuMemo Gut Health\n\n### 1️⃣ Intuitive and Simple Recording Method\n\nRakuMemo Gut Health has revolutionized the tedious recording process.\n\n#### ✅ Easy Recording\n- Complete meal and bathroom records with **just a few taps**\n- Record at your own pace, before or after meals\n- No photo required - stress-free experience\n\n#### ✅ Smart Input\n- Select frequently eaten foods from history\n- Food lists organized by category\n- Record symptoms with simple taps\n\n### 2️⃣ Individual Optimization Through Data Analysis\n\nAI analyzes your recorded data to create your personal \"**Gut Map**\".\n\n#### 📊 Analysis Features\n- Automatic identification of **foods that suit you vs. those that don't**\n- Symptom pattern visualization\n- Track improvement with trend graphs\n\n#### 🔍 Detailed Reports\n- Automatic weekly and monthly report generation\n- Food impact scores\n- Personalized improvement advice\n\n### 3️⃣ Support System for Continuity\n\nSimple operation and visually clear data display support continuous recording.\n\n#### 🎉 Motivation Maintenance\n- Display of consecutive recording days\n- Milestone achievement notifications\n- Visual representation of improvements\n\n#### 💡 Habit Formation Support\n- Reminder function\n- 1 minute per day with easy input\n- Stress-free continuous experience\n\n---\n\n## Development Background\n\n### Why We Created RakuMemo Gut Health\n\nThe developer personally suffered from **Irritable Bowel Syndrome (IBS)** for years and tried various diet management apps. However, none were sustainable.\n\n#### Problems with Existing Apps\n- Too tedious to continue\n- Data exists but unclear how to use it\n- Generic advice that doesn't suit individuals\n\n### What We Wanted to Solve\n\n1. **Minimize Recording Effort**\n   - Design completed in 1 minute per day\n   - Record only essential information\n\n2. **Transform Data into Meaningful Information**\n   - Analysis that leads to improvement, not just records\n   - Personalization considering individual differences\n\n3. **Create Sustainable System**\n   - Simple and beautiful UI\n   - Joy of visualized results\n\n---\n\n## User Testimonials\n\n> \"My symptoms **improved dramatically in 3 months**. It was huge to clearly identify foods that don't suit me\" (30s Female)\n\n> \"Simple and easy to continue. It's wonderful that **daily recording isn't a burden**\" (40s Male)\n\n> \"Data analysis revealed **bread was the cause**. I felt better after reducing it\" (20s Female)\n\n---\n\n## Future Development\n\n### 🚀 New Features in Development\n\n- **Medical Professional Integration**\n  - Share recorded data with doctors\n  - Online consultation support\n\n- **AI Nutrition Advisor**\n  - Personalized meal suggestions\n  - Alternative food recommendations\n\n- **Community Features**\n  - Information exchange between users with similar concerns\n  - Success story sharing"
+    },
+    "results": {
+      "ja": [
+        "過敏性腸症候群の改善報告多数",
+        "直感的なUIで継続率向上",
+        "データ分析による個別最適化"
+      ],
+      "en": [
+        "Many reports of IBS improvement",
+        "High retention with intuitive UI",
+        "Personalization through data analysis"
+      ]
+    }
+  },
+  {
+    "id": "work-7",
+    "category": "marketing",
+    "titleKey": "portfolio.items.work7.title",
+    "descriptionKey": "portfolio.items.work7.description",
+    "image": "/images/portfolio/sleep-app-comparison-1024x813.png",
+    "client": {
+      "ja": "Amebaチョイス",
+      "en": "Ameba Choice"
+    },
+    "year": "2025",
+    "technologies": [
+      "Content Marketing",
+      "Expert Consultation",
+      "Market Analysis"
+    ],
+    "details": {
+      "ja": "睡眠アプリ専門家としての監修活動\n\nAmebaチョイスの睡眠アプリ特集記事において、睡眠専門家として監修コメントを提供しました。\n\n監修内容\n自社開発の睡眠アプリ「睡眠観測」の開発経験と、42,000人以上のユーザーデータから得られた知見を基に、以下の観点から監修を行いました：\n\n• 効果的な睡眠アプリの選び方\n• 各アプリの特徴と利用シーンの解説\n• 睡眠改善のための実践的なアドバイス\n• アプリを活用した睡眠習慣の構築方法\n\n掲載の影響\nこの監修記事により、睡眠アプリ市場における当社の専門性が広く認知され、自社アプリ「睡眠観測」への信頼性も向上しました。また、他メディアからの取材依頼も増加し、睡眠テクノロジー分野でのプレゼンス向上に貢献しています。",
+      "en": "Sleep App Expert Supervision Activities\n\nProvided expert commentary as a sleep specialist for Ameba Choice's sleep app feature article.\n\nSupervision Content\nBased on the development experience of our sleep app 'Sleep Observation' and insights gained from over 42,000 users, we provided supervision from the following perspectives:\n\n• How to choose effective sleep apps\n• Explanation of each app's features and use cases\n• Practical advice for improving sleep\n• Methods for building sleep habits using apps\n\nImpact of Publication\nThis supervised article led to wider recognition of our expertise in the sleep app market and increased trust in our own app 'Sleep Observation.' It also resulted in more interview requests from other media, contributing to our increased presence in the sleep technology field."
+    },
+    "results": {
+      "ja": [
+        "専門家としての信頼性確立",
+        "睡眠アプリ市場の認知度向上",
+        "メディア露出の拡大"
+      ],
+      "en": [
+        "Established credibility as expert",
+        "Increased awareness in sleep app market",
+        "Expanded media exposure"
+      ]
+    }
+  }
+]

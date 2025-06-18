@@ -1,0 +1,102 @@
+[
+  {
+    "id": "testimonial-1",
+    "quoteKey": "testimonials.items.testimonial1.quote",
+    "author": {
+      "ja": "Y.T様",
+      "en": "Y.T"
+    },
+    "company": {
+      "ja": "IT企業",
+      "en": "IT Company"
+    },
+    "position": {
+      "ja": "CEO",
+      "en": "CEO"
+    },
+    "avatar": "/images/testimonials/yamada.jpg",
+    "active": true,
+    "order": 1,
+    "featured": true
+  },
+  {
+    "id": "testimonial-2",
+    "quoteKey": "testimonials.items.testimonial2.quote",
+    "author": {
+      "ja": "S.H様",
+      "en": "S.H"
+    },
+    "company": {
+      "ja": "アパレル企業",
+      "en": "Fashion Company"
+    },
+    "position": {
+      "ja": "マーケティングディレクター",
+      "en": "Marketing Director"
+    },
+    "avatar": "/images/testimonials/sato.jpg",
+    "active": true,
+    "order": 2,
+    "featured": true
+  },
+  {
+    "id": "testimonial-3",
+    "quoteKey": "testimonials.items.testimonial3.quote",
+    "author": {
+      "ja": "S.I様",
+      "en": "S.I"
+    },
+    "company": {
+      "ja": "テクノロジー企業",
+      "en": "Technology Company"
+    },
+    "position": {
+      "ja": "CTO",
+      "en": "CTO"
+    },
+    "avatar": "/images/testimonials/suzuki.jpg",
+    "active": true,
+    "order": 3,
+    "featured": true
+  },
+  {
+    "id": "testimonial-4",
+    "quoteKey": "testimonials.items.testimonial4.quote",
+    "author": {
+      "ja": "T.M様",
+      "en": "T.M"
+    },
+    "company": {
+      "ja": "ヘルスケア企業",
+      "en": "Healthcare Company"
+    },
+    "position": {
+      "ja": "プロダクトマネージャー",
+      "en": "Product Manager"
+    },
+    "avatar": "/images/testimonials/tanaka.jpg",
+    "active": true,
+    "order": 4,
+    "featured": false
+  },
+  {
+    "id": "testimonial-5",
+    "quoteKey": "testimonials.items.testimonial5.quote",
+    "author": {
+      "ja": "T.K様",
+      "en": "T.K"
+    },
+    "company": {
+      "ja": "クラウドサービス企業",
+      "en": "Cloud Service Company"
+    },
+    "position": {
+      "ja": "代表取締役",
+      "en": "President"
+    },
+    "avatar": "/images/testimonials/takahashi.jpg",
+    "active": true,
+    "order": 5,
+    "featured": false
+  }
+]

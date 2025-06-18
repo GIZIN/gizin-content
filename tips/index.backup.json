@@ -1,0 +1,607 @@
+{
+  "articles": [
+    {
+      "id": "claude-code-permissions-settings",
+      "slug": "claude-code-permissions-settings",
+      "date": "2025-06-18",
+      "category": "claude-code",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "Claude Code",
+        "効率化",
+        "設定",
+        "permissions"
+      ],
+      "title": {
+        "ja": "Claude Codeでよく使うコマンドを確認なしで実行する方法",
+        "en": "Claude Codeでよく使うコマンドを確認なしで実行する方法"
+      },
+      "excerpt": {
+        "ja": "~/.claude/settings.jsonで権限設定を行うことで、開発効率を大幅に向上させる方法を解説します。",
+        "en": "~/.claude/settings.jsonで権限設定を行うことで、開発効率を大幅に向上させる方法を解説します。"
+      }
+    },
+    {
+      "id": "ai-collaboration-common-rules-release",
+      "slug": "ai-collaboration-common-rules-release",
+      "date": "2025-06-17",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 10,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "開発プロセス",
+          "オープンソース",
+          "ベストプラクティス",
+          "Claude",
+          "ドキュメント"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Development Process",
+          "Open Source",
+          "Best Practices",
+          "Claude",
+          "Documentation"
+        ]
+      },
+      "title": {
+        "ja": "AI協働開発の共通ルールを公開しました\n実プロジェクトから生まれたベストプラクティス集",
+        "en": "Released Common Rules for AI-Assisted Development\nBest Practices Born from Real Projects"
+      },
+      "excerpt": {
+        "ja": "複数のAI協働プロジェクトから抽出した共通ルールをGistで公開。質問型協働、作業の合言葉、コミュニケーション原則など、実践的なノウハウを体系化しました。",
+        "en": "Published common rules extracted from multiple AI collaboration projects on Gist. Systematized practical know-how including proactive questioning, work keywords, and communication principles."
+      }
+    },
+    {
+      "id": "ai-collaboration-order-quality",
+      "slug": "ai-collaboration-order-quality",
+      "date": "2025-06-17",
+      "category": "ai-collaboration",
+      "difficulty": "beginner",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI開発",
+          "プロジェクト管理",
+          "失敗談",
+          "ベストプラクティス",
+          "Claude",
+          "AI協働"
+        ],
+        "en": [
+          "AI Development",
+          "Project Management",
+          "Failure Stories",
+          "Best Practices",
+          "Claude",
+          "AI Collaboration"
+        ]
+      },
+      "title": {
+        "ja": "発注がクソなら記事もクソになる\nAI協働開発における指示の重要性",
+        "en": "Garbage In, Garbage Out\nThe Importance of Clear Instructions in AI Collaboration"
+      },
+      "excerpt": {
+        "ja": "AI開発での失敗から学ぶ、明確な指示の重要性。実際の失敗例を通じて、より良いAI協働のコツを自虐的に解説します。",
+        "en": "Learning from failures in AI development about the importance of clear instructions. A self-deprecating look at better AI collaboration through real failure examples."
+      }
+    },
+    {
+      "id": "ai-collaborative-documentation-importance",
+      "slug": "ai-collaborative-documentation-importance",
+      "date": "2025-06-17",
+      "category": "ai-collaboration",
+      "difficulty": "advanced",
+      "readingTime": 12,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AI協働開発",
+          "ドキュメント管理",
+          "Claude",
+          "セッション管理",
+          "ベストプラクティス"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Documentation Management",
+          "Claude",
+          "Session Management",
+          "Best Practices"
+        ]
+      },
+      "title": {
+        "ja": "AI協働開発における\nドキュメント管理の重要性",
+        "en": "The Importance of Documentation\nManagement in AI Collaborative Development"
+      },
+      "excerpt": {
+        "ja": "実プロジェクトの事例から学ぶ、AI協働開発で膨大なドキュメントが必要になる理由と効果的な管理手法",
+        "en": "Learn from real project examples why AI collaborative development requires extensive documentation and effective management methods"
+      }
+    },
+    {
+      "id": "ai-development-backup-strategy",
+      "slug": "ai-development-backup-strategy",
+      "date": "2025-06-17",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 12,
+      "featured": false,
+      "tags": [
+        "AI協働開発",
+        "バックアップ",
+        "GitHub",
+        "データ破損",
+        "ベストプラクティス",
+        "Claude",
+        "トラブルシューティング"
+      ],
+      "title": {
+        "ja": "AI駆動開発における「GitHubがあるから大丈夫」という落とし穴\n〜バックアップ戦略の重要性〜",
+        "en": "The 'GitHub is Enough' Pitfall in AI-Driven Development\n- The Importance of Backup Strategy"
+      },
+      "excerpt": {
+        "ja": "AI協働開発で実際に発生した38記事のデータ破損事例。GitHubがあっても防げなかった理由と、ローカルバックアップが救世主となった経験から学ぶ、AI時代の新しいバックアップ戦略。",
+        "en": "A real case of 38 articles data corruption in AI collaborative development. Learn from our experience why GitHub couldn't prevent it and how local backups became our savior, leading to a new backup strategy for the AI era."
+      }
+    },
+    {
+      "id": "ai-collaboration-confirmation-rule",
+      "slug": "ai-collaboration-confirmation-rule",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 8,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AI開発",
+          "開発プロセス",
+          "チーム開発",
+          "ベストプラクティス"
+        ],
+        "en": [
+          "AI Development",
+          "Development Process",
+          "Team Development",
+          "Best Practices"
+        ]
+      },
+      "title": {
+        "ja": "AIとの協働開発で失敗しないための「確認必須ルール」",
+        "en": "The Essential Confirmation Rule for Successful AI Collaboration"
+      },
+      "excerpt": {
+        "ja": "AIがページネーション機能を削除した事例から学ぶ、人間の経験則をAIに伝える方法。実際の失敗事例と、それを防ぐための確認プロセスを紹介します。",
+        "en": "Learn from a real case where AI deleted pagination functionality. Discover how to communicate human experience to AI and implement confirmation processes to prevent such issues."
+      }
+    },
+    {
+      "id": "ai-design-system-paradox",
+      "slug": "ai-design-system-paradox",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "readingTime": 12,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AI開発",
+          "デザインシステム",
+          "技術的負債",
+          "Claude",
+          "人間とAIの協働",
+          "ソフトウェア設計"
+        ],
+        "en": [
+          "AI Development",
+          "Design Systems",
+          "Technical Debt",
+          "Claude",
+          "Human-AI Collaboration",
+          "Software Design"
+        ]
+      },
+      "title": {
+        "ja": "AIが陥る設計パラドックス\n〜デザインシステムを作りながら使わない不思議〜",
+        "en": "The AI Design Paradox\n- Creating Design Systems While Ignoring Them -"
+      },
+      "excerpt": {
+        "ja": "AI（Claude）が自らデザインシステムを構築しながら、実装時にはそれを無視して直接的な解決策を選んでしまった実例。AIの局所最適化傾向と、人間との協働における重要な示唆を探る。",
+        "en": "A real case where AI (Claude) built a design system but ignored it during implementation, choosing direct solutions instead. Exploring AI's tendency for local optimization and important insights for human-AI collaboration."
+      }
+    },
+    {
+      "id": "ai-document-trust-paradox",
+      "slug": "ai-document-trust-paradox",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 12,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "認知バイアス",
+          "ドキュメント管理",
+          "AI特性",
+          "実例分析"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Cognitive Bias",
+          "Document Management",
+          "AI Characteristics",
+          "Case Study"
+        ]
+      },
+      "title": {
+        "ja": "AIがドキュメントを信頼しすぎる理由：\nカレンダーより文書を信じるパラドックス",
+        "en": "Why AI Over-Trusts Documentation:\nThe Paradox of Believing Documents Over Calendars"
+      },
+      "excerpt": {
+        "ja": "「今日は6月なのに、ドキュメントに1月と書いてあるから1月だ」とAIが判断した実例から、AIの情報処理の特性と、人間との根本的な違いを解説します。",
+        "en": "From a real case where AI concluded \"It's January because the document says so, even though it's June,\" we explore AI's information processing characteristics and fundamental differences from humans."
+      }
+    },
+    {
+      "id": "ai-proactive-refactoring-dialogue",
+      "slug": "ai-proactive-refactoring-dialogue",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "difficulty": "advanced",
+      "readingTime": 12,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "リファクタリング",
+          "対話型開発",
+          "品質向上",
+          "ベストプラクティス"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Refactoring",
+          "Interactive Development",
+          "Quality Improvement",
+          "Best Practices"
+        ]
+      },
+      "title": {
+        "ja": "AIとの対話的リファクタリング：質問と確認で品質を守る",
+        "en": "Interactive Refactoring with AI: Ensuring Quality Through Questions and Confirmations"
+      },
+      "excerpt": {
+        "ja": "AIが矛盾やリスクを察知して質問することで、より安全で効率的なリファクタリングを実現する方法を解説します。",
+        "en": "Learn how AI can detect contradictions and risks, asking questions to achieve safer and more efficient refactoring."
+      }
+    },
+    {
+      "id": "ai-scalability-blind-spot",
+      "slug": "ai-scalability-blind-spot",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 7,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI開発",
+          "スケーラビリティ",
+          "設計パターン",
+          "Claude",
+          "ChatGPT"
+        ],
+        "en": [
+          "AI Development",
+          "Scalability",
+          "Design Patterns",
+          "Claude",
+          "ChatGPT"
+        ]
+      },
+      "title": {
+        "ja": "AIの思考パターンの癖：なぜスケーラビリティに気づきにくいのか",
+        "en": "AI Thinking Pattern Quirks: Why Scalability Issues Go Unnoticed"
+      },
+      "excerpt": {
+        "ja": "NEWSとTIPS実装時の経験から学ぶ、AIがスケーラビリティの問題を見逃しやすい理由と、より良い設計を引き出すための対策を解説します。",
+        "en": "Learn why AI tends to overlook scalability issues and how to guide it toward better design decisions, based on real implementation experiences."
+      }
+    },
+    {
+      "id": "ai-visual-communication-gap",
+      "slug": "ai-visual-communication-gap",
+      "date": "2025-06-16",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "コミュニケーション",
+          "UI/UX",
+          "デザイン調整",
+          "開発効率"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Communication",
+          "UI/UX",
+          "Design Adjustment",
+          "Development Efficiency"
+        ]
+      },
+      "title": {
+        "ja": "AIとの視覚的コミュニケーションギャップを埋める実践的ノウハウ",
+        "en": "Practical Know-how for Bridging Visual Communication Gaps with AI"
+      },
+      "excerpt": {
+        "ja": "「見る」能力を持たないAIとデザイン調整を行う際の課題と、効率的なコミュニケーション方法を実例を交えて解説します。",
+        "en": "Explore challenges and efficient communication methods when working on design adjustments with AI that lacks visual perception capabilities."
+      }
+    },
+    {
+      "id": "aieo-content-analysis",
+      "slug": "aieo-content-analysis",
+      "date": "2025-06-16",
+      "category": "aieo",
+      "difficulty": "advanced",
+      "readingTime": 6,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIEO",
+          "コンテンツ分析",
+          "AI学習",
+          "メタ認知",
+          "構造化データ"
+        ],
+        "en": [
+          "AIEO",
+          "Content Analysis",
+          "AI Learning",
+          "Metacognition",
+          "Structured Data"
+        ]
+      },
+      "title": {
+        "ja": "AIEO視点でのコンテンツ分析：AIが学習しやすい記事の書き方",
+        "en": "Content Analysis from AIEO Perspective: Writing Articles AI Can Learn From"
+      },
+      "excerpt": {
+        "ja": "「AIの思考パターンの癖」記事を題材に、AI Engine Optimization（AIEO）の観点から、AIが理解・学習しやすいコンテンツの特徴を分析します。",
+        "en": "Analyzing characteristics of AI-friendly content from an AIEO perspective, using the 'AI Thinking Pattern Quirks' article as a case study."
+      }
+    },
+    {
+      "id": "claude-code-aws-bedrock-enterprise",
+      "slug": "claude-code-aws-bedrock-enterprise-setup",
+      "date": "2025-06-16",
+      "category": "enterprise",
+      "readingTime": 10,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "AWS Bedrock",
+          "エンタープライズ",
+          "東京リージョン",
+          "AI開発"
+        ],
+        "en": [
+          "Claude Code",
+          "AWS Bedrock",
+          "Enterprise",
+          "Tokyo Region",
+          "AI Development"
+        ]
+      },
+      "title": {
+        "ja": "【大企業向け】AWS Bedrock経由でClaude Codeを安全に活用する方法\n〜東京リージョンでのセキュアなAI開発支援〜",
+        "en": "Enterprise Guide: Using Claude Code Securely via AWS Bedrock\n- Secure AI Development Support in Tokyo Region -"
+      },
+      "excerpt": {
+        "ja": "大企業のセキュリティ要件を満たしながら、AWS Bedrock（東京リージョン）経由でClaude Codeを活用する方法を解説。Claude 3.5 SonnetとClaude Sonnet 4の設定手順を詳しく紹介します。",
+        "en": "Learn how to leverage Claude Code via AWS Bedrock (Tokyo region) while meeting enterprise security requirements. Detailed setup procedures for Claude 3.5 Sonnet and Claude Sonnet 4."
+      }
+    },
+    {
+      "id": "seo-vs-aieo-faq-strategy",
+      "slug": "seo-vs-aieo-faq-strategy",
+      "date": "2025-06-16",
+      "category": "aieo",
+      "difficulty": "intermediate",
+      "readingTime": 10,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIEO",
+          "SEO",
+          "FAQ戦略",
+          "構造化データ",
+          "コンテンツ戦略"
+        ],
+        "en": [
+          "AIEO",
+          "SEO",
+          "FAQ Strategy",
+          "Structured Data",
+          "Content Strategy"
+        ]
+      },
+      "title": {
+        "ja": "SEOとAIEOの決定的な違い：\nFAQ戦略の正しい使い方",
+        "en": "The Key Difference Between SEO and AIEO:\nProper FAQ Strategy Implementation"
+      },
+      "excerpt": {
+        "ja": "AIEOでFAQが重要とされる理由と、すべてのページに無理やりFAQを追加することの問題点について解説。質より量を重視した適切なFAQ戦略を紹介します。",
+        "en": "Understanding why FAQs are crucial for AIEO and the problems with forcing FAQs on every page. Learn the proper FAQ strategy that prioritizes quality over quantity."
+      }
+    },
+    {
+      "id": "technical-debt-case-study",
+      "slug": "technical-debt-case-study-static-site-one-week",
+      "date": "2025-06-16",
+      "category": "case-study",
+      "difficulty": "intermediate",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "Next.js",
+          "技術的負債",
+          "リファクタリング",
+          "静的サイト",
+          "開発事例",
+          "アーキテクチャ"
+        ],
+        "en": [
+          "Next.js",
+          "Technical Debt",
+          "Refactoring",
+          "Static Site",
+          "Case Study",
+          "Architecture"
+        ]
+      },
+      "title": {
+        "ja": "【開発事例】静的サイトで1週間で技術的負債が発生\n〜急速開発がもたらした予想外のリファクタリング〜",
+        "en": "Case Study: Technical Debt in a Static Site After Just One Week\n- Unexpected Refactoring from Rapid Development -"
+      },
+      "excerpt": {
+        "ja": "Next.jsで構築した静的サイトが、わずか1週間で大規模リファクタリングが必要になった実例。70記事以上のコンテンツと15種類のページを急速開発した結果、何が起きたのか。",
+        "en": "A real-world example of a Next.js static site requiring major refactoring after just one week. What happened when we rapidly developed over 70 articles and 15 different pages?"
+      }
+    },
+    {
+      "id": "ai-business-automation",
+      "slug": "ai-business-automation",
+      "date": "2025-06-15",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI活用",
+          "業務自動化",
+          "DX",
+          "生産性向上",
+          "ChatGPT"
+        ],
+        "en": [
+          "AI Utilization",
+          "Business Automation",
+          "DX",
+          "Productivity",
+          "ChatGPT"
+        ]
+      },
+      "title": {
+        "ja": "生成AIを活用した業務自動化の実践ガイド",
+        "en": "Practical Guide to Business Automation with Generative AI"
+      },
+      "excerpt": {
+        "ja": "ChatGPT、Claude、Geminiなどの生成AIを活用して業務を自動化する実践的な方法を解説。導入事例と具体的な実装手順を紹介します。",
+        "en": "Learn practical methods to automate business processes using generative AI like ChatGPT, Claude, and Gemini. Includes implementation examples and case studies."
+      }
+    },
+    {
+      "id": "aieo-optimization",
+      "slug": "aieo-optimization",
+      "date": "2025-06-15",
+      "category": "aieo",
+      "difficulty": "advanced",
+      "readingTime": 10,
+      "featured": true,
+      "tags": [
+        "AIEO",
+        "AI",
+        "SEO",
+        "ChatGPT",
+        "Claude"
+      ],
+      "title": {
+        "ja": "AIEO（AI Engine Optimization）完全ガイド：SEOとの違いと実装方法",
+        "en": "Complete Guide to AIEO (AI Engine Optimization): Differences from SEO and Implementation"
+      },
+      "excerpt": {
+        "ja": "ChatGPT、Claude、Perplexityなどの AI検索エンジンに最適化するAIEOの重要要素、SEOとの違い、具体的な実装方法を解説します。",
+        "en": "Learn about the key elements of AIEO for optimizing content for AI search engines like ChatGPT, Claude, and Perplexity, how it differs from SEO, and implementation methods."
+      }
+    },
+    {
+      "id": "claude-code-project-setup",
+      "slug": "claude-code-project-setup",
+      "date": "2025-06-15",
+      "category": "claude-code",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "AI開発",
+          "プロジェクト設定",
+          "効率化"
+        ],
+        "en": [
+          "Claude Code",
+          "AI Development",
+          "Project Setup",
+          "Efficiency"
+        ]
+      },
+      "title": {
+        "ja": "Claude Codeでプロジェクトを効率的にセットアップする方法",
+        "en": "How to Efficiently Set Up Projects with Claude Code"
+      },
+      "excerpt": {
+        "ja": "Claude Codeを使ってプロジェクトのセットアップを自動化し、開発効率を大幅に向上させる方法を解説します。",
+        "en": "Learn how to automate project setup using Claude Code and significantly improve your development efficiency."
+      }
+    },
+    {
+      "id": "aieo-implementation-guide",
+      "slug": "aieo-implementation-guide",
+      "date": "2025-06-13",
+      "category": "aieo",
+      "difficulty": "advanced",
+      "readingTime": 10,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIEO",
+          "ChatGPT",
+          "SEO",
+          "構造化データ",
+          "Schema.org"
+        ],
+        "en": [
+          "AIEO",
+          "ChatGPT",
+          "SEO",
+          "Structured Data",
+          "Schema.org"
+        ]
+      },
+      "title": {
+        "ja": "AIEO（AI Engine Optimization）実装の完全ガイド",
+        "en": "Complete Guide to AIEO (AI Engine Optimization) Implementation"
+      },
+      "excerpt": {
+        "ja": "ChatGPT、Claude、PerplexityなどのAIエンジンに最適化されたWebサイトを構築するための実践的な実装方法を解説します。",
+        "en": "Learn practical implementation methods for building websites optimized for AI engines like ChatGPT, Claude, and Perplexity."
+      }
+    }
+  ]
+}

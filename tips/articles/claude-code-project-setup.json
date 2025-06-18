@@ -1,0 +1,34 @@
+{
+  "id": "claude-code-project-setup",
+  "slug": "claude-code-project-setup",
+  "date": "2025-06-15",
+  "category": "claude-code",
+  "difficulty": "beginner",
+  "readingTime": 5,
+  "tags": {
+    "ja": [
+      "Claude Code",
+      "AI開発",
+      "プロジェクト設定",
+      "効率化"
+    ],
+    "en": [
+      "Claude Code",
+      "AI Development",
+      "Project Setup",
+      "Efficiency"
+    ]
+  },
+  "title": {
+    "ja": "Claude Codeでプロジェクトを効率的にセットアップする方法",
+    "en": "How to Efficiently Set Up Projects with Claude Code"
+  },
+  "excerpt": {
+    "ja": "Claude Codeを使ってプロジェクトのセットアップを自動化し、開発効率を大幅に向上させる方法を解説します。",
+    "en": "Learn how to automate project setup using Claude Code and significantly improve your development efficiency."
+  },
+  "content": {
+    "ja": "## はじめに\n\nClaude Codeは、AIとの対話を通じてコーディングを行える革新的なツールです。本記事では、Claude Codeを使ってプロジェクトのセットアップを効率化する方法を紹介します。\n\n## 準備\n\n### 必要なもの\n- Claude Codeへのアクセス\n- プロジェクトの要件が明確になっていること\n- 基本的なプロジェクト構造の理解\n\n## 効率的なプロジェクトセットアップの手順\n\n### 1. プロジェクト要件の明確化\n\nClaude Codeに指示を出す前に、以下を明確にしておきましょう：\n\n```\n- プロジェクト名\n- 使用する技術スタック\n- 必要な機能一覧\n- ディレクトリ構造の希望\n```\n\n### 2. 構造化された指示の作成\n\n効果的な指示の例：\n\n```\n「Next.js 14（App Router）とTypeScriptを使って、\n多言語対応のコーポレートサイトを作成してください。\n以下の機能を含めてください：\n- お問い合わせフォーム（メール送信機能付き）\n- ニュース投稿機能\n- レスポンシブデザイン\n```\n\n### 3. 段階的な実装\n\n大きなプロジェクトは段階的に実装することで、エラーを最小限に抑えられます：\n\n1. **基本構造の作成**\n   ```\n   「まず基本的なプロジェクト構造を作成してください」\n   ```\n\n2. **コア機能の実装**\n   ```\n   「次にルーティングとレイアウトを実装してください」\n   ```\n\n3. **個別機能の追加**\n   ```\n   「お問い合わせフォームを追加してください」\n   ```\n\n## ベストプラクティス\n\n### 1. CLAUDE.mdファイルの活用\n\nプロジェクトのルートに`CLAUDE.md`ファイルを作成し、プロジェクト固有の指示を記載しておくと、Claude Codeが自動的に参照します。\n\n```markdown\n# プロジェクト規約\n\n## コーディング規約\n- TypeScriptのstrictモードを使用\n- 関数コンポーネントのみ使用\n- Tailwind CSSでスタイリング\n\n## ディレクトリ構造\n- コンポーネントは/components配下\n- ユーティリティは/lib配下\n```\n\n### 2. エラーハンドリング\n\nエラーが発生した場合は、具体的なエラーメッセージをClaude Codeに伝えることで、適切な解決策を提案してもらえます。\n\n### 3. コードレビューの依頼\n\n実装後は以下のような依頼が効果的です：\n\n```\n「実装したコードのセキュリティとパフォーマンスの観点からレビューしてください」\n```\n\n## 高度な活用方法\n\n### 1. テンプレートの作成\n\n頻繁に使用するプロジェクト構成をテンプレート化：\n\n```\n「このプロジェクト構成をテンプレート化して、\n 再利用できるようにドキュメント化してください」\n```\n\n### 2. 自動化スクリプトの生成\n\n```\n「プロジェクトセットアップを自動化する\n シェルスクリプトを作成してください」\n```\n\n## まとめ\n\nClaude Codeを効果的に活用することで、プロジェクトのセットアップ時間を大幅に短縮できます。明確な指示と段階的なアプローチを心がけることで、高品質なコードベースを素早く構築できるでしょう。\n\n## 関連リソース\n\n- [Claude Code公式ドキュメント](https://docs.anthropic.com/claude-code)\n- [効果的なプロンプトの書き方](https://docs.anthropic.com/prompting)\n\n---\n\n**注意**: Claude Codeは常に進化しているため、最新の機能については公式ドキュメントを確認してください。",
+    "en": "## Introduction\n\nClaude Code is an innovative tool that enables coding through AI conversation. This article introduces methods to streamline project setup using Claude Code.\n\n## Prerequisites\n\n### What You Need\n- Access to Claude Code\n- Clear project requirements\n- Basic understanding of project structure\n\n## Steps for Efficient Project Setup\n\n### 1. Clarifying Project Requirements\n\nBefore giving instructions to Claude Code, clarify the following:\n\n```\n- Project name\n- Technology stack to use\n- List of required features\n- Desired directory structure\n```\n\n### 2. Creating Structured Instructions\n\nExample of effective instructions:\n\n```\n\"Create a multilingual corporate website using Next.js 14 (App Router) and TypeScript.\nInclude the following features:\n- Contact form with email functionality\n- News posting feature\n- Responsive design\n```\n\n### 3. Phased Implementation\n\nImplementing large projects in phases minimizes errors:\n\n1. **Create basic structure**\n   ```\n   \"First, create the basic project structure\"\n   ```\n\n2. **Implement core features**\n   ```\n   \"Next, implement routing and layouts\"\n   ```\n\n3. **Add individual features**\n   ```\n   \"Add the contact form\"\n   ```\n\n## Best Practices\n\n### 1. Utilizing CLAUDE.md Files\n\nCreate a `CLAUDE.md` file in your project root with project-specific instructions. Claude Code will automatically reference this.\n\n```markdown\n# Project Guidelines\n\n## Coding Standards\n- Use TypeScript strict mode\n- Use function components only\n- Style with Tailwind CSS\n\n## Directory Structure\n- Components in /components\n- Utilities in /lib\n```\n\n### 2. Error Handling\n\nWhen errors occur, provide specific error messages to Claude Code for appropriate solutions.\n\n### 3. Requesting Code Reviews\n\nEffective requests after implementation:\n\n```\n\"Please review the implemented code from security and performance perspectives\"\n```\n\n## Advanced Usage\n\n### 1. Creating Templates\n\nTemplate frequently used project configurations:\n\n```\n\"Document this project configuration as a template\n for reuse\"\n```\n\n### 2. Generating Automation Scripts\n\n```\n\"Create a shell script to automate\n project setup\"\n```\n\n## Conclusion\n\nEffectively utilizing Claude Code can significantly reduce project setup time. Clear instructions and a phased approach enable rapid construction of high-quality codebases.\n\n## Related Resources\n\n- [Claude Code Official Documentation](https://docs.anthropic.com/claude-code)\n- [How to Write Effective Prompts](https://docs.anthropic.com/prompting)\n\n---\n\n**Note**: Claude Code is constantly evolving, so check the official documentation for the latest features."
+  }
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "aieo-optimization",
+    "titleKey": "tips.items.aieooptimization.title",
+    "excerptKey": "tips.items.aieooptimization.excerpt",
+    "contentKey": "tips.items.aieooptimization.content",
+    "category": "ai",
+    "difficulty": "advanced",
+    "date": "2025-06-15",
+    "readingTime": 10,
+    "featured": true,
+    "tags": [
+      "AIEO",
+      "AI",
+      "SEO",
+      "ChatGPT",
+      "Claude"
+    ]
+  },
+  {
+    "id": "ai-business-automation",
+    "date": "2025-06-15",
+    "category": "ai",
+    "titleKey": "tips.items.aibusinessautomation.title",
+    "excerptKey": "tips.items.aibusinessautomation.excerpt",
+    "contentKey": "tips.items.aibusinessautomation.content",
+    "tags": {
+      "ja": [
+        "AI活用",
+        "業務自動化",
+        "DX",
+        "生産性向上",
+        "ChatGPT"
+      ],
+      "en": [
+        "AI Utilization",
+        "Business Automation",
+        "DX",
+        "Productivity",
+        "ChatGPT"
+      ]
+    },
+    "readingTime": 8,
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "claude-code-project-setup",
+    "date": "2025-06-15",
+    "category": "ai",
+    "titleKey": "tips.items.claudecodesetup.title",
+    "excerptKey": "tips.items.claudecodesetup.excerpt",
+    "contentKey": "tips.items.claudecodesetup.content",
+    "tags": {
+      "ja": [
+        "Claude Code",
+        "AI開発",
+        "プロジェクト設定",
+        "効率化"
+      ],
+      "en": [
+        "Claude Code",
+        "AI Development",
+        "Project Setup",
+        "Efficiency"
+      ]
+    },
+    "readingTime": 5,
+    "difficulty": "beginner"
+  },
+  {
+    "id": "nextjs-seo-best-practices",
+    "date": "2025-06-14",
+    "category": "frontend",
+    "titleKey": "tips.items.nextjsseo.title",
+    "excerptKey": "tips.items.nextjsseo.excerpt",
+    "contentKey": "tips.items.nextjsseo.content",
+    "tags": {
+      "ja": [
+        "Next.js",
+        "SEO",
+        "メタデータ",
+        "構造化データ"
+      ],
+      "en": [
+        "Next.js",
+        "SEO",
+        "Metadata",
+        "Structured Data"
+      ]
+    },
+    "readingTime": 8,
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "aieo-implementation-guide",
+    "date": "2025-06-13",
+    "category": "ai",
+    "titleKey": "tips.items.aieoguide.title",
+    "excerptKey": "tips.items.aieoguide.excerpt",
+    "contentKey": "tips.items.aieoguide.content",
+    "tags": {
+      "ja": [
+        "AIEO",
+        "ChatGPT",
+        "SEO",
+        "構造化データ",
+        "Schema.org"
+      ],
+      "en": [
+        "AIEO",
+        "ChatGPT",
+        "SEO",
+        "Structured Data",
+        "Schema.org"
+      ]
+    },
+    "readingTime": 10,
+    "difficulty": "advanced"
+  },
+  {
+    "id": "typescript-strict-mode",
+    "date": "2025-06-12",
+    "category": "backend",
+    "titleKey": "tips.items.typescriptstrict.title",
+    "excerptKey": "tips.items.typescriptstrict.excerpt",
+    "contentKey": "tips.items.typescriptstrict.content",
+    "tags": {
+      "ja": [
+        "TypeScript",
+        "型安全",
+        "ベストプラクティス",
+        "コード品質"
+      ],
+      "en": [
+        "TypeScript",
+        "Type Safety",
+        "Best Practices",
+        "Code Quality"
+      ]
+    },
+    "readingTime": 6,
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "git-workflow-automation",
+    "date": "2025-06-11",
+    "category": "devtools",
+    "titleKey": "tips.items.gitworkflow.title",
+    "excerptKey": "tips.items.gitworkflow.excerpt",
+    "contentKey": "tips.items.gitworkflow.content",
+    "tags": {
+      "ja": [
+        "Git",
+        "自動化",
+        "CI/CD",
+        "開発効率"
+      ],
+      "en": [
+        "Git",
+        "Automation",
+        "CI/CD",
+        "Development Efficiency"
+      ]
+    },
+    "readingTime": 7,
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "nextjs-intl-translation-keys",
+    "date": "2025-06-15",
+    "category": "frontend",
+    "titleKey": "tips.items.nextjsintl.title",
+    "excerptKey": "tips.items.nextjsintl.excerpt",
+    "contentKey": "tips.items.nextjsintl.content",
+    "tags": {
+      "ja": [
+        "Next.js",
+        "next-intl",
+        "多言語対応",
+        "翻訳",
+        "トラブルシューティング"
+      ],
+      "en": [
+        "Next.js",
+        "next-intl",
+        "i18n",
+        "Translation",
+        "Troubleshooting"
+      ]
+    },
+    "readingTime": 5,
+    "difficulty": "intermediate"
+  }
+]

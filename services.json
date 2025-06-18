@@ -1,0 +1,155 @@
+[
+  {
+    "id": "branding",
+    "category": "design",
+    "icon": "Palette",
+    "titleKey": "services.items.branding.title",
+    "descriptionKey": "services.items.branding.description",
+    "featuresKey": "services.items.branding.features",
+    "detailsKey": "services.items.branding.details",
+    "active": true,
+    "order": 1,
+    "caseStudies": ["techventure-branding"],
+    "pricing": {
+      "type": "project",
+      "range": {
+        "min": 500000,
+        "max": 3000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 4,
+      "max": 12,
+      "unit": "weeks"
+    }
+  },
+  {
+    "id": "webDev",
+    "category": "development",
+    "icon": "Code",
+    "titleKey": "services.items.webDev.title",
+    "descriptionKey": "services.items.webDev.description",
+    "featuresKey": "services.items.webDev.features",
+    "detailsKey": "services.items.webDev.details",
+    "active": true,
+    "order": 2,
+    "technologies": ["Next.js", "React", "TypeScript", "Node.js"],
+    "caseStudies": ["fashion-forward-ec", "cloudworks-saas", "global-consulting-web"],
+    "pricing": {
+      "type": "project",
+      "range": {
+        "min": 1000000,
+        "max": 5000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 6,
+      "max": 16,
+      "unit": "weeks"
+    }
+  },
+  {
+    "id": "appDev",
+    "category": "development",
+    "icon": "Smartphone",
+    "titleKey": "services.items.appDev.title",
+    "descriptionKey": "services.items.appDev.description",
+    "featuresKey": "services.items.appDev.features",
+    "detailsKey": "services.items.appDev.details",
+    "active": true,
+    "order": 3,
+    "technologies": ["React Native", "Flutter", "Swift", "Kotlin"],
+    "caseStudies": ["healthtech-app", "fintech-app"],
+    "pricing": {
+      "type": "project",
+      "range": {
+        "min": 2000000,
+        "max": 10000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 12,
+      "max": 24,
+      "unit": "weeks"
+    }
+  },
+  {
+    "id": "marketing",
+    "category": "marketing",
+    "icon": "TrendingUp",
+    "titleKey": "services.items.marketing.title",
+    "descriptionKey": "services.items.marketing.description",
+    "featuresKey": "services.items.marketing.features",
+    "detailsKey": "services.items.marketing.details",
+    "active": true,
+    "order": 4,
+    "caseStudies": [],
+    "pricing": {
+      "type": "monthly",
+      "range": {
+        "min": 200000,
+        "max": 1000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 3,
+      "max": 12,
+      "unit": "months"
+    }
+  },
+  {
+    "id": "aiConsulting",
+    "category": "consulting",
+    "icon": "Sparkles",
+    "titleKey": "services.items.aiConsulting.title",
+    "descriptionKey": "services.items.aiConsulting.description",
+    "featuresKey": "services.items.aiConsulting.features",
+    "detailsKey": "services.items.aiConsulting.details",
+    "active": true,
+    "order": 5,
+    "technologies": ["OpenAI", "LangChain", "Python", "TensorFlow"],
+    "caseStudies": [],
+    "pricing": {
+      "type": "project",
+      "range": {
+        "min": 1000000,
+        "max": 8000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 4,
+      "max": 20,
+      "unit": "weeks"
+    }
+  },
+  {
+    "id": "dxSupport",
+    "category": "consulting",
+    "icon": "Zap",
+    "titleKey": "services.items.dxSupport.title",
+    "descriptionKey": "services.items.dxSupport.description",
+    "featuresKey": "services.items.dxSupport.features",
+    "detailsKey": "services.items.dxSupport.details",
+    "active": true,
+    "order": 6,
+    "caseStudies": [],
+    "pricing": {
+      "type": "project",
+      "range": {
+        "min": 500000,
+        "max": 3000000,
+        "currency": "JPY"
+      }
+    },
+    "duration": {
+      "min": 2,
+      "max": 8,
+      "unit": "weeks"
+    }
+  }
+]

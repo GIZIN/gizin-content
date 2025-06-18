@@ -1,0 +1,33 @@
+{
+  "id": "ga4-campaign-automation",
+  "slug": "ga4-campaign-automation",
+  "date": "2025-06-09",
+  "category": "announcement",
+  "image": null,
+  "tags": {
+    "ja": [
+      "お知らせ",
+      "オープンソース",
+      "自動化ツール",
+      "GA4"
+    ],
+    "en": [
+      "Announcement",
+      "Open Source",
+      "Automation Tool",
+      "GA4"
+    ]
+  },
+  "title": {
+    "ja": "GA4 Campaign Automationツールをオープンソースで公開",
+    "en": "GA4 Campaign Automation Tool Released as Open Source"
+  },
+  "excerpt": {
+    "ja": "紙の広告（チラシ、ポスター等）の効果測定をGoogle Analytics 4で自動化するシステムをGitHubで公開しました。",
+    "en": "We've released a system on GitHub that automatically tracks print advertising effectiveness using Google Analytics 4."
+  },
+  "content": {
+    "ja": "ギジン株式会社は、紙の広告効果測定を自動化する「GA4 Campaign Automation」ツールをオープンソースソフトウェアとしてGitHubで公開いたしました。\n\n## ツール概要\n\nこのツールは、紙の広告（チラシ、ポスター等）にQRコードを掲載し、その効果測定をGoogle Analytics 4で自動的に行うシステムです。UTMパラメータ付きのQRコードを生成し、キャンペーンの効果を詳細に追跡できます。\n\n## 主な機能\n\n### 1. QRコード自動生成\n- UTMトラッキングパラメータ付きQRコード作成\n- 様々なキャンペーンタイプに対応（アプリダウンロード、Eコマース、リード獲得）\n- カスタマイズ可能なQRコードデザイン\n\n### 2. GA4設定の自動化\n- カスタムディメンションの自動設定\n- 拡張計測機能の有効化\n- データ保持期間の設定（14ヶ月）\n- Google Tag Manager（GTM）セットアップヘルパー\n\n### 3. レポート機能\n- 日次・期間レポートの自動生成\n- 主要指標の追跡：\n  - セッション数\n  - ユニークユーザー数\n  - コンバージョンイベント\n  - 獲得単価（CPA）\n\n### 4. 技術要件\n- Python 3.9以上\n- Google Cloud Platformアカウント\n- Google Analytics 4プロパティ\n\n## 解決する課題\n\n従来、紙の広告の効果測定は困難でしたが、このツールを使用することで：\n- オフライン広告のオンライン効果を正確に測定\n- 複雑なGA4設定を自動化\n- マーケティングROIの可視化\n\n## GitHubリポジトリ\n\nソースコードは以下のGitHubリポジトリで公開しています：\n[https://github.com/GIZIN/ga4-campaign-automation](https://github.com/GIZIN/ga4-campaign-automation)\n\n## 今後の展開\n\n継続的な機能改善を行い、より使いやすいツールへと進化させていきます。コミュニティからのフィードバックや貢献も歓迎しています。\n\n## お問い合わせ\n\nツールに関するご質問や導入支援のご相談は、お気軽にお問い合わせください。",
+    "en": "Gizin Inc. has released 'GA4 Campaign Automation,' a tool that automates print advertising effectiveness measurement, as open source software on GitHub.\n\n## Tool Overview\n\nThis tool is a system that places QR codes on print advertisements (flyers, posters, etc.) and automatically measures their effectiveness using Google Analytics 4. It generates QR codes with UTM parameters and tracks campaign performance in detail.\n\n## Key Features\n\n### 1. Automatic QR Code Generation\n- Create QR codes with UTM tracking parameters\n- Support for various campaign types (app downloads, e-commerce, lead generation)\n- Customizable QR code designs\n\n### 2. GA4 Configuration Automation\n- Automatic custom dimension setup\n- Enable enhanced measurement features\n- Set data retention period (14 months)\n- Google Tag Manager (GTM) setup helper\n\n### 3. Reporting Capabilities\n- Automated daily and period report generation\n- Track key metrics:\n  - Sessions\n  - Unique users\n  - Conversion events\n  - Cost per acquisition (CPA)\n\n### 4. Technical Requirements\n- Python 3.9+\n- Google Cloud Platform account\n- Google Analytics 4 property\n\n## Problem Solved\n\nTraditionally, measuring print advertising effectiveness has been challenging. This tool enables:\n- Accurate measurement of offline advertising's online impact\n- Automation of complex GA4 configurations\n- Visualization of marketing ROI\n\n## GitHub Repository\n\nThe source code is available on the following GitHub repository:\n[https://github.com/GIZIN/ga4-campaign-automation](https://github.com/GIZIN/ga4-campaign-automation)\n\n## Future Development\n\nWe will continue to improve features and evolve it into an even more user-friendly tool. We welcome feedback and contributions from the community.\n\n## Contact Us\n\nPlease feel free to contact us with any questions about the tool or for implementation support."
+  }
+}

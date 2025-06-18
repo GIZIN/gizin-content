@@ -1,0 +1,15 @@
+{
+  "id": "claude-code-permissions-settings",
+  "date": "2025-06-18",
+  "category": "claude-code",
+  "difficulty": "beginner",
+  "tags": ["Claude Code", "効率化", "設定", "permissions"],
+  "versions": {
+    "ja": {
+      "title": "Claude Codeでよく使うコマンドを確認なしで実行する方法",
+      "description": "~/.claude/settings.jsonで権限設定を行うことで、開発効率を大幅に向上させる方法を解説します。",
+      "cta": "開発効率を向上させる",
+      "content": "## Claude Codeの権限設定で開発効率を劇的に向上\n\nClaude Codeを使っていて、「このコマンドを実行してもよろしいですか？」という確認が煩わしいと感じたことはありませんか？\n\n実は、`~/.claude/settings.json`ファイルで権限を事前に設定することで、よく使うコマンドを確認なしで実行できるようになります。\n\n## 設定方法\n\n### 1. settings.jsonファイルの作成・編集\n\n```bash\n# ディレクトリが存在しない場合は作成\nmkdir -p ~/.claude\n\n# settings.jsonを編集\ncode ~/.claude/settings.json\n```\n\n### 2. 基本的な設定例\n\n```json\n{\n  \"model\": \"opus\",\n  \"permissions\": {\n    \"allow\": [\n      \"Bash(git:*)\",\n      \"Bash(ls:*)\",\n      \"Bash(npm:*)\",\n      \"WebFetch(domain:github.com)\"\n    ],\n    \"deny\": []\n  }\n}\n```\n\n## おすすめの権限設定\n\n### 開発でよく使うコマンド\n\n```json\n{\n  \"model\": \"opus\",\n  \"permissions\": {\n    \"allow\": [\n      // バージョン管理\n      \"Bash(git:*)\",\n      \n      // ファイル操作\n      \"Bash(ls:*)\",\n      \"Bash(cat:*)\",\n      \"Bash(pwd:*)\",\n      \"Bash(cd:*)\",\n      \n      // 検索系\n      \"Bash(find:*)\",\n      \"Bash(grep:*)\",\n      \"Bash(rg:*)\",     // ripgrep（高速検索）\n      \n      // 開発ツール\n      \"Bash(npm:*)\",\n      \"Bash(node:*)\",\n      \"Bash(python:*)\",\n      \"Bash(make:*)\",\n      \n      // ユーティリティ\n      \"Bash(jq:*)\",     // JSON処理\n      \"Bash(curl:*)\",   // API通信\n      \"Bash(echo:*)\",   // 出力確認\n      \n      // デプロイ関連\n      \"Bash(vercel:*)\", // Vercel CLI\n      \"Bash(gh:*)\",     // GitHub CLI\n      \n      // Web参照\n      \"WebFetch(domain:github.com)\",\n      \"WebFetch(domain:vercel.com)\",\n      \"WebFetch(domain:docs.anthropic.com)\",\n      \"WebFetch(domain:stackoverflow.com)\",\n      \"WebFetch(domain:developer.mozilla.org)\",\n      \"WebFetch(domain:npmjs.com)\",\n      \"WebFetch(domain:nextjs.org)\"\n    ],\n    \"deny\": []\n  }\n}\n```\n\n## 権限設定のメリット\n\n### 1. 開発スピードの向上\n- 確認ダイアログが表示されない\n- 思考の流れが途切れない\n- 複数のコマンドを連続実行可能\n\n### 2. 安全性の確保\n- 許可したコマンドのみ実行可能\n- 危険なコマンドは明示的に除外\n- プロジェクトごとに設定可能\n\n### 3. 作業効率の改善\n- よく使うコマンドをプリセット化\n- チーム内で設定を共有可能\n- 作業ログが見やすくなる\n\n## 設定のポイント\n\n### ワイルドカード（*）の使い方\n\n```json\n\"Bash(git:*)\"     // gitの全サブコマンドを許可\n\"Bash(git:add)\"   // git addのみ許可\n\"Bash(git:add,commit)\" // git addとcommitのみ許可\n```\n\n### ドメイン指定の例\n\n```json\n\"WebFetch(domain:*.github.com)\"  // GitHubの全サブドメイン\n\"WebFetch(domain:api.github.com)\" // 特定のサブドメインのみ\n```\n\n## 注意事項\n\n1. **セキュリティを考慮**\n   - `rm -rf`などの破壊的コマンドは避ける\n   - 本番環境での実行には注意\n\n2. **段階的に追加**\n   - 最初は基本的なコマンドから\n   - 必要に応じて追加していく\n\n3. **チーム開発の場合**\n   - チームで合意した設定を使用\n   - プロジェクトごとに設定を分ける\n\n## まとめ\n\n`~/.claude/settings.json`の権限設定は、Claude Codeの開発体験を大きく向上させる機能です。よく使うコマンドを事前に許可しておくことで、確認の手間を省き、スムーズな開発フローを実現できます。\n\n今すぐ設定を始めて、より快適な開発環境を手に入れましょう！"
+    }
+  }
+}
