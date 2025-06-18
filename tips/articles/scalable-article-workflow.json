@@ -1,7 +1,7 @@
 {
   "id": "scalable-article-workflow",
   "date": "2025-06-19",
-  "category": "ai-collaboration",
+  "category": "case-study",
   "difficulty": "intermediate",
   "readingTime": 8,
   "tags": ["Next.js", "GitHub", "CI/CD", "スケーラビリティ", "ワークフロー"],
