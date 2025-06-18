@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "id": "immediate-publish-test",
-      "slug": "immediate-publish-test",
-      "date": "2025-06-19",
-      "category": "ai-collaboration",
-      "difficulty": "beginner",
-      "readingTime": 1,
-      "featured": false,
-      "tags": [
-        "test"
-      ],
-      "title": {
-        "ja": "即時公開テスト",
-        "en": "即時公開テスト"
-      },
-      "excerpt": {
-        "ja": "gizin-contentをサブディレクトリに配置してテスト",
-        "en": "gizin-contentをサブディレクトリに配置してテスト"
-      }
-    },
-    {
       "id": "scalable-article-workflow",
       "slug": "scalable-article-workflow",
       "date": "2025-06-19",
@@ -42,26 +22,6 @@
       "excerpt": {
         "ja": "静的サイトジェネレーターの宿命であるビルド時間の増大。記事数に依存しない革新的なワークフローで、開発効率を劇的に改善した事例を紹介します。",
         "en": "The inevitable increase in build time for static site generators. Introducing a revolutionary workflow that doesn't depend on article count, dramatically improving development efficiency."
-      }
-    },
-    {
-      "id": "working-test",
-      "slug": "working-test",
-      "date": "2025-06-19",
-      "category": "ai-collaboration",
-      "difficulty": "beginner",
-      "readingTime": 1,
-      "featured": false,
-      "tags": [
-        "test"
-      ],
-      "title": {
-        "ja": "動作確認テスト",
-        "en": "動作確認テスト"
-      },
-      "excerpt": {
-        "ja": "今度こそ動くはず",
-        "en": "今度こそ動くはず"
       }
     },
     {
