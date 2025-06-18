@@ -1,0 +1,15 @@
+{
+  "id": "working-test",
+  "date": "2025-06-19",
+  "category": "ai-collaboration",
+  "difficulty": "beginner",
+  "readingTime": 1,
+  "tags": ["test"],
+  "versions": {
+    "ja": {
+      "title": "動作確認テスト",
+      "description": "今度こそ動くはず",
+      "content": "# 動作確認\n\nOn-demand Revalidationのテストです。\n\n時刻: 2025年6月19日 01:05"
+    }
+  }
+}
