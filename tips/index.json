@@ -1,10 +1,36 @@
 {
   "articles": [
     {
+      "id": "claude-code-safety-separation",
+      "slug": "claude-code-safety-separation",
+      "date": "2025-06-19",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 10,
+      "featured": false,
+      "tags": [
+        "Claude Code",
+        "権限管理",
+        "AI協働開発",
+        "セキュリティ",
+        "事故防止",
+        "CLAUDE.md",
+        "ベストプラクティス"
+      ],
+      "title": {
+        "ja": "Claude Codeの安全な運用：権限分離による事故防止策\n〜記事追加がシステム破壊を招いた日〜",
+        "en": "Safe Operation of Claude Code: Accident Prevention Through Permission Separation\n- The Day Article Addition Led to System Destruction"
+      },
+      "excerpt": {
+        "ja": "「記事を書いて」という指示でなぜdata-loader.tsが破壊されたのか。AI開発における権限分離の重要性と、CLAUDE.mdを使った実践的な事故防止策を解説。",
+        "en": "Why was data-loader.ts destroyed by a simple \"write an article\" instruction? Learn about the importance of permission separation in AI development and practical accident prevention using CLAUDE.md."
+      }
+    },
+    {
       "id": "scalable-article-workflow",
       "slug": "scalable-article-workflow",
       "date": "2025-06-19",
-      "category": "ai-collaboration",
+      "category": "case-study",
       "difficulty": "intermediate",
       "readingTime": 8,
       "featured": true,
