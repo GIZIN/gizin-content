@@ -27,6 +27,29 @@
       }
     },
     {
+      "id": "claude-memory-import-usage",
+      "slug": "claude-memory-import-usage",
+      "date": "2025-06-19",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "Claude Code",
+        "開発効率化",
+        "AI協働",
+        "設定管理"
+      ],
+      "title": {
+        "ja": "Claude Codeのユーザーメモリと@importの使い分け完全ガイド",
+        "en": "Complete Guide to Claude Code User Memory vs @import Usage"
+      },
+      "excerpt": {
+        "ja": "Claude Codeには2つの強力な設定管理機能があります。個人の作業スタイルを管理する「ユーザーメモリ」と、プロジェクト間で共有できる「@import」。これらを適切に使い分けることで、AI協働開発の効率が劇的に向上します。",
+        "en": "Claude Code has two powerful configuration management features: 'User Memory' for personal work styles and '@import' for sharing across projects. Learn how to use them effectively to dramatically improve your AI-assisted development efficiency."
+      }
+    },
+    {
       "id": "scalable-article-workflow",
       "slug": "scalable-article-workflow",
       "date": "2025-06-19",
