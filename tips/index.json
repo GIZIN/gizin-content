@@ -687,6 +687,30 @@
       }
     },
     {
+      "id": "aieo-optimization",
+      "slug": "aieo-optimization",
+      "date": "2025-06-15",
+      "category": "aieo",
+      "difficulty": "advanced",
+      "readingTime": 10,
+      "featured": true,
+      "tags": [
+        "AIEO",
+        "AI",
+        "SEO",
+        "ChatGPT",
+        "Claude"
+      ],
+      "title": {
+        "ja": "AIEO（AI Engine Optimization）完全ガイド：SEOとの違いと実装方法",
+        "en": "Complete Guide to AIEO (AI Engine Optimization): Differences from SEO and Implementation"
+      },
+      "excerpt": {
+        "ja": "ChatGPT、Claude、Perplexityなどの AI検索エンジンに最適化するAIEOの重要要素、SEOとの違い、具体的な実装方法を解説します。",
+        "en": "Learn about the key elements of AIEO for optimizing content for AI search engines like ChatGPT, Claude, and Perplexity, how it differs from SEO, and implementation methods."
+      }
+    },
+    {
       "id": "claude-code-project-setup",
       "slug": "claude-code-project-setup",
       "date": "2025-06-15",
