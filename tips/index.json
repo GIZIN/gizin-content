@@ -16,12 +16,36 @@
         "評価基準"
       ],
       "title": {
-        "ja": "AIEO-Checker開発の失敗から学ぶ：AIによるAIEOスコアリングの限界",
-        "en": "Lessons from AIEO-Checker Development Failure: The Limits of AI-based AIEO Scoring"
+        "ja": "AIEO-Checker開発の失敗から学ぶ：読者にAIが加わった時代のコンテンツ最適化",
+        "en": "Lessons from AIEO-Checker Development Failure: Content Optimization in the Era Where AI Joined Your Readers"
       },
       "excerpt": {
         "ja": "AIEO-Checker開発で判明したAIEOスコアリングの本質的な難しさを、具体的な失敗例を交えて解説。ページの目的に応じたAIEO対策の重要性を学びます。",
         "en": "Learn about the fundamental difficulties of AIEO scoring discovered through AIEO-Checker development, with specific failure examples. Understand the importance of AIEO strategies tailored to page purposes."
+      }
+    },
+    {
+      "id": "claude-code-custom-commands",
+      "slug": "claude-code-custom-commands",
+      "date": "2025-06-20",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "Claude Code",
+        "カスタムコマンド",
+        "効率化",
+        "トークン削減",
+        "ワークフロー"
+      ],
+      "title": {
+        "ja": "Claude Codeのカスタムコマンドで開発効率を爆上げする方法",
+        "en": "Boost Your Development Efficiency with Claude Code Custom Commands"
+      },
+      "excerpt": {
+        "ja": "Claude Codeのカスタムコマンド機能を活用して、トークン消費を削減しながら開発効率を向上させる実践的な方法を紹介。16個の実用的なコマンド例と、「中締め」「締め」といった日本独特の概念をコマンド化した事例を解説。",
+        "en": "A practical guide to leveraging Claude Code's custom command feature to reduce token consumption while improving development efficiency. Includes 16 practical command examples and unique Japanese concepts like 'nakajime' and 'shime'."
       }
     },
     {
