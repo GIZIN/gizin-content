@@ -73,6 +73,30 @@
       }
     },
     {
+      "id": "workflow-automation-importance",
+      "slug": "workflow-automation-importance",
+      "date": "2025-06-20",
+      "category": "ai-collaboration",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "自動化",
+        "ワークフロー",
+        "効率化",
+        "ヒューマンエラー",
+        "カスタムコマンド"
+      ],
+      "title": {
+        "ja": "「記事を更新したのに公開されない！」から学ぶ固定ワークフローの自動化",
+        "en": "Learning from 'I Updated but It's Not Published!' - The Value of Workflow Automation"
+      },
+      "excerpt": {
+        "ja": "記事更新のコミット忘れという実体験から、固定ワークフローの自動化がもたらす価値を解説。人間のミスを前提とした仕組み作りの重要性を、具体例を交えて紹介します。",
+        "en": "From the real experience of forgetting to commit article updates, we explain the value of automating fixed workflows. We introduce the importance of creating systems that assume human error, with concrete examples."
+      }
+    },
+    {
       "id": "claude-code-safety-separation",
       "slug": "claude-code-safety-separation",
       "date": "2025-06-19",
