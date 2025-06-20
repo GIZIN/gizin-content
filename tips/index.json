@@ -25,6 +25,30 @@
       }
     },
     {
+      "id": "aieo-optimization",
+      "slug": "aieo-optimization",
+      "date": "2025-06-20",
+      "category": "aieo",
+      "difficulty": "beginner",
+      "readingTime": 8,
+      "featured": true,
+      "tags": [
+        "AIEO",
+        "AI検索",
+        "SEO",
+        "ChatGPT",
+        "Claude"
+      ],
+      "title": {
+        "ja": "AIEO（AI Engine Optimization）とは？SEOとの違いと今すぐできる対策",
+        "en": "What is AIEO? How It Differs from SEO and What You Can Do Today"
+      },
+      "excerpt": {
+        "ja": "ChatGPTやClaudeなどのAI検索が急速に普及する中、従来のSEOだけでは不十分な理由と、AIEOという新しい最適化手法の本質を、実例を交えて分かりやすく解説します。",
+        "en": "As AI search engines like ChatGPT and Claude rapidly gain popularity, we explain why traditional SEO alone is insufficient and the essence of AIEO, a new optimization approach, with practical examples."
+      }
+    },
+    {
       "id": "claude-code-custom-commands",
       "slug": "claude-code-custom-commands",
       "date": "2025-06-20",
