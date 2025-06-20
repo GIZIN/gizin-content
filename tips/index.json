@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "aieo-checker-failure-lessons",
+      "slug": "aieo-checker-failure-lessons",
+      "date": "2025-06-20",
+      "category": "aieo",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "AIEO",
+        "失敗から学ぶ",
+        "AI開発",
+        "スコアリング",
+        "評価基準"
+      ],
+      "title": {
+        "ja": "AIEO-Checker開発の失敗から学ぶ：AIによるAIEOスコアリングの限界",
+        "en": "Lessons from AIEO-Checker Development Failure: The Limits of AI-based AIEO Scoring"
+      },
+      "excerpt": {
+        "ja": "AIEO-Checker開発で判明したAIEOスコアリングの本質的な難しさを、具体的な失敗例を交えて解説。ページの目的に応じたAIEO対策の重要性を学びます。",
+        "en": "Learn about the fundamental difficulties of AIEO scoring discovered through AIEO-Checker development, with specific failure examples. Understand the importance of AIEO strategies tailored to page purposes."
+      }
+    },
+    {
       "id": "claude-code-safety-separation",
       "slug": "claude-code-safety-separation",
       "date": "2025-06-19",
