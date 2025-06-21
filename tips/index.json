@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "ai-human-collaboration-roles",
+      "slug": "ai-human-collaboration-roles",
+      "date": "2025-06-21",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": [
+        "AI協働",
+        "開発プロセス",
+        "役割分担",
+        "自動化",
+        "実践事例"
+      ],
+      "title": {
+        "ja": "AI協働開発における役割分担の最適化 - 人間は安全装置かボトルネックか？",
+        "en": "Optimizing Role Division in AI Collaborative Development - Are Humans Safety Devices or Bottlenecks?"
+      },
+      "excerpt": {
+        "ja": "実際のAI協働開発プロジェクトから見えてきた、人間介在の価値と課題。具体的な改善提案と段階的な自動化への移行プランを、実例とともに解説します。",
+        "en": "The value and challenges of human intervention revealed in actual AI collaborative development projects. Explaining specific improvement proposals and phased automation transition plans with real examples."
+      }
+    },
+    {
       "id": "ai-transparency-identity",
       "slug": "ai-transparency-identity",
       "date": "2025-06-20",
