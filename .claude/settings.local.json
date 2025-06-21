@@ -28,7 +28,10 @@
       "Bash(./scripts/migrate-valid-images.sh:*)",
       "Bash(vercel:*)",
       "WebFetch(domain:images-tau-five.vercel.app)",
-      "Bash(/prepare-publish)"
+      "Bash(/prepare-publish)",
+      "Bash(/shime)",
+      "Bash(~/.claude/commands/shime.md)",
+      "Bash(cat:*)"
     ],
     "deny": []
   }
