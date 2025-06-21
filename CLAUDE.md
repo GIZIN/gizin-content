@@ -89,7 +89,10 @@ ls shared/article-requests/
   "date": "2025-06-19",
   "category": "claude-code",
   "difficulty": "beginner|intermediate|advanced",
-  "tags": ["タグ1", "タグ2"],
+  "tags": {
+    "ja": ["タグ1", "タグ2"],
+    "en": ["Tag1", "Tag2"]
+  },
   "versions": {
     "ja": {
       "title": "記事タイトル",
@@ -114,7 +117,10 @@ ls shared/article-requests/
   "date": "2025-06-21",
   "category": "announcement",
   "featured": false,
-  "tags": ["タグ1", "タグ2"],
+  "tags": {
+    "ja": ["タグ1", "タグ2"],
+    "en": ["Tag1", "Tag2"]
+  },
   "image": "https://images-tau-five.vercel.app/images/news/2025/06/image.jpg",
   "versions": {
     "ja": {
