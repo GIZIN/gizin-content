@@ -1,11 +1,32 @@
 {
   "articles": [
     {
+      "id": "suiminkansoku-50k-downloads",
+      "slug": "suiminkansoku-50k-downloads",
+      "date": "2025-06-21",
+      "category": "case-study",
+      "featured": false,
+      "tags": [
+        "睡眠観測",
+        "アプリ",
+        "マイルストーン",
+        "ヘルスケア"
+      ],
+      "title": {
+        "ja": "睡眠観測アプリが5万ダウンロード突破 - 新しい入眠体験が多くのユーザーに支持される",
+        "en": "Sleep Observation App Surpasses 50,000 Downloads - Innovative Sleep-Inducing Experience Gains Wide User Support"
+      },
+      "excerpt": {
+        "ja": "睡眠観測アプリが5万ダウンロードを達成。目を閉じながら楽しめる新しい睡眠導入アプリの成長と、ユーザーからの高い評価について紹介します。",
+        "en": "Sleep Observation app achieves 50,000 downloads. Learn about the growth and high user ratings of this innovative sleep-inducing app that users can enjoy with their eyes closed."
+      }
+    },
+    {
       "id": "ai-common-rules-release",
       "slug": "ai-common-rules-release",
       "date": "2025-06-18",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -19,6 +40,14 @@
           "Open Source",
           "Development Efficiency"
         ]
+      },
+      "title": {
+        "ja": "AI協働開発の共通ルールをオープンソースとして公開",
+        "en": "AI Collaboration Common Rules Released as Open Source"
+      },
+      "excerpt": {
+        "ja": "複数のAI協働プロジェクトから抽出した共通ルールをGitHub Gistで公開しました。質問型協働、作業管理、コミュニケーション原則など、実践的なノウハウを体系化しています。",
+        "en": "We have published common rules extracted from multiple AI collaboration projects on GitHub Gist. The rules systematize practical know-how including proactive questioning, work management, and communication principles."
       }
     },
     {
@@ -26,7 +55,7 @@
       "slug": "ai-tips-launch-2025",
       "date": "2025-06-16",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -40,6 +69,14 @@
           "New Service",
           "AI Development"
         ]
+      },
+      "title": {
+        "ja": "AI開発者向け「AI TIPS」コーナーを開設",
+        "en": "Launch of AI TIPS Section for AI Developers"
+      },
+      "excerpt": {
+        "ja": "AI開発の効率化とベストプラクティスを共有する「AI TIPS」コーナーを開設しました。AIEOやClaude Codeの活用方法など、実践的な技術情報を提供します。",
+        "en": "We have launched the AI TIPS section to share AI development efficiency and best practices. We provide practical technical information including how to utilize AIEO and Claude Code."
       }
     },
     {
@@ -47,7 +84,7 @@
       "slug": "aieo-service-launch",
       "date": "2025-06-13",
       "category": "announcement",
-      "image": "/images/news/aieo.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -63,6 +100,14 @@
           "AI",
           "SEO"
         ]
+      },
+      "title": {
+        "ja": "AIEO - AI Engine Optimization サービスの提供を開始しました",
+        "en": "Launching AIEO - AI Engine Optimization Service"
+      },
+      "excerpt": {
+        "ja": "ChatGPT、Claude、PerplexityなどのAIエンジンにウェブサイトを最適化する新サービス「AIEO（AI Engine Optimization）」の提供を開始しました。",
+        "en": "We are launching AIEO (AI Engine Optimization), a new service that optimizes websites for AI engines like ChatGPT, Claude, and Perplexity."
       }
     },
     {
@@ -70,7 +115,7 @@
       "slug": "claudecode-template-release",
       "date": "2025-06-13",
       "category": "announcement",
-      "image": "/images/news/claudecode-template-og.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -86,6 +131,14 @@
           "Claude Code",
           "Next.js"
         ]
+      },
+      "title": {
+        "ja": "Claude Code 多言語対応サイト構築テンプレートをオープンソースで公開",
+        "en": "Claude Code Multilingual Website Template Released as Open Source"
+      },
+      "excerpt": {
+        "ja": "AIとの対話だけで本格的な多言語対応Webサイトを構築できる革新的なテンプレートをGitHubで公開しました。Next.js 14ベースで、開発者の作業を大幅に効率化します。",
+        "en": "We've released an innovative template on GitHub that enables building professional multilingual websites through AI conversation alone. Based on Next.js 14, it dramatically improves developer efficiency."
       }
     },
     {
@@ -93,7 +146,7 @@
       "slug": "ai-driven-website-renewal",
       "date": "2025-06-09",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -109,6 +162,14 @@
           "Claude Code",
           "Renewal"
         ]
+      },
+      "title": {
+        "ja": "AIドリブンなWebサイトにリニューアルしました",
+        "en": "Website Renewed with AI-Driven Technology"
+      },
+      "excerpt": {
+        "ja": "Claude Codeを活用し、AIによる自動コンテンツ生成を実現した新しいWebサイトを公開しました。WordPressの煩雑な作業から解放され、効率的な運用が可能になりました。",
+        "en": "We've launched a new website powered by Claude Code, enabling automatic content generation through AI. Free from the complexities of WordPress, efficient operations are now possible."
       }
     },
     {
@@ -116,7 +177,7 @@
       "slug": "fastdev-launch",
       "date": "2025-06-09",
       "category": "announcement",
-      "image": "/images/news/fastdev-screenshot.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -126,6 +187,14 @@
           "Announcement",
           "New Service"
         ]
+      },
+      "title": {
+        "ja": "AIプロトタイプ開発サービス「FAST DEV」を開始",
+        "en": "Launching AI Prototype Development Service 'FAST DEV'"
+      },
+      "excerpt": {
+        "ja": "アイデアが明日、見えるカタチに。AI活用で最短1日でプロトタイプを開発する新サービスを開始しました。",
+        "en": "Ideas become visible tomorrow. We've launched a new service that develops prototypes in as little as one day using AI."
       }
     },
     {
@@ -133,7 +202,7 @@
       "slug": "ga4-campaign-automation",
       "date": "2025-06-09",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -147,6 +216,14 @@
           "Automation Tool",
           "GA4"
         ]
+      },
+      "title": {
+        "ja": "GA4 Campaign Automationツールをオープンソースで公開",
+        "en": "GA4 Campaign Automation Tool Released as Open Source"
+      },
+      "excerpt": {
+        "ja": "紙の広告（チラシ、ポスター等）の効果測定をGoogle Analytics 4で自動化するシステムをGitHubで公開しました。",
+        "en": "We've released a system on GitHub that automatically tracks print advertising effectiveness using Google Analytics 4."
       }
     },
     {
@@ -154,7 +231,7 @@
       "slug": "google-ads-automation",
       "date": "2025-06-09",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ",
@@ -166,6 +243,14 @@
           "Open Source",
           "Automation Tool"
         ]
+      },
+      "title": {
+        "ja": "Google Ads自動化ツールをオープンソースで公開",
+        "en": "Google Ads Automation Tool Released as Open Source"
+      },
+      "excerpt": {
+        "ja": "JSONファイルをアップロードするだけでGoogle Ads広告キャンペーンを自動作成するWebアプリケーションをGitHubで公開しました。",
+        "en": "We've released a web application on GitHub that automatically creates Google Ads campaigns by simply uploading a JSON file."
       }
     },
     {
@@ -173,7 +258,7 @@
       "slug": "wp-news-39",
       "date": "2025-05-19",
       "category": "announcement",
-      "image": "/images/news/wp-news-39-image.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -181,6 +266,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "【掲載情報】NTT東日本の睡眠コミュニティ「ZAKONE」でアプリ開発の想いと未来を語りました",
+        "en": "【Media Coverage】Interview Article Published in NTT East's Sleep Community 'ZAKONE' - Sharing Our App Development Vision and Future"
+      },
+      "excerpt": {
+        "ja": "NTT東日本さんが運営する睡眠コミュニティ「ZAKONE」さんのNOTEに、インタビュー記事が掲載されました。開発の背景やアプリの特徴、そして今後の展望について詳しく紹介されています。 ぜひご一読ください。 記事はこちら：https://note.com/zakone/n/ne8be1e77eb33...",
+        "en": "An interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects. Please take a moment to read it. Article link: https://note.com/zakone/n/ne8be1e77eb33"
       }
     },
     {
@@ -188,7 +281,7 @@
       "slug": "wp-news-38",
       "date": "2025-05-02",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -196,6 +289,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "『睡眠観測』がさらに進化♪ 最新の声＆改善情報をプレスリリースに追記しました！",
+        "en": "『睡眠観測』がさらに進化♪ 最新の声＆改善情報をプレスリリースに追記しました！"
+      },
+      "excerpt": {
+        "ja": "2022年に配信したプレスリリース「スマホをさわるだけで寝付きが良くなる『さわって眠れる睡眠アプリ - 睡眠観測』が、8月3日（水）配信開始。」に、2025年5月時点の最新情報を追記しました。 眠れない夜に寄り添う「睡眠観測」の“今”を、ぜひご覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html...",
+        "en": "2022年に配信したプレスリリース「スマホをさわるだけで寝付きが良くなる『さわって眠れる睡眠アプリ - 睡眠観測』が、8月3日（水）配信開始。」に、2025年5月時点の最新情報を追記しました。 眠れない夜に寄り添う「睡眠観測」の“今”を、ぜひご覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html..."
       }
     },
     {
@@ -203,7 +304,7 @@
       "slug": "wp-news-37",
       "date": "2025-05-01",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -211,6 +312,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました",
+        "en": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました"
+      },
+      "excerpt": {
+        "ja": "ギジン株式会社の2024年年次ご報告を動画にしました。NotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。まるでラジオ番組のように人が掛け合っておしゃべりしています。",
+        "en": "[embed]https://youtu.be/V1reLIH8nfo[/embed] ギジン株式会社の2024年年次ご報告を動画にしました。 NotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。 まるでラジオ番組のように人が掛け合っておしゃべりしています。 テキストで読むのとまた違う楽しみとわかりやすさがありますね。 ぜひご視聴ください。..."
       }
     },
     {
@@ -218,7 +327,7 @@
       "slug": "wp-news-36",
       "date": "2025-02-26",
       "category": "announcement",
-      "image": "/images/news/wp-news-36-89a8f496272c8407077429489814ed6c-1024x592.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -226,6 +335,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測 for TeamsのWebサイトを公開しました",
+        "en": "睡眠観測 for TeamsのWebサイトを公開しました"
+      },
+      "excerpt": {
+        "ja": "多くのお問い合わせを頂いておりました法人様向けの入眠支援サービス「睡眠観測 for Teams」のウェブサイトを公開いたしました。 こちらをクリック ぜひ一度ご覧いただき、詳しい資料をご希望の方はお問い合わせいただけますようよろしくお願いいたします。...",
+        "en": "多くのお問い合わせを頂いておりました法人様向けの入眠支援サービス「睡眠観測 for Teams」のウェブサイトを公開いたしました。 こちらをクリック ぜひ一度ご覧いただき、詳しい資料をご希望の方はお問い合わせいただけますようよろしくお願いいたします。..."
       }
     },
     {
@@ -233,7 +350,7 @@
       "slug": "wp-news-35",
       "date": "2025-01-12",
       "category": "announcement",
-      "image": "/images/news/gizin-new-logo.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -241,6 +358,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "ギジン株式会社 2024年 年次ご報告 ～創業10周年の感謝と新春の抱負～",
+        "en": "ギジン株式会社 2024年 年次ご報告 ～創業10周年の感謝と新春の抱負～"
+      },
+      "excerpt": {
+        "ja": "拝啓 新春の候、お客様におかれましては、輝かしい新年を迎えられたことと心よりお喜び申し上げます。日頃より格別のご愛顧とご支援を賜り、厚く御礼申し上げます。 2025年は、ギジン株式会社が創業10周年を迎える節目の年です。当社はこれまで以上に「お客様の日々の生活を豊かにし、社会全体に価値をもたらすサービスを提供していく」という決意を新たにしております。この目標を達成するためには、2024年に培った経...",
+        "en": "拝啓 新春の候、お客様におかれましては、輝かしい新年を迎えられたことと心よりお喜び申し上げます。日頃より格別のご愛顧とご支援を賜り、厚く御礼申し上げます。 2025年は、ギジン株式会社が創業10周年を迎える節目の年です。当社はこれまで以上に「お客様の日々の生活を豊かにし、社会全体に価値をもたらすサービスを提供していく」という決意を新たにしております。この目標を達成するためには、2024年に培った経..."
       }
     },
     {
@@ -248,7 +373,7 @@
       "slug": "wp-news-34",
       "date": "2025-01-03",
       "category": "announcement",
-      "image": "/images/news/sleep-app-comparison-1024x813.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -256,6 +381,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",
+        "en": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。"
+      },
+      "excerpt": {
+        "ja": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら...",
+        "en": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら..."
       }
     },
     {
@@ -263,7 +396,7 @@
       "slug": "wp-news-33",
       "date": "2024-12-13",
       "category": "announcement",
-      "image": "/images/news/wp-news-33-12a1383dd07f57ffcca58e3436c00f04-1-868x1024.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -271,6 +404,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」にインタビュー記事が掲載されました。",
+        "en": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」にインタビュー記事が掲載されました。"
+      },
+      "excerpt": {
+        "ja": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」の「時代の開拓者」コーナーにて、代表の小泉のインタビュー記事が掲載され、Yahoo! Japanに転載されました。 ローカルで起業することの魅力や、開発を続ける理由、将来実現したい世界について語っています。ぜひご一読ください。 https://thelocality.net/gizin/...",
+        "en": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」の「時代の開拓者」コーナーにて、代表の小泉のインタビュー記事が掲載され、Yahoo! Japanに転載されました。 ローカルで起業することの魅力や、開発を続ける理由、将来実現したい世界について語っています。ぜひご一読ください。 https://thelocality.net/gizin/..."
       }
     },
     {
@@ -278,7 +419,7 @@
       "slug": "wp-news-32",
       "date": "2024-11-02",
       "category": "announcement",
-      "image": "/images/news/wp-news-32-IMG_6102.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -286,6 +427,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "【テレビ出演】「さわって眠れる睡眠アプリ - 睡眠観測」を、ミヤギnews every.「情熱Labo」にて取り上げていただきました(2024年10月31日)",
+        "en": "【TV Appearance】'Touch to Sleep App - Sleep Observation' Featured on Miyagi news every. 'Passion Labo' (October 31, 2024)"
+      },
+      "excerpt": {
+        "ja": "[caption id=\"attachment_3103\" align=\"alignnone\" width=\"638\"] ミヤギnews every.「情熱Labo」[/caption] ミヤギnews every.「情熱Labo」に出演しました。(2024年10月31日) 番組内ではギジン株式会社で開発した、「さわって眠れる睡眠アプリ - 睡眠観測」を取り上げていただきました。代表の小泉彌和が出...",
+        "en": "[caption id=\"attachment_3103\" align=\"alignnone\" width=\"638\"] Miyagi news every. 'Passion Labo'[/caption] We appeared on Miyagi news every. 'Passion Labo' (October 31, 2024). The program featured 'Touch to Sleep App - Sleep Observation' developed by Gizin Inc. Our CEO, Hirokazu Koizumi, appeared..."
       }
     },
     {
@@ -293,7 +442,7 @@
       "slug": "wp-news-31",
       "date": "2024-10-02",
       "category": "announcement",
-      "image": "/images/news/wp-news-31-IMG_3FE952FCEA3D-1-699x1024.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -301,6 +450,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」が、4万ダウンロードに到達しました。",
+        "en": "'Touch to Sleep App - Sleep Observation' Reaches 40,000 Downloads"
+      },
+      "excerpt": {
+        "ja": "2024年10月1日（火）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、4万を超えました。 2023年12月に3万ダウンロードを超えてから1年弱、今も純広告は行わない利用者の口コミだけで順調に伸びてきています。 寝苦しさが解消された方から、喜びのお便りをいただくことも増えてきました。 ユーザの声を聞きながら、アプリは日々改善を続けています。 最新版のアップデートでは、コンテ...",
+        "en": "On October 1, 2024 (Tuesday), the total number of downloads across both iOS and Android platforms exceeded 40,000. Almost a year after surpassing 30,000 downloads in December 2023, the app continues to grow steadily through word-of-mouth alone without any paid advertising. We've been receiving more messages of joy from users who have found relief from sleeplessness."
       }
     },
     {
@@ -308,7 +465,7 @@
       "slug": "wp-news-28",
       "date": "2024-09-03",
       "category": "announcement",
-      "image": "/images/news/wp-news-28-3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -316,6 +473,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠アプリに生成AI活用したコンテンツをリリースしました",
+        "en": "睡眠アプリに生成AI活用したコンテンツをリリースしました"
+      },
+      "excerpt": {
+        "ja": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです...",
+        "en": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです..."
       }
     },
     {
@@ -323,7 +488,7 @@
       "slug": "wp-news-30",
       "date": "2024-07-23",
       "category": "announcement",
-      "image": "/images/news/wp-news-30-c7b1d70c650efb36ba5e0d3744ff1e2e.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -331,6 +496,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "GIZMODEに「睡眠観測」を掲載いただきました",
+        "en": "GIZMODEに「睡眠観測」を掲載いただきました"
+      },
+      "excerpt": {
+        "ja": "GIZMODEの記事はこちらです...",
+        "en": "GIZMODEの記事はこちらです..."
       }
     },
     {
@@ -338,7 +511,7 @@
       "slug": "wp-news-27",
       "date": "2024-07-18",
       "category": "announcement",
-      "image": "/images/news/wp-news-27-4fedce772ff9f9b55e6a9159f695efde.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -346,6 +519,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測の利用データ28,000件の調査レポートを公表しました",
+        "en": "睡眠観測の利用データ28,000件の調査レポートを公表しました"
+      },
+      "excerpt": {
+        "ja": "タップひとつで眠りへ誘う「眠れるゲーム」が変えた睡眠習慣。28,000件のデータが明らかにする不眠改善の効果。 プレスリリースはこちらです...",
+        "en": "タップひとつで眠りへ誘う「眠れるゲーム」が変えた睡眠習慣。28,000件のデータが明らかにする不眠改善の効果。 プレスリリースはこちらです..."
       }
     },
     {
@@ -353,7 +534,7 @@
       "slug": "wp-news-29",
       "date": "2024-07-18",
       "category": "announcement",
-      "image": "/images/news/wp-news-29-f07ae5a0a0e5715f71593e9b02100cb4.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -361,6 +542,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "Forbes Japanに「睡眠観測」を掲載いただきました",
+        "en": "Forbes Japanに「睡眠観測」を掲載いただきました"
+      },
+      "excerpt": {
+        "ja": "Forbes Japanの記事はこちらです...",
+        "en": "Forbes Japanの記事はこちらです..."
       }
     },
     {
@@ -368,7 +557,7 @@
       "slug": "ai-sprint-release",
       "date": "2024-06-15",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "AI",
@@ -380,6 +569,14 @@
           "New Service",
           "Prototype Development"
         ]
+      },
+      "title": {
+        "ja": "AIを活用した新サービス「AI Sprint」をリリース",
+        "en": "Launching AI Sprint - Revolutionary Rapid Prototyping Service"
+      },
+      "excerpt": {
+        "ja": "わずか1日でアイデアをプロトタイプ化する革新的なサービスを開始しました。",
+        "en": "We've launched an innovative service that transforms ideas into prototypes in just one day."
       }
     },
     {
@@ -387,7 +584,7 @@
       "slug": "sendai-dx-project",
       "date": "2024-06-10",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "DX",
@@ -399,6 +596,14 @@
           "Sendai City",
           "Government"
         ]
+      },
+      "title": {
+        "ja": "仙台市のDX推進プロジェクトに参画",
+        "en": "Selected as Partner for Sendai City DX Promotion Project"
+      },
+      "excerpt": {
+        "ja": "仙台市が推進するデジタルトランスフォーメーション事業のパートナーに選定されました。",
+        "en": "We've been selected as a technology partner for Sendai City's digital transformation initiative."
       }
     },
     {
@@ -406,7 +611,7 @@
       "slug": "tech-conference-2024",
       "date": "2024-06-05",
       "category": "event",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "イベント",
@@ -418,6 +623,14 @@
           "Speaking",
           "AI"
         ]
+      },
+      "title": {
+        "ja": "Tech Conference 2024に登壇決定",
+        "en": "Speaking at Tech Conference 2024"
+      },
+      "excerpt": {
+        "ja": "7月開催の「Tech Conference 2024」で、AI活用開発についての講演を行います。",
+        "en": "Our CEO will speak about AI-powered development at Tech Conference 2024 in July."
       }
     },
     {
@@ -425,7 +638,7 @@
       "slug": "new-members-joined",
       "date": "2024-05-28",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "採用",
@@ -435,6 +648,14 @@
           "Hiring",
           "Team"
         ]
+      },
+      "title": {
+        "ja": "新メンバー3名が入社しました",
+        "en": "Three New Members Join Our Team"
+      },
+      "excerpt": {
+        "ja": "エンジニア2名とデザイナー1名が新たに仲間に加わりました。",
+        "en": "We welcome two engineers and one designer to our growing team."
       }
     },
     {
@@ -442,7 +663,7 @@
       "slug": "gw-business-hours",
       "date": "2024-04-25",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "営業時間",
@@ -452,6 +673,14 @@
           "Business Hours",
           "Golden Week"
         ]
+      },
+      "title": {
+        "ja": "GW期間中の営業について",
+        "en": "Golden Week Business Hours"
+      },
+      "excerpt": {
+        "ja": "ゴールデンウィーク期間中の営業時間についてお知らせします。",
+        "en": "Information about our business hours during the Golden Week holiday period."
       }
     },
     {
@@ -459,7 +688,7 @@
       "slug": "dx-subsidy-support",
       "date": "2024-04-15",
       "category": "update",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "補助金",
@@ -471,6 +700,14 @@
           "DX",
           "SME Support"
         ]
+      },
+      "title": {
+        "ja": "「DX支援補助金」の申請サポートを開始",
+        "en": "DX Support Subsidy Application Service Now Available"
+      },
+      "excerpt": {
+        "ja": "中小企業向けDX支援補助金の申請サポートサービスを開始しました。",
+        "en": "We've started offering application support services for DX subsidies for SMEs."
       }
     },
     {
@@ -478,7 +715,7 @@
       "slug": "wp-news-26",
       "date": "2023-10-22",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -486,6 +723,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",
+        "en": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。"
+      },
+      "excerpt": {
+        "ja": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら...",
+        "en": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら..."
       }
     },
     {
@@ -493,7 +738,7 @@
       "slug": "wp-news-24",
       "date": "2023-06-27",
       "category": "announcement",
-      "image": "/images/news/wp-news-24-ourage.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -501,6 +746,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "集英社OurAgeに「睡眠観測」を掲載いただきました。",
+        "en": "集英社OurAgeに「睡眠観測」を掲載いただきました。"
+      },
+      "excerpt": {
+        "ja": "6月26日配信 集英社の40〜50代女性向けメディアOurAgeに掲載いただきました。 「さわって眠れる睡眠アプリ – 睡眠観測」。触っているうちに眠ってしまうという発想が新しい！...",
+        "en": "6月26日配信 集英社の40〜50代女性向けメディアOurAgeに掲載いただきました。 「さわって眠れる睡眠アプリ – 睡眠観測」。触っているうちに眠ってしまうという発想が新しい！..."
       }
     },
     {
@@ -508,7 +761,7 @@
       "slug": "wp-news-25",
       "date": "2023-06-23",
       "category": "announcement",
-      "image": "/images/news/wp-news-25-trademark.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -516,6 +769,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "「さわって眠れる」商標を取得いたしました。",
+        "en": "「さわって眠れる」商標を取得いたしました。"
+      },
+      "excerpt": {
+        "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」アプリにて提案した「さわって眠れる」が、登録商標になりました。 なかなか寝付けなくて寝苦しい夜に「さわって眠れる」さまざまな提案を今後も増やしていければと思います。...",
+        "en": "「さわって眠れる睡眠アプリ - 睡眠観測」アプリにて提案した「さわって眠れる」が、登録商標になりました。 なかなか寝付けなくて寝苦しい夜に「さわって眠れる」さまざまな提案を今後も増やしていければと思います。..."
       }
     },
     {
@@ -523,7 +784,7 @@
       "slug": "wp-news-23",
       "date": "2023-04-01",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -531,6 +792,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測が2万ダウンロードに到達しました。",
+        "en": "睡眠観測が2万ダウンロードに到達しました。"
+      },
+      "excerpt": {
+        "ja": "2023年3月31日（金）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、2万を超えました。 昨年8月に正式版のリリース直後に1万を超えて以来、純広告は行わない状態で順調に伸びてきています。 アプリは日々改善を続けています。 最新版のアップデートでは、睡眠コンテンツをサーバから取得するように変更しました。 これまでアプリの容量制限で品質が低かった音楽や環境音のクオリティが高ま...",
+        "en": "2023年3月31日（金）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、2万を超えました。 昨年8月に正式版のリリース直後に1万を超えて以来、純広告は行わない状態で順調に伸びてきています。 アプリは日々改善を続けています。 最新版のアップデートでは、睡眠コンテンツをサーバから取得するように変更しました。 これまでアプリの容量制限で品質が低かった音楽や環境音のクオリティが高ま..."
       }
     },
     {
@@ -538,7 +807,7 @@
       "slug": "wp-news-22",
       "date": "2023-02-10",
       "category": "announcement",
-      "image": "/images/news/wp-news-22-expo1.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -546,6 +815,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "東京ビッグサイト「ジェンダード・イノベーションEXPO」に「睡眠観測」を出展しました。",
+        "en": "東京ビッグサイト「ジェンダード・イノベーションEXPO」に「睡眠観測」を出展しました。"
+      },
+      "excerpt": {
+        "ja": "２月８日から１０日までの３日間、東京ビッグサイトで開催された健康博覧会、ジェンダード・イノベーションExpoに「睡眠観測」を出展しました。 ご来場いただいた皆様、ありがとうございました。 出展した製品はこちらです。 睡眠観測 for Teams...",
+        "en": "２月８日から１０日までの３日間、東京ビッグサイトで開催された健康博覧会、ジェンダード・イノベーションExpoに「睡眠観測」を出展しました。 ご来場いただいた皆様、ありがとうございました。 出展した製品はこちらです。 睡眠観測 for Teams..."
       }
     },
     {
@@ -553,7 +830,7 @@
       "slug": "wp-news-21",
       "date": "2023-02-02",
       "category": "announcement",
-      "image": "/images/news/wp-news-21-pr-image.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -561,6 +838,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "東京ビッグサイト「ジェンダード・イノベーションEXPO」にて法人向け製品を初出展します。",
+        "en": "東京ビッグサイト「ジェンダード・イノベーションEXPO」にて法人向け製品を初出展します。"
+      },
+      "excerpt": {
+        "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」が東京ビッグサイト「ジェンダード・イノベーションEXPO」（2月8日〜10日、2万人規模で開催）にて法人向け製品を初出展します。 プレスリリースはこちら https://prtimes.jp/main/html/rd/p/000000004.000105891.html 開催概要 ■名称：ジェンダード・イノベーションEXPO ■開催日：2023年2月8日（...",
+        "en": "「さわって眠れる睡眠アプリ - 睡眠観測」が東京ビッグサイト「ジェンダード・イノベーションEXPO」（2月8日〜10日、2万人規模で開催）にて法人向け製品を初出展します。 プレスリリースはこちら https://prtimes.jp/main/html/rd/p/000000004.000105891.html 開催概要 ■名称：ジェンダード・イノベーションEXPO ■開催日：2023年2月8日（..."
       }
     },
     {
@@ -568,7 +853,7 @@
       "slug": "wp-news-20",
       "date": "2022-12-20",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -576,6 +861,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "アスキーSTARTUPに「睡眠観測」を掲載頂きました。",
+        "en": "アスキーSTARTUPに「睡眠観測」を掲載頂きました。"
+      },
+      "excerpt": {
+        "ja": "12月20日配信のASCIIスタートアップの記事でご紹介頂きました。 ギジン、「さわって眠れる睡眠アプリ」にて振動で眠りを誘う睡眠コンテンツを開始...",
+        "en": "12月20日配信のASCIIスタートアップの記事でご紹介頂きました。 ギジン、「さわって眠れる睡眠アプリ」にて振動で眠りを誘う睡眠コンテンツを開始..."
       }
     },
     {
@@ -583,7 +876,7 @@
       "slug": "wp-news-19",
       "date": "2022-11-24",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -591,6 +884,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "日本の睡眠業界を盛り上げるZAKONEコミュニティに加盟しました。",
+        "en": "日本の睡眠業界を盛り上げるZAKONEコミュニティに加盟しました。"
+      },
+      "excerpt": {
+        "ja": "Sleep Network Hub「ZAKONE」は、日本の睡眠業界を盛り上げるために生まれた、企業や個人をつなぐコミュニティです。 様々な企業が横断してつながり睡眠情報を共有する機会が今後増えていくことが期待されます。 ギジンもこれを機会に新しい価値提供につなげていきたいと思います。 今後もよろしくお願いいたします。 →zakone.jpはこちら...",
+        "en": "Sleep Network Hub「ZAKONE」は、日本の睡眠業界を盛り上げるために生まれた、企業や個人をつなぐコミュニティです。 様々な企業が横断してつながり睡眠情報を共有する機会が今後増えていくことが期待されます。 ギジンもこれを機会に新しい価値提供につなげていきたいと思います。 今後もよろしくお願いいたします。 →zakone.jpはこちら..."
       }
     },
     {
@@ -598,7 +899,7 @@
       "slug": "wp-news-17",
       "date": "2022-11-02",
       "category": "announcement",
-      "image": "/images/news/wp-news-17-振動タイトル-1024x576.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -606,6 +907,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測で、「無音で振動する」睡眠導入体験が、11月2日(水)配信開始。",
+        "en": "Sleep Observation Launches 'Silent Vibration' Sleep Induction Experience on November 2nd"
+      },
+      "excerpt": {
+        "ja": "音を鳴らせない環境にいるときも、睡眠導入に使えるコンテンツが始まりました。 プレスリリースはこちら...",
+        "en": "New content now available for sleep induction in environments where sound cannot be used. Press release available here."
       }
     },
     {
@@ -613,7 +922,7 @@
       "slug": "wp-news-18",
       "date": "2022-11-02",
       "category": "announcement",
-      "image": "/images/news/wp-news-18-tarzan.jpeg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -621,6 +930,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "Tarzanに掲載いただきました。(11月2日発売)",
+        "en": "Featured in Tarzan Magazine (Released November 2nd)"
+      },
+      "excerpt": {
+        "ja": "Tarzanに掲載いただきました。 第２特集、眠りの最前線レポート「睡眠」進化論。スリープテックの冒頭に載っています。 Tarzanはこちら...",
+        "en": "We were featured in Tarzan magazine. In the second special feature, 'The Evolution of Sleep' - a cutting-edge sleep report. We appear at the beginning of the Sleep Tech section. View Tarzan here."
       }
     },
     {
@@ -628,7 +945,7 @@
       "slug": "wp-news-16",
       "date": "2022-08-31",
       "category": "announcement",
-      "image": "/images/news/wp-news-16-猫を撫でるキャンペーン-1024x576.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -636,6 +953,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測で子供の寝息を聴き猫をなでて眠れる新コンテンツ開始。9月7日まで無料。",
+        "en": "New Content: Fall Asleep by Petting a Cat While Listening to Children's Breathing. Free Until September 7th"
+      },
+      "excerpt": {
+        "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」にて、子供の寝息を聴きながら猫をなでて眠れる新コンテンツを、9月7日まで期間限定で無料で提供開始しました。 プレスリリースはこちら...",
+        "en": "'Touch to Sleep App - Sleep Observation' has launched new content where users can fall asleep by petting a cat while listening to children's breathing sounds. Available free for a limited time until September 7th. Press release available here."
       }
     },
     {
@@ -643,7 +968,7 @@
       "slug": "wp-news-15",
       "date": "2022-08-17",
       "category": "announcement",
-      "image": "/images/news/wp-news-15-10k-downloads.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -651,6 +976,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測が、１万ダウンロードに到達しました。",
+        "en": "Sleep Observation Reaches 10,000 Downloads"
+      },
+      "excerpt": {
+        "ja": "正式版公開の８月３日から２週間後の本日、体験版と正式版の合計で１万ダウンロードに到達しました。 多くの方に「さわって眠れる」新しい入眠体験をお試し頂いています。 引き続きご利用いただけるように、今後もアップデートしていきます。よろしくお願いいたします。...",
+        "en": "Today, two weeks after the official version release on August 3rd, we've reached a total of 10,000 downloads combining both trial and official versions. Many people are experiencing our new 'touch to sleep' method. We will continue to update the app to ensure continued satisfaction. Thank you for your support."
       }
     },
     {
@@ -658,7 +991,7 @@
       "slug": "wp-news-14",
       "date": "2022-08-12",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -666,6 +999,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "FNNプライムオンラインに「睡眠観測」の取材記事が掲載されました。",
+        "en": "FNNプライムオンラインに「睡眠観測」の取材記事が掲載されました。"
+      },
+      "excerpt": {
+        "ja": "スマホを触っているうちに寝落ち!? 目を閉じて画面をなでる“睡眠アプリ”が正式リリース…開発のきっかけを聞いた...",
+        "en": "スマホを触っているうちに寝落ち!? 目を閉じて画面をなでる“睡眠アプリ”が正式リリース…開発のきっかけを聞いた..."
       }
     },
     {
@@ -673,7 +1014,7 @@
       "slug": "wp-news-13",
       "date": "2022-08-09",
       "category": "announcement",
-      "image": "/images/news/wp-news-13-itmedianews.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -681,6 +1022,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "（メディア・記事）睡眠観測を掲載頂きました",
+        "en": "Sleep Observation Featured in Media Coverage"
+      },
+      "excerpt": {
+        "ja": "8/16 スマホを触るだけで寝つきが良くなる!?ギジンが新感覚の寝落ちアプリ「睡眠観測」をリリース (@DIME) 8/12 スマホを触っているうちに寝落ち!? 目を閉じて画面をなでる“睡眠アプリ”が正式リリース…開発のきっかけを聞いた (FNNプライムオンライン) 8/9 スマホを触るだけで、寝つきが良くなる「睡眠アプリ」があるらしい（マイナビニュース） 8/8 スマホで寝つき改善？ 「さわって...",
+        "en": "8/16 Just touch your smartphone to improve sleep!? Gizin releases innovative sleep app 'Sleep Observation' (@DIME) 8/12 Fall asleep while touching your smartphone!? Sleep app officially released...we asked about development (FNN Prime Online) 8/9 There's apparently a sleep app that improves sleep just by touching (Mynavi News) 8/8 Smartphone improves sleep? 'Touch to sleep' app developed by Sendai venture..."
       }
     },
     {
@@ -688,7 +1037,7 @@
       "slug": "wp-news-12",
       "date": "2022-08-07",
       "category": "announcement",
-      "image": "/images/news/wp-news-12-スクリーンショット-2022-08-07-11.19.11-1024x665.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -696,6 +1045,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測体験版が、公開4日後で8000ダウンロードを達成しました。",
+        "en": "Sleep Observation Trial Version Achieves 8,000 Downloads in Just 4 Days After Release"
+      },
+      "excerpt": {
+        "ja": "2021年6月の公開開始から公開前の8月2日までの約1年間で3800ダウンロードでしたが、8月3日の公開後4日間でiOS、Android合計で8000ダウンロードを超えました。 多くの方の快適な入眠のお役に立ててとても嬉しいです。...",
+        "en": "From its initial release in June 2021 until August 2nd, we had 3,800 downloads over approximately one year. However, within just 4 days after the August 3rd release, we exceeded 8,000 total downloads across iOS and Android platforms. We are delighted to help so many people achieve comfortable sleep."
       }
     },
     {
@@ -703,7 +1060,7 @@
       "slug": "wp-news-10",
       "date": "2022-08-03",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -711,6 +1068,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測が配信開始しました。",
+        "en": "睡眠観測が配信開始しました。"
+      },
+      "excerpt": {
+        "ja": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。 詳細はプレスリリースを配信しましたので、御覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html...",
+        "en": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。 詳細はプレスリリースを配信しましたので、御覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html..."
       }
     },
     {
@@ -718,7 +1083,7 @@
       "slug": "wp-news-11",
       "date": "2022-08-03",
       "category": "announcement",
-      "image": "/images/news/wp-news-11-appstore.jpg",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -726,6 +1091,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測が、AppStore有料ランキング「メディカル」１位、GooglePlay有料トップ「健康＆フィットネス」１位になりました。",
+        "en": "Sleep Observation Ranks #1 in App Store Medical Category and Google Play Health & Fitness Category"
+      },
+      "excerpt": {
+        "ja": "８月３日に配信開始した睡眠観測が、AppStore有料ランキング「メディカル」カテゴリで１位になりました。 GooglePlay有料ランキング「健康＆フィットネス」カテゴリで１位になりました。...",
+        "en": "Sleep Observation, released on August 3rd, has reached #1 in the App Store's paid Medical category ranking. It also achieved #1 in Google Play's paid Health & Fitness category ranking."
       }
     },
     {
@@ -733,7 +1106,7 @@
       "slug": "wp-news-9",
       "date": "2022-07-16",
       "category": "announcement",
-      "image": "/images/news/wp-news-9-Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -741,6 +1114,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測のアップグレード版の予約注文を開始しました",
+        "en": "Pre-orders Now Open for Sleep Observation Upgrade Version"
+      },
+      "excerpt": {
+        "ja": "睡眠観測のアップグレード版が８月３日リリースに決まりました。 AppleStore限定で、今日から予約注文が始まりました。 リリースまでの8月2日まで期間限定で20%OFFの490円でご購入頂けます。 iPhone、iPadの方はこちらからご購入頂けます。 睡眠観測について詳しくはこちらから御覧ください。 http://gizin.co.jp/touchsleep...",
+        "en": "The upgrade version of Sleep Observation will be released on August 3rd. Pre-orders are now available exclusively on the Apple Store. Get a limited-time 20% discount at ¥490 until August 2nd. Available for iPhone and iPad users. Learn more about Sleep Observation at http://gizin.co.jp/touchsleep"
       }
     },
     {
@@ -748,7 +1129,7 @@
       "slug": "wp-news-8",
       "date": "2022-07-07",
       "category": "announcement",
-      "image": "/images/news/wp-news-8-logo.png",
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -756,6 +1137,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "睡眠観測がリリースから１年経過し、ノンプロモーションで3,500ダウンロードに達しました。",
+        "en": "Sleep Observation Reaches 3,500 Downloads After One Year Without Promotion"
+      },
+      "excerpt": {
+        "ja": "2021年6月にリリースした入眠サポートアプリ「睡眠観測」が、広告宣伝をせずに3,500ダウンロードを達成しました。 英語版をリリースしたあとは、英語圏でのダウンロードも伸びています。 「ゲームに夢中になっているとき、人の苦痛は和らぐ」ことに着目し、入眠時に最適な「微弱な」ゲーム性を開発しました。 なかなか入眠できないときの苦しさを和らげることを目指しています。 睡眠観測で遊んでいるとき、入眠の苦...",
+        "en": "Sleep Observation, a sleep support app released in June 2021, has achieved 3,500 downloads without any advertising. After releasing the English version, downloads in English-speaking countries have been growing. Focusing on the concept that 'pain is alleviated when people are absorbed in games,' we developed a 'subtle' gaming element optimal for falling asleep. We aim to ease the discomfort of struggling to fall asleep."
       }
     },
     {
@@ -763,7 +1152,7 @@
       "slug": "wp-news-1",
       "date": "2020-03-30",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -771,6 +1160,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "コンテンツ制作サービスを開始しました",
+        "en": "Content Creation Service Launched"
+      },
+      "excerpt": {
+        "ja": "ギジンはコンテンツ制作サービスを開始しました。 詳細はこちらです。 コンテンツにお困りでしたらご相談くださいませ。...",
+        "en": "Gizin has launched a content creation service. Click here for details. Please contact us if you need help with content."
       }
     },
     {
@@ -778,7 +1175,7 @@
       "slug": "wp-news-6",
       "date": "2018-01-23",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -786,6 +1183,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "NTTドコモ主催のイベントでプレゼンテーションをしました",
+        "en": "NTTドコモ主催のイベントでプレゼンテーションをしました"
+      },
+      "excerpt": {
+        "ja": "NTTドコモ主催のイベントでプレゼンテーションをしました イベントの詳細はこちらでご覧いただけます NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台 https://sebastien.connpass.com/event/75084/...",
+        "en": "NTTドコモ主催のイベントでプレゼンテーションをしました イベントの詳細はこちらでご覧いただけます NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台 https://sebastien.connpass.com/event/75084/..."
       }
     },
     {
@@ -793,7 +1198,7 @@
       "slug": "wp-news-3",
       "date": "2016-10-04",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -801,6 +1206,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "東京のお客様の社内勉強会で講師をさせていただきました",
+        "en": "東京のお客様の社内勉強会で講師をさせていただきました"
+      },
+      "excerpt": {
+        "ja": "東京のお客様の社内勉強会で講師をさせていただきました。 その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/634...",
+        "en": "東京のお客様の社内勉強会で講師をさせていただきました。 その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/634..."
       }
     },
     {
@@ -808,7 +1221,7 @@
       "slug": "wp-news-4",
       "date": "2016-06-08",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -816,6 +1229,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "渋谷の勉強会でプレゼンテーションをしました",
+        "en": "渋谷の勉強会でプレゼンテーションをしました"
+      },
+      "excerpt": {
+        "ja": "渋谷の勉強会でプレゼンテーションをしました その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/46...",
+        "en": "渋谷の勉強会でプレゼンテーションをしました その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/46..."
       }
     },
     {
@@ -823,7 +1244,7 @@
       "slug": "wp-news-5",
       "date": "2016-05-16",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -831,6 +1252,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "会津大学でプレゼンテーションをしました",
+        "en": "会津大学でプレゼンテーションをしました"
+      },
+      "excerpt": {
+        "ja": "会津大学でイベントでプレゼンテーションをしました その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/26...",
+        "en": "会津大学でイベントでプレゼンテーションをしました その時の模様はこちらの記事でご覧いただけます http://gizin.co.jp/g/26..."
       }
     },
     {
@@ -838,7 +1267,7 @@
       "slug": "wp-news-2",
       "date": "2014-03-07",
       "category": "announcement",
-      "image": null,
+      "featured": false,
       "tags": {
         "ja": [
           "お知らせ"
@@ -846,6 +1275,14 @@
         "en": [
           "Announcement"
         ]
+      },
+      "title": {
+        "ja": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。",
+        "en": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。"
+      },
+      "excerpt": {
+        "ja": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。 その時の模様はこちらのニュース記事でご覧いただけます https://xtech.nikkei.com/it/article/NEWS/20140307/542085/...",
+        "en": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。 その時の模様はこちらのニュース記事でご覧いただけます https://xtech.nikkei.com/it/article/NEWS/20140307/542085/..."
       }
     }
   ]
