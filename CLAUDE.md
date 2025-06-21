@@ -55,7 +55,11 @@ images/
 1. 画像を適切なフォルダに配置
 2. `./scripts/image-helper.sh` でURLを取得
 3. 記事内で画像URLを参照
-4. git pushで自動的にVercelにデプロイ
+4. **重要**: 画像フォルダは別プロジェクトなので手動デプロイが必要
+   ```bash
+   cd images
+   vercel --prod
+   ```
 
 **画像URL**: https://images-tau-five.vercel.app/
 
