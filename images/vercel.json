@@ -21,10 +21,5 @@
     "minimumCacheTTL": 60,
     "dangerouslyAllowSVG": true,
     "contentSecurityPolicy": "default-src 'self'; script-src 'none'; sandbox;"
-  },
-  "functions": {
-    "api/og.js": {
-      "includeFiles": "public/**"
-    }
   }
 }
