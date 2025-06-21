@@ -24,7 +24,8 @@
       "Bash(chmod:*)",
       "Bash(node:*)",
       "Bash(claude-git-tracker:*)",
-      "Bash(~/.claude/bin/claude code run /shime)"
+      "Bash(~/.claude/bin/claude code run /shime)",
+      "Bash(./scripts/migrate-valid-images.sh:*)"
     ],
     "deny": []
   }

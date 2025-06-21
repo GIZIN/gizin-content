@@ -18,5 +18,5 @@
       "content": "<img src=\"/images/news/wp-news-39-image.png\" alt=\"ZAKONE Interview Article\" />\n\nAn interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects.\nPlease take a moment to read it.\n<span class=\"c-emoji c-emoji__medium c-emoji--inline\" data-qa=\"emoji\" data-sk=\"tooltip_parent\"><img src=\"https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449@2x.png\" alt=\":point_right:\" aria-label=\"point right emoji\" data-stringify-type=\"emoji\" data-stringify-emoji=\":point_right:\" /></span> Article link: <a href=\"https://note.com/zakone/n/ne8be1e77eb33?fbclid\">https://note.com/zakone/n/ne8be1e77eb33</a>\n\n&nbsp;"
     }
   },
-  "image": "/images/news/wp-news-39-image.png"
+  "image": "https://images-tau-five.vercel.app/news/2025/05/wp-news-39-image.png"
 }

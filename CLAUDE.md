@@ -37,6 +37,29 @@
 - ✅ news/articles/ 内の記事作成・編集
 - ✅ shared/article-requests/ の確認（読み取りのみ）
 - ✅ git操作（このディレクトリ内のみ）
+- ✅ images/ 内への画像追加
+
+## 📸 画像管理
+
+### 画像の保存場所
+```
+images/
+├── news/       # ニュース記事用
+│   └── 2025/
+│       └── 06/
+├── tips/       # TIPS記事用
+└── common/     # 共通画像
+```
+
+### 画像の使い方
+1. 画像を適切なフォルダに配置
+2. `./scripts/image-helper.sh` でURLを取得
+3. 記事内で画像URLを参照
+4. git pushで自動的にVercelにデプロイ
+
+**画像URL**: https://images-tau-five.vercel.app/
+
+詳細は `/docs/画像管理ガイド.md` を参照
 
 ## 📝 記事作成ワークフロー
 
@@ -55,7 +78,7 @@ ls shared/article-requests/
 
 ### 3. 記事の形式
 
-#### TIPS記事の形式
+#### TIPS記事
 ```json
 {
   "id": "article-slug",
@@ -80,7 +103,7 @@ ls shared/article-requests/
 }
 ```
 
-#### News記事の形式（統一形式）
+#### ニュース記事（統一形式）
 ```json
 {
   "id": "article-slug",
@@ -88,27 +111,23 @@ ls shared/article-requests/
   "category": "announcement",
   "featured": false,
   "tags": ["タグ1", "タグ2"],
-  "image": "/images/news/article-image.png",  // オプション
+  "image": "https://images-tau-five.vercel.app/images/news/2025/06/image.jpg",
   "versions": {
     "ja": {
       "title": "記事タイトル",
-      "description": "記事の説明（SEO用）",
+      "excerpt": "記事の概要",
+      "description": "SEO用の説明",
       "content": "記事本文（Markdown形式）"
     },
     "en": {
       "title": "Article Title",
-      "description": "Article description",
-      "content": "Article content in Markdown"
+      "excerpt": "Article excerpt",
+      "description": "SEO description",
+      "content": "Article content"
     }
   }
 }
 ```
-
-**注意事項**：
-- News記事は2025年6月21日に統一形式に移行されました
-- `excerpt`フィールドは`description`に統合されています
-- `image`フィールドはオプションです（画像がある場合のみ）
-- タグは配列形式で統一（言語別オブジェクトではない）
 
 ### 4. 記事公開フロー
 
