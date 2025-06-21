@@ -55,6 +55,7 @@ ls shared/article-requests/
 
 ### 3. 記事の形式
 
+#### TIPS記事の形式
 ```json
 {
   "id": "article-slug",
@@ -78,6 +79,36 @@ ls shared/article-requests/
   }
 }
 ```
+
+#### News記事の形式（統一形式）
+```json
+{
+  "id": "article-slug",
+  "date": "2025-06-21",
+  "category": "announcement",
+  "featured": false,
+  "tags": ["タグ1", "タグ2"],
+  "image": "/images/news/article-image.png",  // オプション
+  "versions": {
+    "ja": {
+      "title": "記事タイトル",
+      "description": "記事の説明（SEO用）",
+      "content": "記事本文（Markdown形式）"
+    },
+    "en": {
+      "title": "Article Title",
+      "description": "Article description",
+      "content": "Article content in Markdown"
+    }
+  }
+}
+```
+
+**注意事項**：
+- News記事は2025年6月21日に統一形式に移行されました
+- `excerpt`フィールドは`description`に統合されています
+- `image`フィールドはオプションです（画像がある場合のみ）
+- タグは配列形式で統一（言語別オブジェクトではない）
 
 ### 4. 記事公開フロー
 
