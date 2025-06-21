@@ -1,27 +1,22 @@
 {
   "id": "wp-news-34",
-  "slug": "wp-news-34",
   "date": "2025-01-03",
   "category": "announcement",
-  "image": "/images/news/sleep-app-comparison-1024x813.png",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",
+      "description": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら...",
+      "content": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。\n\nたくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。\n\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\"><img class=\"alignnone size-large wp-image-3147\" src=\"/images/news/sleep-app-comparison-1024x813.png\" alt=\"\" width=\"1024\" height=\"813\" /></a>\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\">記事はこちら</a>\n\n<a href=\"https://choice.ameba.jp/professionals/278/\"><img class=\"alignnone size-large wp-image-3148\" src=\"/images/news/koizumi-profile-980x1024.png\" alt=\"\" width=\"980\" height=\"1024\" /></a>"
+    },
+    "en": {
+      "title": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",
+      "description": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら...",
+      "content": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。\n\nたくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。\n\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\"><img class=\"alignnone size-large wp-image-3147\" src=\"http://gizin.co.jp/wp-content/uploads/2025/01/a8f60d2af38dfa1b303ebe4e77b69de1-1024x813.png\" alt=\"\" width=\"1024\" height=\"813\" /></a>\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\">記事はこちら</a>\n\n<a href=\"https://choice.ameba.jp/professionals/278/\"><img class=\"alignnone size-large wp-image-3148\" src=\"http://gizin.co.jp/wp-content/uploads/2025/01/1cd6a533b792be2e52a8ea8709a40443-980x1024.png\" alt=\"\" width=\"980\" height=\"1024\" /></a>"
+    }
   },
-  "title": {
-    "ja": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",
-    "en": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。"
-  },
-  "excerpt": {
-    "ja": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら...",
-    "en": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。 たくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。 記事はこちら..."
-  },
-  "content": {
-    "ja": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。\n\nたくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。\n\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\"><img class=\"alignnone size-large wp-image-3147\" src=\"/images/news/sleep-app-comparison-1024x813.png\" alt=\"\" width=\"1024\" height=\"813\" /></a>\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\">記事はこちら</a>\n\n<a href=\"https://choice.ameba.jp/professionals/278/\"><img class=\"alignnone size-large wp-image-3148\" src=\"/images/news/koizumi-profile-980x1024.png\" alt=\"\" width=\"980\" height=\"1024\" /></a>",
-    "en": "睡眠記録アプリ比較サイトにて、代表の小泉がコメントを掲載されました。\n\nたくさんあってどれを選んだら良いかわからない、となりがちな睡眠アプリですが、それぞれ特徴があります。自分のニーズにあったアプリを選んで、快適に睡眠しましょう。\n\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\"><img class=\"alignnone size-large wp-image-3147\" src=\"http://gizin.co.jp/wp-content/uploads/2025/01/a8f60d2af38dfa1b303ebe4e77b69de1-1024x813.png\" alt=\"\" width=\"1024\" height=\"813\" /></a>\n<a href=\"https://choice.ameba.jp/sleeprecord-app/\">記事はこちら</a>\n\n<a href=\"https://choice.ameba.jp/professionals/278/\"><img class=\"alignnone size-large wp-image-3148\" src=\"http://gizin.co.jp/wp-content/uploads/2025/01/1cd6a533b792be2e52a8ea8709a40443-980x1024.png\" alt=\"\" width=\"980\" height=\"1024\" /></a>"
-  }
+  "image": "/images/news/sleep-app-comparison-1024x813.png"
 }

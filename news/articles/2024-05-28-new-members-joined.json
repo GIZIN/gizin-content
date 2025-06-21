@@ -1,29 +1,22 @@
 {
   "id": "new-members-joined",
-  "slug": "new-members-joined",
   "date": "2024-05-28",
   "category": "announcement",
-  "image": null,
-  "tags": {
-    "ja": [
-      "採用",
-      "チーム"
-    ],
-    "en": [
-      "Hiring",
-      "Team"
-    ]
-  },
-  "title": {
-    "ja": "新メンバー3名が入社しました",
-    "en": "Three New Members Join Our Team"
-  },
-  "excerpt": {
-    "ja": "エンジニア2名とデザイナー1名が新たに仲間に加わりました。",
-    "en": "We welcome two engineers and one designer to our growing team."
-  },
-  "content": {
-    "ja": "5月より、新たに3名のメンバーがギジン株式会社に加わりました。\n\n- **田中 太郎**: シニアエンジニア（元Google）\n- **佐藤 花子**: フロントエンドエンジニア\n- **鈴木 次郎**: UIデザイナー\n\nより強力なチーム体制で、お客様により良いサービスを提供してまいります。",
-    "en": "Three new members joined Gizin Inc. in May.\n\n- **Taro Tanaka**: Senior Engineer (formerly at Google)\n- **Hanako Sato**: Frontend Engineer\n- **Jiro Suzuki**: UI Designer\n\nWith our strengthened team, we'll continue to provide even better services to our customers."
+  "featured": false,
+  "tags": [
+    "採用",
+    "チーム"
+  ],
+  "versions": {
+    "ja": {
+      "title": "新メンバー3名が入社しました",
+      "description": "エンジニア2名とデザイナー1名が新たに仲間に加わりました。",
+      "content": "5月より、新たに3名のメンバーがギジン株式会社に加わりました。\n\n- **田中 太郎**: シニアエンジニア（元Google）\n- **佐藤 花子**: フロントエンドエンジニア\n- **鈴木 次郎**: UIデザイナー\n\nより強力なチーム体制で、お客様により良いサービスを提供してまいります。"
+    },
+    "en": {
+      "title": "Three New Members Join Our Team",
+      "description": "We welcome two engineers and one designer to our growing team.",
+      "content": "Three new members joined Gizin Inc. in May.\n\n- **Taro Tanaka**: Senior Engineer (formerly at Google)\n- **Hanako Sato**: Frontend Engineer\n- **Jiro Suzuki**: UI Designer\n\nWith our strengthened team, we'll continue to provide even better services to our customers."
+    }
   }
 }

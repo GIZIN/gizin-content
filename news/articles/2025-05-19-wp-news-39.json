@@ -1,27 +1,22 @@
 {
   "id": "wp-news-39",
-  "slug": "wp-news-39",
   "date": "2025-05-19",
   "category": "announcement",
-  "image": "/images/news/wp-news-39-image.png",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "【掲載情報】NTT東日本の睡眠コミュニティ「ZAKONE」でアプリ開発の想いと未来を語りました",
+      "description": "NTT東日本さんが運営する睡眠コミュニティ「ZAKONE」さんのNOTEに、インタビュー記事が掲載されました。開発の背景やアプリの特徴、そして今後の展望について詳しく紹介されています。 ぜひご一読ください。 記事はこちら：https://note.com/zakone/n/ne8be1e77eb33...",
+      "content": "<img src=\"/images/news/wp-news-39-image.png\" alt=\"ZAKONE インタビュー記事\" />\n\nNTT東日本さんが運営する睡眠コミュニティ「ZAKONE」さんのNOTEに、インタビュー記事が掲載されました。開発の背景やアプリの特徴、そして今後の展望について詳しく紹介されています。\nぜひご一読ください。\n記事はこちら：<a href=\"https://note.com/zakone/n/ne8be1e77eb33?fbclid\">https://note.com/zakone/n/ne8be1e77eb33</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "【Media Coverage】Interview Article Published in NTT East's Sleep Community 'ZAKONE' - Sharing Our App Development Vision and Future",
+      "description": "An interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects. Please take a moment to read it. Article link: https://note.com/zakone/n/ne8be1e77eb33",
+      "content": "<img src=\"/images/news/wp-news-39-image.png\" alt=\"ZAKONE Interview Article\" />\n\nAn interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects.\nPlease take a moment to read it.\n<span class=\"c-emoji c-emoji__medium c-emoji--inline\" data-qa=\"emoji\" data-sk=\"tooltip_parent\"><img src=\"https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449@2x.png\" alt=\":point_right:\" aria-label=\"point right emoji\" data-stringify-type=\"emoji\" data-stringify-emoji=\":point_right:\" /></span> Article link: <a href=\"https://note.com/zakone/n/ne8be1e77eb33?fbclid\">https://note.com/zakone/n/ne8be1e77eb33</a>\n\n&nbsp;"
+    }
   },
-  "title": {
-    "ja": "【掲載情報】NTT東日本の睡眠コミュニティ「ZAKONE」でアプリ開発の想いと未来を語りました",
-    "en": "【Media Coverage】Interview Article Published in NTT East's Sleep Community 'ZAKONE' - Sharing Our App Development Vision and Future"
-  },
-  "excerpt": {
-    "ja": "NTT東日本さんが運営する睡眠コミュニティ「ZAKONE」さんのNOTEに、インタビュー記事が掲載されました。開発の背景やアプリの特徴、そして今後の展望について詳しく紹介されています。 ぜひご一読ください。 記事はこちら：https://note.com/zakone/n/ne8be1e77eb33...",
-    "en": "An interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects. Please take a moment to read it. Article link: https://note.com/zakone/n/ne8be1e77eb33"
-  },
-  "content": {
-    "ja": "<img src=\"/images/news/wp-news-39-image.png\" alt=\"ZAKONE インタビュー記事\" />\n\nNTT東日本さんが運営する睡眠コミュニティ「ZAKONE」さんのNOTEに、インタビュー記事が掲載されました。開発の背景やアプリの特徴、そして今後の展望について詳しく紹介されています。\nぜひご一読ください。\n記事はこちら：<a href=\"https://note.com/zakone/n/ne8be1e77eb33?fbclid\">https://note.com/zakone/n/ne8be1e77eb33</a>\n\n&nbsp;",
-    "en": "<img src=\"/images/news/wp-news-39-image.png\" alt=\"ZAKONE Interview Article\" />\n\nAn interview article was published on NOTE by the sleep community 'ZAKONE' operated by NTT East. The article provides detailed insights into the development background, app features, and future prospects.\nPlease take a moment to read it.\n<span class=\"c-emoji c-emoji__medium c-emoji--inline\" data-qa=\"emoji\" data-sk=\"tooltip_parent\"><img src=\"https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f449@2x.png\" alt=\":point_right:\" aria-label=\"point right emoji\" data-stringify-type=\"emoji\" data-stringify-emoji=\":point_right:\" /></span> Article link: <a href=\"https://note.com/zakone/n/ne8be1e77eb33?fbclid\">https://note.com/zakone/n/ne8be1e77eb33</a>\n\n&nbsp;"
-  }
+  "image": "/images/news/wp-news-39-image.png"
 }

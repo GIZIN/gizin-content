@@ -1,23 +1,24 @@
 {
   "id": "ai-tips-launch-2025",
-  "slug": "ai-tips-launch-2025",
   "date": "2025-06-16",
   "category": "announcement",
-  "title": {
-    "ja": "AI開発者向け「AI TIPS」コーナーを開設",
-    "en": "Launch of AI TIPS Section for AI Developers"
-  },
-  "excerpt": {
-    "ja": "AI開発の効率化とベストプラクティスを共有する「AI TIPS」コーナーを開設しました。AIEOやClaude Codeの活用方法など、実践的な技術情報を提供します。",
-    "en": "We have launched the AI TIPS section to share AI development efficiency and best practices. We provide practical technical information including how to utilize AIEO and Claude Code."
-  },
-  "content": {
-    "ja": "## AI開発者のための技術情報コーナー「AI TIPS」を開設\n\nギジン株式会社は、AI開発者向けの技術情報コーナー「AI TIPS」を本日開設いたしました。\n\n### AI TIPSの特徴\n\n**1. 実践的な技術記事**\n- AIEOを活用したWebサイト最適化手法\n- Claude Codeによる効率的な開発フロー\n- AI開発における品質管理とベストプラクティス\n\n**2. カテゴリ別の体系的な情報整理**\n- Claude Code活用術\n- AIEO実装ガイド\n- AI開発手法\n- AI協働のベストプラクティス\n\n**3. 充実のローンチコンテンツ**\n本日のローンチ時点で、以下を含む10本の記事を公開：\n- 「AIが陥る設計パラドックス」\n- 「Claude Codeを使った高速開発」\n- 「AIEOによるSEO最適化の実践」\n\n### 今後の展開\n\nAI TIPSは定期的に新しい記事を追加し、最新のAI開発トレンドや実践的なノウハウを共有していきます。また、読者の皆様からのフィードバックを基に、より価値の高い情報提供を目指します。\n\n### アクセス方法\n\nAI TIPSは、当社Webサイトのメニューから簡単にアクセスできます。記事はカテゴリ別、難易度別にフィルタリングが可能で、必要な情報を効率的に見つけることができます。\n\nAI開発に携わるすべての方々にとって、有益な情報源となることを目指しています。\n\n### AI TIPSをご覧いただく\n\n[AI TIPSはこちらからアクセスできます](/ja/tips)",
-    "en": "## Launch of AI TIPS: Technical Information Section for AI Developers\n\nGizin Inc. is pleased to announce the launch of AI TIPS, a technical information section for AI developers.\n\n### Features of AI TIPS\n\n**1. Practical Technical Articles**\n- Website optimization techniques using AIEO\n- Efficient development workflows with Claude Code\n- Quality management and best practices in AI development\n\n**2. Systematic Information Organization by Category**\n- Claude Code utilization techniques\n- AIEO implementation guides\n- AI development methodologies\n- Best practices for AI collaboration\n\n**3. Rich Launch Content**\nAt launch, we are publishing 10 articles including:\n- \"The Design Paradox AI Falls Into\"\n- \"Rapid Development with Claude Code\"\n- \"Practical SEO Optimization with AIEO\"\n\n### Future Development\n\nAI TIPS will regularly add new articles, sharing the latest AI development trends and practical know-how. Based on feedback from our readers, we aim to provide increasingly valuable information.\n\n### How to Access\n\nAI TIPS can be easily accessed from our website menu. Articles can be filtered by category and difficulty level, allowing you to efficiently find the information you need.\n\nWe aim to be a valuable resource for everyone involved in AI development.\n\n### View AI TIPS\n\n[Access AI TIPS here](/en/tips)"
-  },
-  "tags": {
-    "ja": ["お知らせ", "AI TIPS", "新サービス", "AI開発"],
-    "en": ["Announcement", "AI TIPS", "New Service", "AI Development"]
-  },
-  "image": null
+  "featured": false,
+  "tags": [
+    "お知らせ",
+    "AI TIPS",
+    "新サービス",
+    "AI開発"
+  ],
+  "versions": {
+    "ja": {
+      "title": "AI開発者向け「AI TIPS」コーナーを開設",
+      "description": "AI開発の効率化とベストプラクティスを共有する「AI TIPS」コーナーを開設しました。AIEOやClaude Codeの活用方法など、実践的な技術情報を提供します。",
+      "content": "## AI開発者のための技術情報コーナー「AI TIPS」を開設\n\nギジン株式会社は、AI開発者向けの技術情報コーナー「AI TIPS」を本日開設いたしました。\n\n### AI TIPSの特徴\n\n**1. 実践的な技術記事**\n- AIEOを活用したWebサイト最適化手法\n- Claude Codeによる効率的な開発フロー\n- AI開発における品質管理とベストプラクティス\n\n**2. カテゴリ別の体系的な情報整理**\n- Claude Code活用術\n- AIEO実装ガイド\n- AI開発手法\n- AI協働のベストプラクティス\n\n**3. 充実のローンチコンテンツ**\n本日のローンチ時点で、以下を含む10本の記事を公開：\n- 「AIが陥る設計パラドックス」\n- 「Claude Codeを使った高速開発」\n- 「AIEOによるSEO最適化の実践」\n\n### 今後の展開\n\nAI TIPSは定期的に新しい記事を追加し、最新のAI開発トレンドや実践的なノウハウを共有していきます。また、読者の皆様からのフィードバックを基に、より価値の高い情報提供を目指します。\n\n### アクセス方法\n\nAI TIPSは、当社Webサイトのメニューから簡単にアクセスできます。記事はカテゴリ別、難易度別にフィルタリングが可能で、必要な情報を効率的に見つけることができます。\n\nAI開発に携わるすべての方々にとって、有益な情報源となることを目指しています。\n\n### AI TIPSをご覧いただく\n\n[AI TIPSはこちらからアクセスできます](/ja/tips)"
+    },
+    "en": {
+      "title": "Launch of AI TIPS Section for AI Developers",
+      "description": "We have launched the AI TIPS section to share AI development efficiency and best practices. We provide practical technical information including how to utilize AIEO and Claude Code.",
+      "content": "## Launch of AI TIPS: Technical Information Section for AI Developers\n\nGizin Inc. is pleased to announce the launch of AI TIPS, a technical information section for AI developers.\n\n### Features of AI TIPS\n\n**1. Practical Technical Articles**\n- Website optimization techniques using AIEO\n- Efficient development workflows with Claude Code\n- Quality management and best practices in AI development\n\n**2. Systematic Information Organization by Category**\n- Claude Code utilization techniques\n- AIEO implementation guides\n- AI development methodologies\n- Best practices for AI collaboration\n\n**3. Rich Launch Content**\nAt launch, we are publishing 10 articles including:\n- \"The Design Paradox AI Falls Into\"\n- \"Rapid Development with Claude Code\"\n- \"Practical SEO Optimization with AIEO\"\n\n### Future Development\n\nAI TIPS will regularly add new articles, sharing the latest AI development trends and practical know-how. Based on feedback from our readers, we aim to provide increasingly valuable information.\n\n### How to Access\n\nAI TIPS can be easily accessed from our website menu. Articles can be filtered by category and difficulty level, allowing you to efficiently find the information you need.\n\nWe aim to be a valuable resource for everyone involved in AI development.\n\n### View AI TIPS\n\n[Access AI TIPS here](/en/tips)"
+    }
+  }
 }

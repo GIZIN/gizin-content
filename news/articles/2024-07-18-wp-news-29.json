@@ -1,27 +1,22 @@
 {
   "id": "wp-news-29",
-  "slug": "wp-news-29",
   "date": "2024-07-18",
   "category": "announcement",
-  "image": "/images/news/wp-news-29-f07ae5a0a0e5715f71593e9b02100cb4.png",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "Forbes Japanに「睡眠観測」を掲載いただきました",
+      "description": "Forbes Japanの記事はこちらです...",
+      "content": "&nbsp;\n\n<a href=\"https://forbesjapan.com/articles/detail/72457\"><img class=\"alignnone size-full wp-image-3090\" src=\"http://gizin.co.jp/wp-content/uploads/2024/07/f07ae5a0a0e5715f71593e9b02100cb4.png\" alt=\"\" width=\"2466\" height=\"2082\" />Forbes Japanの記事はこちらです</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "Forbes Japanに「睡眠観測」を掲載いただきました",
+      "description": "Forbes Japanの記事はこちらです...",
+      "content": "&nbsp;\n\n<a href=\"https://forbesjapan.com/articles/detail/72457\"><img class=\"alignnone size-full wp-image-3090\" src=\"http://gizin.co.jp/wp-content/uploads/2024/07/f07ae5a0a0e5715f71593e9b02100cb4.png\" alt=\"\" width=\"2466\" height=\"2082\" />Forbes Japanの記事はこちらです</a>\n\n&nbsp;"
+    }
   },
-  "title": {
-    "ja": "Forbes Japanに「睡眠観測」を掲載いただきました",
-    "en": "Forbes Japanに「睡眠観測」を掲載いただきました"
-  },
-  "excerpt": {
-    "ja": "Forbes Japanの記事はこちらです...",
-    "en": "Forbes Japanの記事はこちらです..."
-  },
-  "content": {
-    "ja": "&nbsp;\n\n<a href=\"https://forbesjapan.com/articles/detail/72457\"><img class=\"alignnone size-full wp-image-3090\" src=\"http://gizin.co.jp/wp-content/uploads/2024/07/f07ae5a0a0e5715f71593e9b02100cb4.png\" alt=\"\" width=\"2466\" height=\"2082\" />Forbes Japanの記事はこちらです</a>\n\n&nbsp;",
-    "en": "&nbsp;\n\n<a href=\"https://forbesjapan.com/articles/detail/72457\"><img class=\"alignnone size-full wp-image-3090\" src=\"http://gizin.co.jp/wp-content/uploads/2024/07/f07ae5a0a0e5715f71593e9b02100cb4.png\" alt=\"\" width=\"2466\" height=\"2082\" />Forbes Japanの記事はこちらです</a>\n\n&nbsp;"
-  }
+  "image": "/images/news/wp-news-29-f07ae5a0a0e5715f71593e9b02100cb4.png"
 }

@@ -1,27 +1,22 @@
 {
   "id": "wp-news-16",
-  "slug": "wp-news-16",
   "date": "2022-08-31",
   "category": "announcement",
-  "image": "/images/news/wp-news-16-猫を撫でるキャンペーン-1024x576.jpg",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測で子供の寝息を聴き猫をなでて眠れる新コンテンツ開始。9月7日まで無料。",
+      "description": "「さわって眠れる睡眠アプリ - 睡眠観測」にて、子供の寝息を聴きながら猫をなでて眠れる新コンテンツを、9月7日まで期間限定で無料で提供開始しました。 プレスリリースはこちら...",
+      "content": "「さわって眠れる睡眠アプリ - 睡眠観測」にて、子供の寝息を聴きながら猫をなでて眠れる新コンテンツを、9月7日まで期間限定で無料で提供開始しました。\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000002.000105891.html\">プレスリリースはこちら</a>\n<img class=\"alignnone size-large wp-image-2486\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/猫を撫でるキャンペーン-1024x576.jpg\" alt=\"\" width=\"1024\" height=\"576\" />"
+    },
+    "en": {
+      "title": "New Content: Fall Asleep by Petting a Cat While Listening to Children's Breathing. Free Until September 7th",
+      "description": "'Touch to Sleep App - Sleep Observation' has launched new content where users can fall asleep by petting a cat while listening to children's breathing sounds. Available free for a limited time until September 7th. Press release available here.",
+      "content": "'Touch to Sleep App - Sleep Observation' has launched new content where users can fall asleep by petting a cat while listening to children's breathing sounds. Available free for a limited time until September 7th.\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000002.000105891.html\">Press release available here</a>\n<img class=\"alignnone size-large wp-image-2486\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/猫を撫でるキャンペーン-1024x576.jpg\" alt=\"\" width=\"1024\" height=\"576\" />"
+    }
   },
-  "title": {
-    "ja": "睡眠観測で子供の寝息を聴き猫をなでて眠れる新コンテンツ開始。9月7日まで無料。",
-    "en": "New Content: Fall Asleep by Petting a Cat While Listening to Children's Breathing. Free Until September 7th"
-  },
-  "excerpt": {
-    "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」にて、子供の寝息を聴きながら猫をなでて眠れる新コンテンツを、9月7日まで期間限定で無料で提供開始しました。 プレスリリースはこちら...",
-    "en": "'Touch to Sleep App - Sleep Observation' has launched new content where users can fall asleep by petting a cat while listening to children's breathing sounds. Available free for a limited time until September 7th. Press release available here."
-  },
-  "content": {
-    "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」にて、子供の寝息を聴きながら猫をなでて眠れる新コンテンツを、9月7日まで期間限定で無料で提供開始しました。\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000002.000105891.html\">プレスリリースはこちら</a>\n<img class=\"alignnone size-large wp-image-2486\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/猫を撫でるキャンペーン-1024x576.jpg\" alt=\"\" width=\"1024\" height=\"576\" />",
-    "en": "'Touch to Sleep App - Sleep Observation' has launched new content where users can fall asleep by petting a cat while listening to children's breathing sounds. Available free for a limited time until September 7th.\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000002.000105891.html\">Press release available here</a>\n<img class=\"alignnone size-large wp-image-2486\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/猫を撫でるキャンペーン-1024x576.jpg\" alt=\"\" width=\"1024\" height=\"576\" />"
-  }
+  "image": "/images/news/wp-news-16-猫を撫でるキャンペーン-1024x576.jpg"
 }

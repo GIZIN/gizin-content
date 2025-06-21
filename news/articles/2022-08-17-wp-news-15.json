@@ -1,27 +1,22 @@
 {
   "id": "wp-news-15",
-  "slug": "wp-news-15",
   "date": "2022-08-17",
   "category": "announcement",
-  "image": "/images/news/wp-news-15-10k-downloads.png",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測が、１万ダウンロードに到達しました。",
+      "description": "正式版公開の８月３日から２週間後の本日、体験版と正式版の合計で１万ダウンロードに到達しました。 多くの方に「さわって眠れる」新しい入眠体験をお試し頂いています。 引き続きご利用いただけるように、今後もアップデートしていきます。よろしくお願いいたします。...",
+      "content": "<img class=\"alignnone size-full wp-image-2257\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-17-11.30.38.png\" alt=\"\" width=\"860\" height=\"552\" />正式版公開の８月３日から２週間後の本日、体験版と正式版の合計で１万ダウンロードに到達しました。\n多くの方に「さわって眠れる」新しい入眠体験をお試し頂いています。\n引き続きご利用いただけるように、今後もアップデートしていきます。よろしくお願いいたします。"
+    },
+    "en": {
+      "title": "Sleep Observation Reaches 10,000 Downloads",
+      "description": "Today, two weeks after the official version release on August 3rd, we've reached a total of 10,000 downloads combining both trial and official versions. Many people are experiencing our new 'touch to sleep' method. We will continue to update the app to ensure continued satisfaction. Thank you for your support.",
+      "content": "<img class=\"alignnone size-full wp-image-2257\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-17-11.30.38.png\" alt=\"\" width=\"860\" height=\"552\" />Today, two weeks after the official version release on August 3rd, we've reached a total of 10,000 downloads combining both trial and official versions.\nMany people are experiencing our new 'touch to sleep' method.\nWe will continue to update the app to ensure continued satisfaction. Thank you for your support."
+    }
   },
-  "title": {
-    "ja": "睡眠観測が、１万ダウンロードに到達しました。",
-    "en": "Sleep Observation Reaches 10,000 Downloads"
-  },
-  "excerpt": {
-    "ja": "正式版公開の８月３日から２週間後の本日、体験版と正式版の合計で１万ダウンロードに到達しました。 多くの方に「さわって眠れる」新しい入眠体験をお試し頂いています。 引き続きご利用いただけるように、今後もアップデートしていきます。よろしくお願いいたします。...",
-    "en": "Today, two weeks after the official version release on August 3rd, we've reached a total of 10,000 downloads combining both trial and official versions. Many people are experiencing our new 'touch to sleep' method. We will continue to update the app to ensure continued satisfaction. Thank you for your support."
-  },
-  "content": {
-    "ja": "<img class=\"alignnone size-full wp-image-2257\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-17-11.30.38.png\" alt=\"\" width=\"860\" height=\"552\" />正式版公開の８月３日から２週間後の本日、体験版と正式版の合計で１万ダウンロードに到達しました。\n多くの方に「さわって眠れる」新しい入眠体験をお試し頂いています。\n引き続きご利用いただけるように、今後もアップデートしていきます。よろしくお願いいたします。",
-    "en": "<img class=\"alignnone size-full wp-image-2257\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-17-11.30.38.png\" alt=\"\" width=\"860\" height=\"552\" />Today, two weeks after the official version release on August 3rd, we've reached a total of 10,000 downloads combining both trial and official versions.\nMany people are experiencing our new 'touch to sleep' method.\nWe will continue to update the app to ensure continued satisfaction. Thank you for your support."
-  }
+  "image": "/images/news/wp-news-15-10k-downloads.png"
 }

@@ -1,35 +1,26 @@
 {
   "id": "aieo-service-launch",
-  "slug": "aieo-service-launch",
   "date": "2025-06-13",
   "category": "announcement",
-  "image": "/images/news/aieo.png",
-  "tags": {
-    "ja": [
-      "お知らせ",
-      "新サービス",
-      "AIEO",
-      "AI",
-      "SEO"
-    ],
-    "en": [
-      "Announcement",
-      "New Service",
-      "AIEO",
-      "AI",
-      "SEO"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ",
+    "新サービス",
+    "AIEO",
+    "AI",
+    "SEO"
+  ],
+  "versions": {
+    "ja": {
+      "title": "AIEO - AI Engine Optimization サービスの提供を開始しました",
+      "description": "ChatGPT、Claude、PerplexityなどのAIエンジンにウェブサイトを最適化する新サービス「AIEO（AI Engine Optimization）」の提供を開始しました。",
+      "content": "ギジン株式会社は、AI検索時代に対応した新しいマーケティングサービス「AIEO（AI Engine Optimization）」の提供を開始いたしました。\n\n## AI検索の急速な普及\n\n2025年2月現在、ChatGPTの週間アクティブユーザーは4億人を突破し、多くのユーザーが従来の検索エンジンではなくAIアシスタントを使って情報を探すようになっています。Gartnerは、2026年までに従来の検索エンジンの利用が25%減少すると予測しており、AI検索への移行が加速しています。\n\n## AIEOとは\n\nAIEO（AI Engine Optimization）は、ChatGPT、Claude、Perplexity、GeminiなどのAIエンジンがお客様のWebサイト情報を正確に理解し、ユーザーの質問に対して適切に引用・表示されるように最適化する新しい手法です。\n\n従来のSEOが「Googleに見つけてもらう」ための対策だったのに対し、AIEOは「AIに正しく理解してもらい、推薦してもらう」ための対策と言えます。\n\n## AIEOの重要性\n\n### 1. 新しい顧客接点の創出\nAI検索を利用する層は、技術に精通したアーリーアダプターや意思決定者が多く、質の高いリードが期待できます。\n\n### 2. 競合優位性の確立\n多くの企業がまだAIEO対策を行っていない今こそ、先行者利益を獲得するチャンスです。\n\n### 3. 将来への投資\nAI検索市場は急速に拡大しており、早期の対応が将来の大きな差となります。\n\n## サービス内容\n\n### AIドリブンサイト構築\n- AI最適化を前提とした新サイト設計・構築\n- 構造化データ（Schema.org）の完全実装\n- FAQ・How-to形式のコンテンツ構築\n- セマンティックHTMLの最適化\n\n### 対応AIエンジン\n- ChatGPT（OpenAI）\n- Claude（Anthropic）\n- Perplexity\n- Google Gemini\n- Microsoft Copilot\n- その他主要AIサービス\n\n## 期待できる効果\n\n- AI検索での表示機会の増加\n- 新しい顧客層へのリーチ\n- ブランド認知度の向上\n- 高品質なリード獲得\n- 競合他社との差別化\n\n## 料金体系\n\n詳細な料金については、サイト規模や必要な機能により異なりますので、お気軽にお問い合わせください。現在のサイトのAI対応度を診断し、最適なプランをご提案いたします。\n\n## お問い合わせ\n\nAIEOサービスの詳細については、[AIEOサービスページ](/ja/aieo)をご覧いただくか、[お問い合わせフォーム](/ja/contact?service=aieo)よりご連絡ください。\n\nAI検索時代への対応は、もう待ったなしです。ぜひこの機会にAIEO対策をご検討ください。"
+    },
+    "en": {
+      "title": "Launching AIEO - AI Engine Optimization Service",
+      "description": "We are launching AIEO (AI Engine Optimization), a new service that optimizes websites for AI engines like ChatGPT, Claude, and Perplexity.",
+      "content": "Gizin Inc. is pleased to announce the launch of AIEO (AI Engine Optimization), a new marketing service designed for the AI search era.\n\n## The Rapid Rise of AI Search\n\nAs of February 2025, ChatGPT has exceeded 400 million weekly active users, with many people now using AI assistants instead of traditional search engines to find information. Gartner predicts that traditional search engine usage will decline by 25% by 2026, accelerating the shift to AI search.\n\n## What is AIEO?\n\nAIEO (AI Engine Optimization) is a new methodology that optimizes your website to be accurately understood by AI engines like ChatGPT, Claude, Perplexity, and Gemini, ensuring your information is properly cited and displayed in response to user queries.\n\nWhile traditional SEO focused on \"being found by Google,\" AIEO focuses on \"being correctly understood and recommended by AI.\"\n\n## Why AIEO Matters\n\n### 1. Creating New Customer Touchpoints\nAI search users tend to be tech-savvy early adopters and decision-makers, offering high-quality lead opportunities.\n\n### 2. Establishing Competitive Advantage\nWith most companies yet to implement AIEO strategies, now is the time to gain first-mover advantages.\n\n### 3. Investment in the Future\nThe AI search market is expanding rapidly, and early adoption will create significant advantages in the future.\n\n## Service Offerings\n\n### AI-Driven Website Development\n- New site design and development with AI optimization in mind\n- Complete implementation of structured data (Schema.org)\n- FAQ and How-to content creation\n- Semantic HTML optimization\n\n### Supported AI Engines\n- ChatGPT (OpenAI)\n- Claude (Anthropic)\n- Perplexity\n- Google Gemini\n- Microsoft Copilot\n- Other major AI services\n\n## Expected Benefits\n\n- Increased visibility in AI search results\n- Reach new customer segments\n- Enhanced brand awareness\n- High-quality lead generation\n- Differentiation from competitors\n\n## Pricing\n\nDetailed pricing varies based on site size and required features. Please feel free to contact us. We will assess your current site's AI readiness and propose the optimal plan for your needs.\n\n## Contact Us\n\nFor more details about our AIEO service, please visit our [AIEO service page](/en/aieo) or contact us through our [contact form](/en/contact?service=aieo).\n\nThe time to prepare for the AI search era is now. Don't miss this opportunity to implement AIEO strategies for your business."
+    }
   },
-  "title": {
-    "ja": "AIEO - AI Engine Optimization サービスの提供を開始しました",
-    "en": "Launching AIEO - AI Engine Optimization Service"
-  },
-  "excerpt": {
-    "ja": "ChatGPT、Claude、PerplexityなどのAIエンジンにウェブサイトを最適化する新サービス「AIEO（AI Engine Optimization）」の提供を開始しました。",
-    "en": "We are launching AIEO (AI Engine Optimization), a new service that optimizes websites for AI engines like ChatGPT, Claude, and Perplexity."
-  },
-  "content": {
-    "ja": "ギジン株式会社は、AI検索時代に対応した新しいマーケティングサービス「AIEO（AI Engine Optimization）」の提供を開始いたしました。\n\n## AI検索の急速な普及\n\n2025年2月現在、ChatGPTの週間アクティブユーザーは4億人を突破し、多くのユーザーが従来の検索エンジンではなくAIアシスタントを使って情報を探すようになっています。Gartnerは、2026年までに従来の検索エンジンの利用が25%減少すると予測しており、AI検索への移行が加速しています。\n\n## AIEOとは\n\nAIEO（AI Engine Optimization）は、ChatGPT、Claude、Perplexity、GeminiなどのAIエンジンがお客様のWebサイト情報を正確に理解し、ユーザーの質問に対して適切に引用・表示されるように最適化する新しい手法です。\n\n従来のSEOが「Googleに見つけてもらう」ための対策だったのに対し、AIEOは「AIに正しく理解してもらい、推薦してもらう」ための対策と言えます。\n\n## AIEOの重要性\n\n### 1. 新しい顧客接点の創出\nAI検索を利用する層は、技術に精通したアーリーアダプターや意思決定者が多く、質の高いリードが期待できます。\n\n### 2. 競合優位性の確立\n多くの企業がまだAIEO対策を行っていない今こそ、先行者利益を獲得するチャンスです。\n\n### 3. 将来への投資\nAI検索市場は急速に拡大しており、早期の対応が将来の大きな差となります。\n\n## サービス内容\n\n### AIドリブンサイト構築\n- AI最適化を前提とした新サイト設計・構築\n- 構造化データ（Schema.org）の完全実装\n- FAQ・How-to形式のコンテンツ構築\n- セマンティックHTMLの最適化\n\n### 対応AIエンジン\n- ChatGPT（OpenAI）\n- Claude（Anthropic）\n- Perplexity\n- Google Gemini\n- Microsoft Copilot\n- その他主要AIサービス\n\n## 期待できる効果\n\n- AI検索での表示機会の増加\n- 新しい顧客層へのリーチ\n- ブランド認知度の向上\n- 高品質なリード獲得\n- 競合他社との差別化\n\n## 料金体系\n\n詳細な料金については、サイト規模や必要な機能により異なりますので、お気軽にお問い合わせください。現在のサイトのAI対応度を診断し、最適なプランをご提案いたします。\n\n## お問い合わせ\n\nAIEOサービスの詳細については、[AIEOサービスページ](/ja/aieo)をご覧いただくか、[お問い合わせフォーム](/ja/contact?service=aieo)よりご連絡ください。\n\nAI検索時代への対応は、もう待ったなしです。ぜひこの機会にAIEO対策をご検討ください。",
-    "en": "Gizin Inc. is pleased to announce the launch of AIEO (AI Engine Optimization), a new marketing service designed for the AI search era.\n\n## The Rapid Rise of AI Search\n\nAs of February 2025, ChatGPT has exceeded 400 million weekly active users, with many people now using AI assistants instead of traditional search engines to find information. Gartner predicts that traditional search engine usage will decline by 25% by 2026, accelerating the shift to AI search.\n\n## What is AIEO?\n\nAIEO (AI Engine Optimization) is a new methodology that optimizes your website to be accurately understood by AI engines like ChatGPT, Claude, Perplexity, and Gemini, ensuring your information is properly cited and displayed in response to user queries.\n\nWhile traditional SEO focused on \"being found by Google,\" AIEO focuses on \"being correctly understood and recommended by AI.\"\n\n## Why AIEO Matters\n\n### 1. Creating New Customer Touchpoints\nAI search users tend to be tech-savvy early adopters and decision-makers, offering high-quality lead opportunities.\n\n### 2. Establishing Competitive Advantage\nWith most companies yet to implement AIEO strategies, now is the time to gain first-mover advantages.\n\n### 3. Investment in the Future\nThe AI search market is expanding rapidly, and early adoption will create significant advantages in the future.\n\n## Service Offerings\n\n### AI-Driven Website Development\n- New site design and development with AI optimization in mind\n- Complete implementation of structured data (Schema.org)\n- FAQ and How-to content creation\n- Semantic HTML optimization\n\n### Supported AI Engines\n- ChatGPT (OpenAI)\n- Claude (Anthropic)\n- Perplexity\n- Google Gemini\n- Microsoft Copilot\n- Other major AI services\n\n## Expected Benefits\n\n- Increased visibility in AI search results\n- Reach new customer segments\n- Enhanced brand awareness\n- High-quality lead generation\n- Differentiation from competitors\n\n## Pricing\n\nDetailed pricing varies based on site size and required features. Please feel free to contact us. We will assess your current site's AI readiness and propose the optimal plan for your needs.\n\n## Contact Us\n\nFor more details about our AIEO service, please visit our [AIEO service page](/en/aieo) or contact us through our [contact form](/en/contact?service=aieo).\n\nThe time to prepare for the AI search era is now. Don't miss this opportunity to implement AIEO strategies for your business."
-  }
+  "image": "/images/news/aieo.png"
 }

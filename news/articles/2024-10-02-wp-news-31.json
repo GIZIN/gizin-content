@@ -1,27 +1,22 @@
 {
   "id": "wp-news-31",
-  "slug": "wp-news-31",
   "date": "2024-10-02",
   "category": "announcement",
-  "image": "/images/news/wp-news-31-IMG_3FE952FCEA3D-1-699x1024.jpg",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "「さわって眠れる睡眠アプリ - 睡眠観測」が、4万ダウンロードに到達しました。",
+      "description": "2024年10月1日（火）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、4万を超えました。 2023年12月に3万ダウンロードを超えてから1年弱、今も純広告は行わない利用者の口コミだけで順調に伸びてきています。 寝苦しさが解消された方から、喜びのお便りをいただくことも増えてきました。 ユーザの声を聞きながら、アプリは日々改善を続けています。 最新版のアップデートでは、コンテ...",
+      "content": "2024年10月1日（火）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、4万を超えました。\n\n2023年12月に3万ダウンロードを超えてから1年弱、今も純広告は行わない利用者の口コミだけで順調に伸びてきています。\n\n寝苦しさが解消された方から、喜びのお便りをいただくことも増えてきました。\n\n<img class=\"alignnone wp-image-3098 size-large\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/IMG_3FE952FCEA3D-1-699x1024.jpg\" alt=\"\" width=\"699\" height=\"1024\" />\n\nユーザの声を聞きながら、アプリは日々改善を続けています。\n<img class=\"alignnone size-large wp-image-3099\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/105891-8-0b6525f9f96d830b9866f7c749a5fd15-1560x324.png-1024x213.webp\" alt=\"\" width=\"1024\" height=\"213\" />\n\n最新版のアップデートでは、コンテンツの内容の変化が乏しいと利用中に飽きて効果が薄れるという問題の解決のために、生成AIによる豊富な睡眠コンテンツをリリースしました。\n\n今後も、寝苦しい夜を解決するために、多くの方に「さわって眠れる体験」をお届けしていきます。\n\n睡眠観測アプリをご愛顧のほど、よろしくお願いいたします。"
+    },
+    "en": {
+      "title": "'Touch to Sleep App - Sleep Observation' Reaches 40,000 Downloads",
+      "description": "On October 1, 2024 (Tuesday), the total number of downloads across both iOS and Android platforms exceeded 40,000. Almost a year after surpassing 30,000 downloads in December 2023, the app continues to grow steadily through word-of-mouth alone without any paid advertising. We've been receiving more messages of joy from users who have found relief from sleeplessness.",
+      "content": "On October 1, 2024 (Tuesday), the total number of downloads across both iOS and Android platforms exceeded 40,000.\n\nAlmost a year after surpassing 30,000 downloads in December 2023, the app continues to grow steadily through word-of-mouth alone without any paid advertising.\n\nWe've been receiving more messages of joy from users who have found relief from sleeplessness.\n\n<img class=\"alignnone wp-image-3098 size-large\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/IMG_3FE952FCEA3D-1-699x1024.jpg\" alt=\"\" width=\"699\" height=\"1024\" />\n\nListening to user feedback, we continue to improve the app daily.\n<img class=\"alignnone size-large wp-image-3099\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/105891-8-0b6525f9f96d830b9866f7c749a5fd15-1560x324.png-1024x213.webp\" alt=\"\" width=\"1024\" height=\"213\" />\n\nIn the latest update, we've released abundant sleep content powered by generative AI to solve the problem of users getting bored due to lack of variety in content, which was reducing effectiveness.\n\nWe will continue to deliver the 'touch to sleep experience' to many people to help solve restless nights.\n\nThank you for your continued support of the Sleep Observation app."
+    }
   },
-  "title": {
-    "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」が、4万ダウンロードに到達しました。",
-    "en": "'Touch to Sleep App - Sleep Observation' Reaches 40,000 Downloads"
-  },
-  "excerpt": {
-    "ja": "2024年10月1日（火）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、4万を超えました。 2023年12月に3万ダウンロードを超えてから1年弱、今も純広告は行わない利用者の口コミだけで順調に伸びてきています。 寝苦しさが解消された方から、喜びのお便りをいただくことも増えてきました。 ユーザの声を聞きながら、アプリは日々改善を続けています。 最新版のアップデートでは、コンテ...",
-    "en": "On October 1, 2024 (Tuesday), the total number of downloads across both iOS and Android platforms exceeded 40,000. Almost a year after surpassing 30,000 downloads in December 2023, the app continues to grow steadily through word-of-mouth alone without any paid advertising. We've been receiving more messages of joy from users who have found relief from sleeplessness."
-  },
-  "content": {
-    "ja": "2024年10月1日（火）に、iOSとAndroidの両プラットフォームの合計ダウンロード数が、4万を超えました。\n\n2023年12月に3万ダウンロードを超えてから1年弱、今も純広告は行わない利用者の口コミだけで順調に伸びてきています。\n\n寝苦しさが解消された方から、喜びのお便りをいただくことも増えてきました。\n\n<img class=\"alignnone wp-image-3098 size-large\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/IMG_3FE952FCEA3D-1-699x1024.jpg\" alt=\"\" width=\"699\" height=\"1024\" />\n\nユーザの声を聞きながら、アプリは日々改善を続けています。\n<img class=\"alignnone size-large wp-image-3099\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/105891-8-0b6525f9f96d830b9866f7c749a5fd15-1560x324.png-1024x213.webp\" alt=\"\" width=\"1024\" height=\"213\" />\n\n最新版のアップデートでは、コンテンツの内容の変化が乏しいと利用中に飽きて効果が薄れるという問題の解決のために、生成AIによる豊富な睡眠コンテンツをリリースしました。\n\n今後も、寝苦しい夜を解決するために、多くの方に「さわって眠れる体験」をお届けしていきます。\n\n睡眠観測アプリをご愛顧のほど、よろしくお願いいたします。",
-    "en": "On October 1, 2024 (Tuesday), the total number of downloads across both iOS and Android platforms exceeded 40,000.\n\nAlmost a year after surpassing 30,000 downloads in December 2023, the app continues to grow steadily through word-of-mouth alone without any paid advertising.\n\nWe've been receiving more messages of joy from users who have found relief from sleeplessness.\n\n<img class=\"alignnone wp-image-3098 size-large\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/IMG_3FE952FCEA3D-1-699x1024.jpg\" alt=\"\" width=\"699\" height=\"1024\" />\n\nListening to user feedback, we continue to improve the app daily.\n<img class=\"alignnone size-large wp-image-3099\" src=\"http://gizin.co.jp/wp-content/uploads/2024/10/105891-8-0b6525f9f96d830b9866f7c749a5fd15-1560x324.png-1024x213.webp\" alt=\"\" width=\"1024\" height=\"213\" />\n\nIn the latest update, we've released abundant sleep content powered by generative AI to solve the problem of users getting bored due to lack of variety in content, which was reducing effectiveness.\n\nWe will continue to deliver the 'touch to sleep experience' to many people to help solve restless nights.\n\nThank you for your continued support of the Sleep Observation app."
-  }
+  "image": "/images/news/wp-news-31-IMG_3FE952FCEA3D-1-699x1024.jpg"
 }

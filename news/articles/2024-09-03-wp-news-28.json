@@ -1,27 +1,22 @@
 {
   "id": "wp-news-28",
-  "slug": "wp-news-28",
   "date": "2024-09-03",
   "category": "announcement",
-  "image": "/images/news/wp-news-28-3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠アプリに生成AI活用したコンテンツをリリースしました",
+      "description": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです...",
+      "content": "<h1 id=\"press-release-title\" class=\"css-4jhbtc\">【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。</h1>\n<a href=\"https://prtimes.jp/main/html/rd/p/000000008.000105891.html\"><img class=\"alignnone size-full wp-image-3085\" src=\"http://gizin.co.jp/wp-content/uploads/2024/09/3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg\" alt=\"\" width=\"2208\" height=\"1242\" />プレスリリースはこちらです</a>"
+    },
+    "en": {
+      "title": "睡眠アプリに生成AI活用したコンテンツをリリースしました",
+      "description": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです...",
+      "content": "<h1 id=\"press-release-title\" class=\"css-4jhbtc\">【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。</h1>\n<a href=\"https://prtimes.jp/main/html/rd/p/000000008.000105891.html\"><img class=\"alignnone size-full wp-image-3085\" src=\"http://gizin.co.jp/wp-content/uploads/2024/09/3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg\" alt=\"\" width=\"2208\" height=\"1242\" />プレスリリースはこちらです</a>"
+    }
   },
-  "title": {
-    "ja": "睡眠アプリに生成AI活用したコンテンツをリリースしました",
-    "en": "睡眠アプリに生成AI活用したコンテンツをリリースしました"
-  },
-  "excerpt": {
-    "ja": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです...",
-    "en": "【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。 プレスリリースはこちらです..."
-  },
-  "content": {
-    "ja": "<h1 id=\"press-release-title\" class=\"css-4jhbtc\">【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。</h1>\n<a href=\"https://prtimes.jp/main/html/rd/p/000000008.000105891.html\"><img class=\"alignnone size-full wp-image-3085\" src=\"http://gizin.co.jp/wp-content/uploads/2024/09/3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg\" alt=\"\" width=\"2208\" height=\"1242\" />プレスリリースはこちらです</a>",
-    "en": "<h1 id=\"press-release-title\" class=\"css-4jhbtc\">【生成AIと寝る】なかなか寝つけない夜に、生成AIの睡眠コンテンツがあなたの入眠をサポートします。</h1>\n<a href=\"https://prtimes.jp/main/html/rd/p/000000008.000105891.html\"><img class=\"alignnone size-full wp-image-3085\" src=\"http://gizin.co.jp/wp-content/uploads/2024/09/3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg\" alt=\"\" width=\"2208\" height=\"1242\" />プレスリリースはこちらです</a>"
-  }
+  "image": "/images/news/wp-news-28-3e0d55e8fe2b35b7d86d1cc8098e4bc4.jpg"
 }

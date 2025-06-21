@@ -1,27 +1,22 @@
 {
   "id": "wp-news-9",
-  "slug": "wp-news-9",
   "date": "2022-07-16",
   "category": "announcement",
-  "image": "/images/news/wp-news-9-Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png",
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測のアップグレード版の予約注文を開始しました",
+      "description": "睡眠観測のアップグレード版が８月３日リリースに決まりました。 AppleStore限定で、今日から予約注文が始まりました。 リリースまでの8月2日まで期間限定で20%OFFの490円でご購入頂けます。 iPhone、iPadの方はこちらからご購入頂けます。 睡眠観測について詳しくはこちらから御覧ください。 http://gizin.co.jp/touchsleep...",
+      "content": "睡眠観測のアップグレード版が８月３日リリースに決まりました。\n\nAppleStore限定で、今日から予約注文が始まりました。\n\nリリースまでの8月2日まで期間限定で20%OFFの490円でご購入頂けます。\n\niPhone、iPadの方はこちらからご購入頂けます。<span style=\"font-size: 12pt;\"><a href=\"https://apps.apple.com/jp/app/id1633877846\"><img class=\"aligncenter wp-image-1998\" src=\"http://gizin.co.jp/wp-content/uploads/2022/07/Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png\" alt=\"\" width=\"200\" height=\"74\" /></a></span>\n\n睡眠観測について詳しくはこちらから御覧ください。\n\nhttp://gizin.co.jp/touchsleep"
+    },
+    "en": {
+      "title": "Pre-orders Now Open for Sleep Observation Upgrade Version",
+      "description": "The upgrade version of Sleep Observation will be released on August 3rd. Pre-orders are now available exclusively on the Apple Store. Get a limited-time 20% discount at ¥490 until August 2nd. Available for iPhone and iPad users. Learn more about Sleep Observation at http://gizin.co.jp/touchsleep",
+      "content": "The upgrade version of Sleep Observation will be released on August 3rd.\n\nPre-orders are now available exclusively on the Apple Store.\n\nGet a limited-time 20% discount at ¥490 until August 2nd.\n\niPhone and iPad users can purchase it here.<span style=\"font-size: 12pt;\"><a href=\"https://apps.apple.com/jp/app/id1633877846\"><img class=\"aligncenter wp-image-1998\" src=\"http://gizin.co.jp/wp-content/uploads/2022/07/Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png\" alt=\"\" width=\"200\" height=\"74\" /></a></span>\n\nLearn more about Sleep Observation here.\n\nhttp://gizin.co.jp/touchsleep"
+    }
   },
-  "title": {
-    "ja": "睡眠観測のアップグレード版の予約注文を開始しました",
-    "en": "Pre-orders Now Open for Sleep Observation Upgrade Version"
-  },
-  "excerpt": {
-    "ja": "睡眠観測のアップグレード版が８月３日リリースに決まりました。 AppleStore限定で、今日から予約注文が始まりました。 リリースまでの8月2日まで期間限定で20%OFFの490円でご購入頂けます。 iPhone、iPadの方はこちらからご購入頂けます。 睡眠観測について詳しくはこちらから御覧ください。 http://gizin.co.jp/touchsleep...",
-    "en": "The upgrade version of Sleep Observation will be released on August 3rd. Pre-orders are now available exclusively on the Apple Store. Get a limited-time 20% discount at ¥490 until August 2nd. Available for iPhone and iPad users. Learn more about Sleep Observation at http://gizin.co.jp/touchsleep"
-  },
-  "content": {
-    "ja": "睡眠観測のアップグレード版が８月３日リリースに決まりました。\n\nAppleStore限定で、今日から予約注文が始まりました。\n\nリリースまでの8月2日まで期間限定で20%OFFの490円でご購入頂けます。\n\niPhone、iPadの方はこちらからご購入頂けます。<span style=\"font-size: 12pt;\"><a href=\"https://apps.apple.com/jp/app/id1633877846\"><img class=\"aligncenter wp-image-1998\" src=\"http://gizin.co.jp/wp-content/uploads/2022/07/Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png\" alt=\"\" width=\"200\" height=\"74\" /></a></span>\n\n睡眠観測について詳しくはこちらから御覧ください。\n\nhttp://gizin.co.jp/touchsleep",
-    "en": "The upgrade version of Sleep Observation will be released on August 3rd.\n\nPre-orders are now available exclusively on the Apple Store.\n\nGet a limited-time 20% discount at ¥490 until August 2nd.\n\niPhone and iPad users can purchase it here.<span style=\"font-size: 12pt;\"><a href=\"https://apps.apple.com/jp/app/id1633877846\"><img class=\"aligncenter wp-image-1998\" src=\"http://gizin.co.jp/wp-content/uploads/2022/07/Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png\" alt=\"\" width=\"200\" height=\"74\" /></a></span>\n\nLearn more about Sleep Observation here.\n\nhttp://gizin.co.jp/touchsleep"
-  }
+  "image": "/images/news/wp-news-9-Download_on_the_App_Store_Badge_JP_blk_100317-300x110.png"
 }

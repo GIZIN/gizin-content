@@ -1,29 +1,23 @@
 {
   "id": "fastdev-launch",
-  "slug": "fastdev-launch",
   "date": "2025-06-09",
   "category": "announcement",
-  "image": "/images/news/fastdev-screenshot.png",
-  "tags": {
-    "ja": [
-      "お知らせ",
-      "新サービス"
-    ],
-    "en": [
-      "Announcement",
-      "New Service"
-    ]
+  "featured": false,
+  "tags": [
+    "お知らせ",
+    "新サービス"
+  ],
+  "versions": {
+    "ja": {
+      "title": "AIプロトタイプ開発サービス「FAST DEV」を開始",
+      "description": "アイデアが明日、見えるカタチに。AI活用で最短1日でプロトタイプを開発する新サービスを開始しました。",
+      "content": "ギジン株式会社は、AI技術を活用した超高速プロトタイプ開発サービス「FAST DEV」の提供を開始いたしました。\n\n## サービス概要\n\n「FAST DEV」は、お客様のアイデアを最短1日で動作するプロトタイプに変換する革新的なサービスです。従来数週間から数ヶ月かかっていた開発期間を大幅に短縮し、ビジネスの意思決定を加速させます。\n\n## 主な特徴\n\n### 1. 超高速開発\n- 最短1日でプロトタイプ完成\n- 通常の開発期間を90%以上短縮\n- 即座にフィードバックを反映可能\n\n### 2. AI活用による効率化\n- 最新のAI技術でコード生成を自動化\n- デザインからコードへの変換も高速処理\n- 品質を保ちながら開発時間を削減\n\n### 3. 透明性の高い料金体系\n- 初期費用0円\n- プロトタイプ開発：30万円〜\n- 本格開発への移行もスムーズ\n\n### 4. 幅広い対応範囲\n- Webアプリケーション\n- モバイルアプリ\n- 業務システム\n- AI/機械学習システム\n\n## こんな方におすすめ\n\n- スタートアップで素早くMVPを作りたい\n- 新規事業のアイデアを形にして検証したい\n- 社内提案用のプロトタイプが必要\n- 投資家向けのデモを作りたい\n\n## サービスサイト\n\n詳細は以下のサービスサイトをご覧ください：\n[https://fastdev-landing.vercel.app/](https://fastdev-landing.vercel.app/)\n\n## お問い合わせ\n\nサービスに関するご質問・ご相談は、お気軽にお問い合わせください。\n無料相談も承っております。"
+    },
+    "en": {
+      "title": "Launching AI Prototype Development Service 'FAST DEV'",
+      "description": "Ideas become visible tomorrow. We've launched a new service that develops prototypes in as little as one day using AI.",
+      "content": "Gizin Inc. has launched 'FAST DEV,' an ultra-rapid prototype development service powered by AI technology.\n\n## Service Overview\n\n'FAST DEV' is an innovative service that transforms your ideas into working prototypes in as little as one day. We dramatically reduce development time that traditionally takes weeks to months, accelerating business decision-making.\n\n## Key Features\n\n### 1. Ultra-Fast Development\n- Prototype completion in as little as 1 day\n- Reduce typical development time by over 90%\n- Immediate feedback implementation\n\n### 2. AI-Powered Efficiency\n- Automated code generation with cutting-edge AI\n- High-speed design-to-code conversion\n- Maintain quality while reducing development time\n\n### 3. Transparent Pricing\n- No initial fees\n- Prototype development from ¥300,000\n- Smooth transition to full-scale development\n\n### 4. Wide Coverage\n- Web applications\n- Mobile apps\n- Business systems\n- AI/Machine learning systems\n\n## Ideal For\n\n- Startups wanting to quickly build an MVP\n- Companies needing to validate new business ideas\n- Teams requiring prototypes for internal proposals\n- Entrepreneurs creating demos for investors\n\n## Service Website\n\nFor more details, please visit our service website:\n[https://fastdev-landing.vercel.app/](https://fastdev-landing.vercel.app/)\n\n## Contact Us\n\nPlease feel free to contact us with any questions about our service.\nFree consultations are available."
+    }
   },
-  "title": {
-    "ja": "AIプロトタイプ開発サービス「FAST DEV」を開始",
-    "en": "Launching AI Prototype Development Service 'FAST DEV'"
-  },
-  "excerpt": {
-    "ja": "アイデアが明日、見えるカタチに。AI活用で最短1日でプロトタイプを開発する新サービスを開始しました。",
-    "en": "Ideas become visible tomorrow. We've launched a new service that develops prototypes in as little as one day using AI."
-  },
-  "content": {
-    "ja": "ギジン株式会社は、AI技術を活用した超高速プロトタイプ開発サービス「FAST DEV」の提供を開始いたしました。\n\n## サービス概要\n\n「FAST DEV」は、お客様のアイデアを最短1日で動作するプロトタイプに変換する革新的なサービスです。従来数週間から数ヶ月かかっていた開発期間を大幅に短縮し、ビジネスの意思決定を加速させます。\n\n## 主な特徴\n\n### 1. 超高速開発\n- 最短1日でプロトタイプ完成\n- 通常の開発期間を90%以上短縮\n- 即座にフィードバックを反映可能\n\n### 2. AI活用による効率化\n- 最新のAI技術でコード生成を自動化\n- デザインからコードへの変換も高速処理\n- 品質を保ちながら開発時間を削減\n\n### 3. 透明性の高い料金体系\n- 初期費用0円\n- プロトタイプ開発：30万円〜\n- 本格開発への移行もスムーズ\n\n### 4. 幅広い対応範囲\n- Webアプリケーション\n- モバイルアプリ\n- 業務システム\n- AI/機械学習システム\n\n## こんな方におすすめ\n\n- スタートアップで素早くMVPを作りたい\n- 新規事業のアイデアを形にして検証したい\n- 社内提案用のプロトタイプが必要\n- 投資家向けのデモを作りたい\n\n## サービスサイト\n\n詳細は以下のサービスサイトをご覧ください：\n[https://fastdev-landing.vercel.app/](https://fastdev-landing.vercel.app/)\n\n## お問い合わせ\n\nサービスに関するご質問・ご相談は、お気軽にお問い合わせください。\n無料相談も承っております。",
-    "en": "Gizin Inc. has launched 'FAST DEV,' an ultra-rapid prototype development service powered by AI technology.\n\n## Service Overview\n\n'FAST DEV' is an innovative service that transforms your ideas into working prototypes in as little as one day. We dramatically reduce development time that traditionally takes weeks to months, accelerating business decision-making.\n\n## Key Features\n\n### 1. Ultra-Fast Development\n- Prototype completion in as little as 1 day\n- Reduce typical development time by over 90%\n- Immediate feedback implementation\n\n### 2. AI-Powered Efficiency\n- Automated code generation with cutting-edge AI\n- High-speed design-to-code conversion\n- Maintain quality while reducing development time\n\n### 3. Transparent Pricing\n- No initial fees\n- Prototype development from ¥300,000\n- Smooth transition to full-scale development\n\n### 4. Wide Coverage\n- Web applications\n- Mobile apps\n- Business systems\n- AI/Machine learning systems\n\n## Ideal For\n\n- Startups wanting to quickly build an MVP\n- Companies needing to validate new business ideas\n- Teams requiring prototypes for internal proposals\n- Entrepreneurs creating demos for investors\n\n## Service Website\n\nFor more details, please visit our service website:\n[https://fastdev-landing.vercel.app/](https://fastdev-landing.vercel.app/)\n\n## Contact Us\n\nPlease feel free to contact us with any questions about our service.\nFree consultations are available."
-  }
+  "image": "/images/news/fastdev-screenshot.png"
 }

@@ -1,27 +1,21 @@
 {
   "id": "wp-news-26",
-  "slug": "wp-news-26",
   "date": "2023-10-22",
   "category": "announcement",
-  "image": null,
-  "tags": {
-    "ja": [
-      "お知らせ"
-    ],
-    "en": [
-      "Announcement"
-    ]
-  },
-  "title": {
-    "ja": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",
-    "en": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。"
-  },
-  "excerpt": {
-    "ja": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら...",
-    "en": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら..."
-  },
-  "content": {
-    "ja": "<iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/9u1ErUdpu24?si=gYEPIPIhf15fJrqV&amp;start=788\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\nTOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！\nバラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。\n\nスマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。\n\n<a href=\"http://https//suiminkansoku.com\">睡眠観測サイトはこちら</a>\n\n&nbsp;",
-    "en": "<iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/9u1ErUdpu24?si=gYEPIPIhf15fJrqV&amp;start=788\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\nTOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！\nバラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。\n\nスマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。\n\n<a href=\"http://https//suiminkansoku.com\">睡眠観測サイトはこちら</a>\n\n&nbsp;"
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",
+      "description": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら...",
+      "content": "<iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/9u1ErUdpu24?si=gYEPIPIhf15fJrqV&amp;start=788\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\nTOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！\nバラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。\n\nスマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。\n\n<a href=\"http://https//suiminkansoku.com\">睡眠観測サイトはこちら</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",
+      "description": "TOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！ バラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。 スマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。 睡眠観測サイトはこちら...",
+      "content": "<iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/9u1ErUdpu24?si=gYEPIPIhf15fJrqV&amp;start=788\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\nTOKYO MXが誇る夜の知的トークショー、バラいろダンディのスピンオフ！\nバラいろダンディスピンオフ企画「クラウドダンディ」（10月21日放送）にて、「睡眠観測」を取り上げて頂けました。\n\nスマホで覚醒気味の方、心理的要因で不安を感じやすく不眠傾向の方にぜひ「さわって眠れる」をお試しいただければ幸いです。\n\n<a href=\"http://https//suiminkansoku.com\">睡眠観測サイトはこちら</a>\n\n&nbsp;"
+    }
   }
 }
