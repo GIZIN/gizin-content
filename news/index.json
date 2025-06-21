@@ -6,19 +6,27 @@
       "date": "2025-06-21",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "睡眠観測",
-        "アプリ",
-        "マイルストーン",
-        "ヘルスケア"
-      ],
+      "tags": {
+        "ja": [
+          "睡眠観測",
+          "アプリ",
+          "マイルストーン",
+          "ヘルスケア"
+        ],
+        "en": [
+          "Touch to Sleep",
+          "App",
+          "Milestone",
+          "Healthcare"
+        ]
+      },
       "title": {
-        "ja": "睡眠観測アプリが5万ダウンロードに到達 - 新しい入眠体験が多くのユーザーに支持される",
-        "en": "Sleep Observation App Reaches 50,000 Downloads - Innovative Sleep-Inducing Experience Gains Wide User Support"
+        "ja": "さわって眠れる睡眠アプリ - 睡眠観測が5万ダウンロードに到達 - 新しい入眠体験が多くのユーザーに支持される",
+        "en": "Touch to Sleep App Reaches 50,000 Downloads - Innovative Sleep-Inducing Experience Gains Wide User Support"
       },
       "excerpt": {
         "ja": "睡眠観測アプリが5万ダウンロードに到達。目を閉じながら楽しめる新しい睡眠導入アプリの成長と、ユーザーからの高い評価について紹介します。",
-        "en": "Sleep Observation app reaches 50,000 downloads. Learn about the growth and high user ratings of this innovative sleep-inducing app that users can enjoy with their eyes closed."
+        "en": "Touch to Sleep app reaches 50,000 downloads. Learn about the growth and high user ratings of this innovative sleep-inducing app that users can enjoy with their eyes closed."
       }
     },
     {
@@ -27,12 +35,20 @@
       "date": "2025-06-18",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "AI協働",
-        "オープンソース",
-        "開発効率化"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "AI協働",
+          "オープンソース",
+          "開発効率化"
+        ],
+        "en": [
+          "Announcement",
+          "AI Collaboration",
+          "Open Source",
+          "Development Efficiency"
+        ]
+      },
       "title": {
         "ja": "AI協働開発の共通ルールをオープンソースとして公開",
         "en": "AI Collaboration Common Rules Released as Open Source"
@@ -48,12 +64,20 @@
       "date": "2025-06-16",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "AI TIPS",
-        "新サービス",
-        "AI開発"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "AI TIPS",
+          "新サービス",
+          "AI開発"
+        ],
+        "en": [
+          "Announcement",
+          "AI TIPS",
+          "New Service",
+          "AI Development"
+        ]
+      },
       "title": {
         "ja": "AI開発者向け「AI TIPS」コーナーを開設",
         "en": "Launch of AI TIPS Section for AI Developers"
@@ -69,13 +93,22 @@
       "date": "2025-06-13",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "新サービス",
-        "AIEO",
-        "AI",
-        "SEO"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "新サービス",
+          "AIEO",
+          "AI",
+          "SEO"
+        ],
+        "en": [
+          "Announcement",
+          "New Service",
+          "AIEO",
+          "AI",
+          "SEO"
+        ]
+      },
       "title": {
         "ja": "AIEO - AI Engine Optimization サービスの提供を開始しました",
         "en": "Launching AIEO - AI Engine Optimization Service"
@@ -91,13 +124,22 @@
       "date": "2025-06-13",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "オープンソース",
-        "開発ツール",
-        "Claude Code",
-        "Next.js"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "オープンソース",
+          "開発ツール",
+          "Claude Code",
+          "Next.js"
+        ],
+        "en": [
+          "Announcement",
+          "Open Source",
+          "Development Tool",
+          "Claude Code",
+          "Next.js"
+        ]
+      },
       "title": {
         "ja": "Claude Code 多言語対応サイト構築テンプレートをオープンソースで公開",
         "en": "Claude Code Multilingual Website Template Released as Open Source"
@@ -113,13 +155,22 @@
       "date": "2025-06-09",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "AI",
-        "Webサイト",
-        "Claude Code",
-        "リニューアル"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "AI",
+          "Webサイト",
+          "Claude Code",
+          "リニューアル"
+        ],
+        "en": [
+          "Announcement",
+          "AI",
+          "Website",
+          "Claude Code",
+          "Renewal"
+        ]
+      },
       "title": {
         "ja": "AIドリブンなWebサイトにリニューアルしました",
         "en": "Website Renewed with AI-Driven Technology"
@@ -135,10 +186,16 @@
       "date": "2025-06-09",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "新サービス"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "新サービス"
+        ],
+        "en": [
+          "Announcement",
+          "New Service"
+        ]
+      },
       "title": {
         "ja": "AIプロトタイプ開発サービス「FAST DEV」を開始",
         "en": "Launching AI Prototype Development Service 'FAST DEV'"
@@ -154,12 +211,20 @@
       "date": "2025-06-09",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "オープンソース",
-        "自動化ツール",
-        "GA4"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "オープンソース",
+          "自動化ツール",
+          "GA4"
+        ],
+        "en": [
+          "Announcement",
+          "Open Source",
+          "Automation Tool",
+          "GA4"
+        ]
+      },
       "title": {
         "ja": "GA4 Campaign Automationツールをオープンソースで公開",
         "en": "GA4 Campaign Automation Tool Released as Open Source"
@@ -175,11 +240,18 @@
       "date": "2025-06-09",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ",
-        "オープンソース",
-        "自動化ツール"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ",
+          "オープンソース",
+          "自動化ツール"
+        ],
+        "en": [
+          "Announcement",
+          "Open Source",
+          "Automation Tool"
+        ]
+      },
       "title": {
         "ja": "Google Ads自動化ツールをオープンソースで公開",
         "en": "Google Ads Automation Tool Released as Open Source"
@@ -195,9 +267,14 @@
       "date": "2025-05-19",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "【掲載情報】NTT東日本の睡眠コミュニティ「ZAKONE」でアプリ開発の想いと未来を語りました",
         "en": "【Media Coverage】Interview Article Published in NTT East's Sleep Community 'ZAKONE' - Sharing Our App Development Vision and Future"
@@ -213,9 +290,14 @@
       "date": "2025-05-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "『睡眠観測』がさらに進化♪ 最新の声＆改善情報をプレスリリースに追記しました！",
         "en": "『睡眠観測』がさらに進化♪ 最新の声＆改善情報をプレスリリースに追記しました！"
@@ -231,9 +313,14 @@
       "date": "2025-05-01",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました",
         "en": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました"
@@ -249,9 +336,14 @@
       "date": "2025-02-26",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測 for TeamsのWebサイトを公開しました",
         "en": "睡眠観測 for TeamsのWebサイトを公開しました"
@@ -267,9 +359,14 @@
       "date": "2025-01-12",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "ギジン株式会社 2024年 年次ご報告 ～創業10周年の感謝と新春の抱負～",
         "en": "ギジン株式会社 2024年 年次ご報告 ～創業10周年の感謝と新春の抱負～"
@@ -285,9 +382,14 @@
       "date": "2025-01-03",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",
         "en": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。"
@@ -303,9 +405,14 @@
       "date": "2024-12-13",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」にインタビュー記事が掲載されました。",
         "en": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」にインタビュー記事が掲載されました。"
@@ -321,9 +428,14 @@
       "date": "2024-11-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "【テレビ出演】「さわって眠れる睡眠アプリ - 睡眠観測」を、ミヤギnews every.「情熱Labo」にて取り上げていただきました(2024年10月31日)",
         "en": "【TV Appearance】'Touch to Sleep App - Sleep Observation' Featured on Miyagi news every. 'Passion Labo' (October 31, 2024)"
@@ -339,9 +451,14 @@
       "date": "2024-10-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "「さわって眠れる睡眠アプリ - 睡眠観測」が、4万ダウンロードに到達しました。",
         "en": "'Touch to Sleep App - Sleep Observation' Reaches 40,000 Downloads"
@@ -357,9 +474,14 @@
       "date": "2024-09-03",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠アプリに生成AI活用したコンテンツをリリースしました",
         "en": "睡眠アプリに生成AI活用したコンテンツをリリースしました"
@@ -375,9 +497,14 @@
       "date": "2024-07-23",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "GIZMODEに「睡眠観測」を掲載いただきました",
         "en": "GIZMODEに「睡眠観測」を掲載いただきました"
@@ -393,9 +520,14 @@
       "date": "2024-07-18",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測の利用データ28,000件の調査レポートを公表しました",
         "en": "睡眠観測の利用データ28,000件の調査レポートを公表しました"
@@ -411,9 +543,14 @@
       "date": "2024-07-18",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "Forbes Japanに「睡眠観測」を掲載いただきました",
         "en": "Forbes Japanに「睡眠観測」を掲載いただきました"
@@ -429,9 +566,14 @@
       "date": "2023-10-22",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",
         "en": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。"
@@ -447,9 +589,14 @@
       "date": "2023-06-27",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "集英社OurAgeに「睡眠観測」を掲載いただきました。",
         "en": "集英社OurAgeに「睡眠観測」を掲載いただきました。"
@@ -465,9 +612,14 @@
       "date": "2023-06-23",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "「さわって眠れる」商標を取得いたしました。",
         "en": "「さわって眠れる」商標を取得いたしました。"
@@ -483,9 +635,14 @@
       "date": "2023-04-01",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測が2万ダウンロードに到達しました。",
         "en": "睡眠観測が2万ダウンロードに到達しました。"
@@ -501,9 +658,14 @@
       "date": "2023-02-10",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "東京ビッグサイト「ジェンダード・イノベーションEXPO」に「睡眠観測」を出展しました。",
         "en": "東京ビッグサイト「ジェンダード・イノベーションEXPO」に「睡眠観測」を出展しました。"
@@ -519,9 +681,14 @@
       "date": "2023-02-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "東京ビッグサイト「ジェンダード・イノベーションEXPO」にて法人向け製品を初出展します。",
         "en": "東京ビッグサイト「ジェンダード・イノベーションEXPO」にて法人向け製品を初出展します。"
@@ -537,9 +704,14 @@
       "date": "2022-12-20",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "アスキーSTARTUPに「睡眠観測」を掲載頂きました。",
         "en": "アスキーSTARTUPに「睡眠観測」を掲載頂きました。"
@@ -555,9 +727,14 @@
       "date": "2022-11-24",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "日本の睡眠業界を盛り上げるZAKONEコミュニティに加盟しました。",
         "en": "日本の睡眠業界を盛り上げるZAKONEコミュニティに加盟しました。"
@@ -573,9 +750,14 @@
       "date": "2022-11-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測で、「無音で振動する」睡眠導入体験が、11月2日(水)配信開始。",
         "en": "Sleep Observation Launches 'Silent Vibration' Sleep Induction Experience on November 2nd"
@@ -591,9 +773,14 @@
       "date": "2022-11-02",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "Tarzanに掲載いただきました。(11月2日発売)",
         "en": "Featured in Tarzan Magazine (Released November 2nd)"
@@ -609,9 +796,14 @@
       "date": "2022-08-31",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測で子供の寝息を聴き猫をなでて眠れる新コンテンツ開始。9月7日まで無料。",
         "en": "New Content: Fall Asleep by Petting a Cat While Listening to Children's Breathing. Free Until September 7th"
@@ -627,9 +819,14 @@
       "date": "2022-08-17",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測が、１万ダウンロードに到達しました。",
         "en": "Sleep Observation Reaches 10,000 Downloads"
@@ -645,9 +842,14 @@
       "date": "2022-08-12",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "FNNプライムオンラインに「睡眠観測」の取材記事が掲載されました。",
         "en": "FNNプライムオンラインに「睡眠観測」の取材記事が掲載されました。"
@@ -663,9 +865,14 @@
       "date": "2022-08-09",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "（メディア・記事）睡眠観測を掲載頂きました",
         "en": "Sleep Observation Featured in Media Coverage"
@@ -681,9 +888,14 @@
       "date": "2022-08-07",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測体験版が、公開4日後で8000ダウンロードを達成しました。",
         "en": "Sleep Observation Trial Version Achieves 8,000 Downloads in Just 4 Days After Release"
@@ -699,9 +911,14 @@
       "date": "2022-08-03",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測が配信開始しました。",
         "en": "睡眠観測が配信開始しました。"
@@ -717,9 +934,14 @@
       "date": "2022-08-03",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測が、AppStore有料ランキング「メディカル」１位、GooglePlay有料トップ「健康＆フィットネス」１位になりました。",
         "en": "Sleep Observation Ranks #1 in App Store Medical Category and Google Play Health & Fitness Category"
@@ -735,9 +957,14 @@
       "date": "2022-07-16",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測のアップグレード版の予約注文を開始しました",
         "en": "Pre-orders Now Open for Sleep Observation Upgrade Version"
@@ -753,9 +980,14 @@
       "date": "2022-07-07",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "睡眠観測がリリースから１年経過し、ノンプロモーションで3,500ダウンロードに達しました。",
         "en": "Sleep Observation Reaches 3,500 Downloads After One Year Without Promotion"
@@ -771,9 +1003,14 @@
       "date": "2020-03-30",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "コンテンツ制作サービスを開始しました",
         "en": "Content Creation Service Launched"
@@ -789,9 +1026,14 @@
       "date": "2018-01-23",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "NTTドコモ主催のイベントでプレゼンテーションをしました",
         "en": "NTTドコモ主催のイベントでプレゼンテーションをしました"
@@ -807,9 +1049,14 @@
       "date": "2016-10-04",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "東京のお客様の社内勉強会で講師をさせていただきました",
         "en": "東京のお客様の社内勉強会で講師をさせていただきました"
@@ -825,9 +1072,14 @@
       "date": "2016-06-08",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "渋谷の勉強会でプレゼンテーションをしました",
         "en": "渋谷の勉強会でプレゼンテーションをしました"
@@ -843,9 +1095,14 @@
       "date": "2016-05-16",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "会津大学でプレゼンテーションをしました",
         "en": "会津大学でプレゼンテーションをしました"
@@ -861,9 +1118,14 @@
       "date": "2014-03-07",
       "category": "announcement",
       "featured": false,
-      "tags": [
-        "お知らせ"
-      ],
+      "tags": {
+        "ja": [
+          "お知らせ"
+        ],
+        "en": [
+          "Announcement"
+        ]
+      },
       "title": {
         "ja": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。",
         "en": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。"
