@@ -1,0 +1,23 @@
+{
+  "id": "sendai-dx-project",
+  "date": "2024-06-10",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "DX",
+    "仙台市",
+    "行政"
+  ],
+  "versions": {
+    "ja": {
+      "title": "仙台市のDX推進プロジェクトに参画",
+      "description": "仙台市が推進するデジタルトランスフォーメーション事業のパートナーに選定されました。",
+      "content": "この度、ギジン株式会社は仙台市が推進する「仙台DX推進プロジェクト」の技術パートナーとして選定されました。\n\n本プロジェクトでは、市民サービスの向上と行政業務の効率化を目指し、以下の取り組みを行います：\n\n1. 市民向けポータルサイトの構築\n2. AI chatbotによる24時間対応窓口の実装\n3. データ分析基盤の構築\n\n地域社会のデジタル化に貢献できることを光栄に思います。"
+    },
+    "en": {
+      "title": "Selected as Partner for Sendai City DX Promotion Project",
+      "description": "We've been selected as a technology partner for Sendai City's digital transformation initiative.",
+      "content": "Gizin Inc. has been selected as a technology partner for the 'Sendai DX Promotion Project' led by Sendai City.\n\nIn this project, we aim to improve citizen services and streamline administrative operations through:\n\n1. Building a citizen portal site\n2. Implementing 24/7 AI chatbot support\n3. Constructing a data analysis infrastructure\n\nWe are honored to contribute to the digitalization of our local community."
+    }
+  }
+}

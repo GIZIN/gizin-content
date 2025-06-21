@@ -1,0 +1,31 @@
+{
+  "id": "dx-subsidy-support",
+  "slug": "dx-subsidy-support",
+  "date": "2024-04-15",
+  "category": "update",
+  "image": null,
+  "tags": {
+    "ja": [
+      "補助金",
+      "DX",
+      "中小企業支援"
+    ],
+    "en": [
+      "Subsidy",
+      "DX",
+      "SME Support"
+    ]
+  },
+  "title": {
+    "ja": "「DX支援補助金」の申請サポートを開始",
+    "en": "DX Support Subsidy Application Service Now Available"
+  },
+  "excerpt": {
+    "ja": "中小企業向けDX支援補助金の申請サポートサービスを開始しました。",
+    "en": "We've started offering application support services for DX subsidies for SMEs."
+  },
+  "content": {
+    "ja": "ギジン株式会社では、中小企業のデジタル化を支援するため、各種補助金の申請サポートサービスを開始しました。\n\n## 対象となる補助金\n\n- IT導入補助金\n- ものづくり補助金\n- 事業再構築補助金\n\n専門スタッフが申請書類の作成から採択後のフォローまで、一貫してサポートいたします。",
+    "en": "Gizin Inc. has launched a subsidy application support service to help small and medium enterprises with their digital transformation.\n\n## Eligible Subsidies\n\n- IT Implementation Subsidy\n- Manufacturing Subsidy\n- Business Restructuring Subsidy\n\nOur expert staff will provide comprehensive support from application document preparation to post-approval follow-up."
+  }
+}

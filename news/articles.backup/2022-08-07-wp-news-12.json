@@ -1,0 +1,22 @@
+{
+  "id": "wp-news-12",
+  "date": "2022-08-07",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測体験版が、公開4日後で8000ダウンロードを達成しました。",
+      "description": "2021年6月の公開開始から公開前の8月2日までの約1年間で3800ダウンロードでしたが、8月3日の公開後4日間でiOS、Android合計で8000ダウンロードを超えました。 多くの方の快適な入眠のお役に立ててとても嬉しいです。...",
+      "content": "2021年6月の公開開始から公開前の8月2日までの約1年間で3800ダウンロードでしたが、8月3日の公開後4日間でiOS、Android合計で8000ダウンロードを超えました。\n\n<img class=\"alignnone size-large wp-image-2114\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-07-11.19.11-1024x665.png\" alt=\"\" width=\"1024\" height=\"665\" /><img class=\"alignnone size-large wp-image-2113\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-07-11.18.13-1024x845.png\" alt=\"\" width=\"1024\" height=\"845\" />\n\n多くの方の快適な入眠のお役に立ててとても嬉しいです。"
+    },
+    "en": {
+      "title": "Sleep Observation Trial Version Achieves 8,000 Downloads in Just 4 Days After Release",
+      "description": "From its initial release in June 2021 until August 2nd, we had 3,800 downloads over approximately one year. However, within just 4 days after the August 3rd release, we exceeded 8,000 total downloads across iOS and Android platforms. We are delighted to help so many people achieve comfortable sleep.",
+      "content": "From its initial release in June 2021 until August 2nd, we had 3,800 downloads over approximately one year. However, within just 4 days after the August 3rd release, we exceeded 8,000 total downloads across iOS and Android platforms.\n\n<img class=\"alignnone size-large wp-image-2114\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-07-11.19.11-1024x665.png\" alt=\"\" width=\"1024\" height=\"665\" /><img class=\"alignnone size-large wp-image-2113\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/スクリーンショット-2022-08-07-11.18.13-1024x845.png\" alt=\"\" width=\"1024\" height=\"845\" />\n\nWe are delighted to help so many people achieve comfortable sleep."
+    }
+  },
+  "image": "/images/news/wp-news-12-スクリーンショット-2022-08-07-11.19.11-1024x665.png"
+}

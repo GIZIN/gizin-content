@@ -1,0 +1,21 @@
+{
+  "id": "wp-news-2",
+  "date": "2014-03-07",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。",
+      "description": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。 その時の模様はこちらのニュース記事でご覧いただけます https://xtech.nikkei.com/it/article/NEWS/20140307/542085/...",
+      "content": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。\n\nその時の模様はこちらのニュース記事でご覧いただけます\n\n<a href=\"https://xtech.nikkei.com/it/article/NEWS/20140307/542085/\">https://xtech.nikkei.com/it/article/NEWS/20140307/542085/</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。",
+      "description": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。 その時の模様はこちらのニュース記事でご覧いただけます https://xtech.nikkei.com/it/article/NEWS/20140307/542085/...",
+      "content": "KDDIで開催されたBLE勉強会にスピーカーとして参加しました。ビーコンを活用した数種類のアプリをプレゼンしました。\n\nその時の模様はこちらのニュース記事でご覧いただけます\n\n<a href=\"https://xtech.nikkei.com/it/article/NEWS/20140307/542085/\">https://xtech.nikkei.com/it/article/NEWS/20140307/542085/</a>\n\n&nbsp;"
+    }
+  }
+}

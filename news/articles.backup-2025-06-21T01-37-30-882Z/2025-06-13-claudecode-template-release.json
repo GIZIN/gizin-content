@@ -1,0 +1,35 @@
+{
+  "id": "claudecode-template-release",
+  "slug": "claudecode-template-release",
+  "date": "2025-06-13",
+  "category": "announcement",
+  "image": "/images/news/claudecode-template-og.png",
+  "tags": {
+    "ja": [
+      "お知らせ",
+      "オープンソース",
+      "開発ツール",
+      "Claude Code",
+      "Next.js"
+    ],
+    "en": [
+      "Announcement",
+      "Open Source",
+      "Development Tool",
+      "Claude Code",
+      "Next.js"
+    ]
+  },
+  "title": {
+    "ja": "Claude Code 多言語対応サイト構築テンプレートをオープンソースで公開",
+    "en": "Claude Code Multilingual Website Template Released as Open Source"
+  },
+  "excerpt": {
+    "ja": "AIとの対話だけで本格的な多言語対応Webサイトを構築できる革新的なテンプレートをGitHubで公開しました。Next.js 14ベースで、開発者の作業を大幅に効率化します。",
+    "en": "We've released an innovative template on GitHub that enables building professional multilingual websites through AI conversation alone. Based on Next.js 14, it dramatically improves developer efficiency."
+  },
+  "content": {
+    "ja": "ギジン株式会社は、Claude Codeを活用した多言語対応Webサイト構築テンプレート「claudecode-site-prompt-template」をオープンソースソフトウェアとしてGitHubで公開いたしました。\n\n## テンプレート概要\n\nこのテンプレートは、AIアシスタント「Claude Code」との対話形式で、プロフェッショナルな多言語対応Webサイトを迅速に構築できる革新的なツールです。中小企業や個人開発者が、複雑な設定作業なしに、モダンで高機能なWebサイトを立ち上げることができます。\n\n## 主な特徴\n\n### 1. 対話型セットアップ\n- Claude Codeに話しかけるだけで全体構築が完了\n- プロジェクト名、サービス名、メール設定などを対話形式で設定\n- プログラミング知識がなくても本格的なサイトが構築可能\n\n### 2. 完全な多言語対応\n- 日本語・英語の2言語対応（拡張可能）\n- 言語切替機能を標準搭載\n- SEOに最適化された言語別URL構造\n\n### 3. 最新技術スタック\n- **フレームワーク**: Next.js 14 (App Router)\n- **言語**: TypeScript\n- **スタイリング**: Tailwind CSS v3\n- **メール送信**: Resend\n- **バリデーション**: Zod\n\n### 4. 豊富な標準機能\n- レスポンシブデザイン対応\n- お問い合わせフォーム（メール送信機能付き）\n- 会社概要・プライバシーポリシー・利用規約の自動生成\n- ダークモード対応\n- アクセシビリティ対応\n\n## 革新的なポイント\n\n### AIによる自動化\n従来、経験豊富な開発者でも数日かかっていたWebサイトの初期構築を、AIとの対話だけで数分で完了できます。これにより：\n\n- **開発時間を90%以上削減**\n- **人的ミスを大幅に削減**\n- **統一された高品質なコード生成**\n\n### 柔軟なカスタマイズ性\nテンプレートとして基本構造を提供しながら、各企業のニーズに合わせた柔軟なカスタマイズが可能です：\n\n- 独自のページ追加が容易\n- デザインテーマの変更\n- 機能の追加・削除\n\n### セキュリティとパフォーマンス\n- レート制限機能によるスパム対策\n- 環境変数による機密情報の保護\n- Next.jsの最適化による高速なページロード\n- 静的生成による優れたSEOパフォーマンス\n\n## 利用方法\n\n1. Claude Codeを開く\n2. GitHubリポジトリのURLを伝える\n3. プロジェクト名やサービス名などの基本情報を回答\n4. 自動的にプロジェクトが生成される\n\n詳細な手順はGitHubのREADMEに記載されています。\n\n## GitHubリポジトリ\n\nソースコードは以下のGitHubリポジトリで公開しています：\n[https://github.com/GIZIN/claudecode-site-prompt-template](https://github.com/GIZIN/claudecode-site-prompt-template)\n\n## ライセンス\n\nMITライセンスの下で公開されており、商用利用も可能です。\n\n## 今後の展望\n\n今後も以下のような機能拡張を予定しています：\n\n- より多くの言語への対応\n- CMSとの連携機能\n- E-commerce機能の追加\n- AIによる自動コンテンツ生成機能\n\n## まとめ\n\nこのテンプレートは、「AIと話すだけでWebサイトが完成する」という新しい開発体験を提供します。技術的な障壁を取り除き、より多くの人々が自分のアイデアをWebで表現できる世界を実現します。\n\n## お問い合わせ\n\nテンプレートに関するご質問や、導入支援のご相談は、お気軽にお問い合わせください。カスタマイズや本格的なWebサイト構築のサポートも承っております。",
+    "en": "Gizin Inc. has released the 'claudecode-site-prompt-template,' a multilingual website building template powered by Claude Code, as open source software on GitHub.\n\n## Template Overview\n\nThis template is an innovative tool that enables rapid construction of professional multilingual websites through conversational interaction with the AI assistant 'Claude Code.' Small and medium enterprises and individual developers can launch modern, feature-rich websites without complex setup procedures.\n\n## Key Features\n\n### 1. Conversational Setup\n- Complete entire construction just by talking to Claude Code\n- Configure project name, service name, email settings through dialogue\n- Build professional sites without programming knowledge\n\n### 2. Complete Multilingual Support\n- Japanese and English support (expandable)\n- Built-in language switching functionality\n- SEO-optimized language-specific URL structure\n\n### 3. Modern Technology Stack\n- **Framework**: Next.js 14 (App Router)\n- **Language**: TypeScript\n- **Styling**: Tailwind CSS v3\n- **Email**: Resend\n- **Validation**: Zod\n\n### 4. Rich Standard Features\n- Responsive design support\n- Contact form with email functionality\n- Auto-generation of company info, privacy policy, and terms of service\n- Dark mode support\n- Accessibility support\n\n## Innovative Points\n\n### AI-Powered Automation\nWhat traditionally took experienced developers several days to set up can now be completed in minutes through AI conversation:\n\n- **Reduce development time by over 90%**\n- **Dramatically reduce human errors**\n- **Generate consistent, high-quality code**\n\n### Flexible Customization\nWhile providing a basic structure as a template, it allows flexible customization to meet each company's needs:\n\n- Easy addition of custom pages\n- Design theme modifications\n- Feature additions and removals\n\n### Security and Performance\n- Spam protection with rate limiting\n- Secure handling of sensitive information with environment variables\n- Fast page loads with Next.js optimization\n- Excellent SEO performance through static generation\n\n## How to Use\n\n1. Open Claude Code\n2. Provide the GitHub repository URL\n3. Answer basic information like project and service names\n4. Project is automatically generated\n\nDetailed instructions are provided in the GitHub README.\n\n## GitHub Repository\n\nThe source code is available at the following GitHub repository:\n[https://github.com/GIZIN/claudecode-site-prompt-template](https://github.com/GIZIN/claudecode-site-prompt-template)\n\n## License\n\nReleased under the MIT License, allowing commercial use.\n\n## Future Plans\n\nWe plan to add the following features:\n\n- Support for more languages\n- CMS integration capabilities\n- E-commerce functionality\n- AI-powered automatic content generation\n\n## Summary\n\nThis template provides a new development experience where 'websites are completed just by talking to AI.' It removes technical barriers and creates a world where more people can express their ideas on the web.\n\n## Contact Us\n\nPlease feel free to contact us with any questions about the template or for implementation support. We also offer customization and full-scale website development support."
+  }
+}

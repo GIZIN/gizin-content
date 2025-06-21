@@ -1,0 +1,23 @@
+{
+  "id": "ai-sprint-release",
+  "date": "2024-06-15",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "AI",
+    "新サービス",
+    "プロトタイプ開発"
+  ],
+  "versions": {
+    "ja": {
+      "title": "AIを活用した新サービス「AI Sprint」をリリース",
+      "description": "わずか1日でアイデアをプロトタイプ化する革新的なサービスを開始しました。",
+      "content": "ギジン株式会社は、AI技術を活用した高速プロトタイプ開発サービス「AI Sprint」をリリースしました。\n\n本サービスは、お客様のアイデアを最短1日で動作するプロトタイプとして実現し、ビジネスの意思決定を大幅に加速させます。\n\n## 主な特徴\n\n- **超高速開発**: 通常数週間かかる開発を1日で実現\n- **AI活用**: 最新のAI技術により開発効率を最大化\n- **柔軟な対応**: お客様のニーズに合わせたカスタマイズが可能\n\n詳しくはお問い合わせください。"
+    },
+    "en": {
+      "title": "Launching AI Sprint - Revolutionary Rapid Prototyping Service",
+      "description": "We've launched an innovative service that transforms ideas into prototypes in just one day.",
+      "content": "Gizin Inc. has launched 'AI Sprint,' a rapid prototype development service powered by AI technology.\n\nThis service realizes customer ideas as working prototypes in as little as one day, significantly accelerating business decision-making.\n\n## Key Features\n\n- **Ultra-fast development**: Achieve in one day what typically takes weeks\n- **AI-powered**: Maximize development efficiency with cutting-edge AI technology\n- **Flexible response**: Customizable to meet customer needs\n\nPlease contact us for more details."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wp-news-6",
+  "date": "2018-01-23",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "NTTドコモ主催のイベントでプレゼンテーションをしました",
+      "description": "NTTドコモ主催のイベントでプレゼンテーションをしました イベントの詳細はこちらでご覧いただけます NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台 https://sebastien.connpass.com/event/75084/...",
+      "content": "NTTドコモ主催のイベントでプレゼンテーションをしました\n\nイベントの詳細はこちらでご覧いただけます\n<h2 class=\"event_title\">NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台</h2>\n<a href=\"https://sebastien.connpass.com/event/75084/\">https://sebastien.connpass.com/event/75084/</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "NTTドコモ主催のイベントでプレゼンテーションをしました",
+      "description": "NTTドコモ主催のイベントでプレゼンテーションをしました イベントの詳細はこちらでご覧いただけます NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台 https://sebastien.connpass.com/event/75084/...",
+      "content": "NTTドコモ主催のイベントでプレゼンテーションをしました\n\nイベントの詳細はこちらでご覧いただけます\n<h2 class=\"event_title\">NTTドコモ×みやぎモバイルビジネス研究会 AI活用セミナー＆ミートアップ＠仙台</h2>\n<a href=\"https://sebastien.connpass.com/event/75084/\">https://sebastien.connpass.com/event/75084/</a>\n\n&nbsp;"
+    }
+  }
+}

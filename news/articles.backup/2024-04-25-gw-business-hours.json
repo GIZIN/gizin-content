@@ -1,0 +1,22 @@
+{
+  "id": "gw-business-hours",
+  "date": "2024-04-25",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "営業時間",
+    "GW"
+  ],
+  "versions": {
+    "ja": {
+      "title": "GW期間中の営業について",
+      "description": "ゴールデンウィーク期間中の営業時間についてお知らせします。",
+      "content": "いつもギジン株式会社をご利用いただき、ありがとうございます。\n\nゴールデンウィーク期間中の営業時間は以下のとおりです：\n\n- 4月27日（土）〜 4月29日（月）: 休業\n- 4月30日（火）〜 5月2日（木）: 通常営業\n- 5月3日（金）〜 5月6日（月）: 休業\n\n5月7日（火）より通常営業となります。"
+    },
+    "en": {
+      "title": "Golden Week Business Hours",
+      "description": "Information about our business hours during the Golden Week holiday period.",
+      "content": "Thank you for your continued support of Gizin Inc.\n\nOur business hours during Golden Week are as follows:\n\n- April 27 (Sat) - April 29 (Mon): Closed\n- April 30 (Tue) - May 2 (Thu): Regular hours\n- May 3 (Fri) - May 6 (Mon): Closed\n\nWe will resume regular business hours from May 7 (Tue)."
+    }
+  }
+}

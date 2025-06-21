@@ -1,0 +1,23 @@
+{
+  "id": "google-ads-automation",
+  "date": "2025-06-09",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ",
+    "オープンソース",
+    "自動化ツール"
+  ],
+  "versions": {
+    "ja": {
+      "title": "Google Ads自動化ツールをオープンソースで公開",
+      "description": "JSONファイルをアップロードするだけでGoogle Ads広告キャンペーンを自動作成するWebアプリケーションをGitHubで公開しました。",
+      "content": "ギジン株式会社は、Google Ads広告キャンペーンを自動作成するWebアプリケーション「Google Ads Automation」をオープンソースソフトウェアとしてGitHubで公開いたしました。\n\n## ツール概要\n\nこのツールは、JSONファイルをドラッグ&ドロップするだけで、Google Ads広告キャンペーンを自動的に作成できるWebアプリケーションです。広告運用の効率化と自動化を実現し、マーケティング担当者の業務負担を大幅に軽減します。\n\n## 主な機能\n\n### 1. シンプルな操作性\n- JSONファイルのドラッグ&ドロップ対応\n- Google OAuth認証でセキュアに接続\n- 直感的なユーザーインターフェース\n\n### 2. 一括作成機能\n- キャンペーンの一括作成\n- 広告グループの自動設定\n- キーワードと広告の同時作成\n\n### 3. 安全性と透明性\n- ドライランモードでプレビュー可能\n- リアルタイムの実行ログ表示\n- 完全なオープンソース（TypeScript 92.9%）\n\n### 4. 技術スタック\n- TypeScript / Next.js\n- Tailwind CSS\n- Google Ads API\n\n## 利用メリット\n\n- **時間短縮**: 手動で数時間かかる作業を数分で完了\n- **エラー削減**: 自動化により人的ミスを防止\n- **スケーラビリティ**: 大規模なキャンペーンも一括処理可能\n- **カスタマイズ性**: オープンソースなので自由に改良可能\n\n## GitHubリポジトリ\n\nソースコードは以下のGitHubリポジトリで公開しています：\n[https://github.com/GIZIN/google-ads-automation](https://github.com/GIZIN/google-ads-automation)\n\n## セットアップ方法\n\n1. リポジトリをクローン\n2. `npm install`で依存関係をインストール\n3. `.env.local`ファイルを設定\n4. Google Cloud Consoleでテストユーザーを追加\n5. `npm run dev`で開発サーバーを起動\n\n## ライセンス\n\nMITライセンスの下で公開されており、商用利用も可能です。\n\n## 今後の展開\n\n今後も継続的に機能改善を行い、より使いやすいツールへと進化させていきます。コミュニティからのフィードバックや貢献も歓迎しています。\n\n## お問い合わせ\n\nツールに関するご質問や導入支援のご相談は、お気軽にお問い合わせください。"
+    },
+    "en": {
+      "title": "Google Ads Automation Tool Released as Open Source",
+      "description": "We've released a web application on GitHub that automatically creates Google Ads campaigns by simply uploading a JSON file.",
+      "content": "Gizin Inc. has released 'Google Ads Automation,' a web application that automatically creates Google Ads campaigns, as open source software on GitHub.\n\n## Tool Overview\n\nThis tool is a web application that can automatically create Google Ads campaigns by simply dragging and dropping a JSON file. It achieves efficiency and automation in advertising operations, significantly reducing the workload of marketing professionals.\n\n## Key Features\n\n### 1. Simple Operation\n- Drag & drop JSON file support\n- Secure connection with Google OAuth authentication\n- Intuitive user interface\n\n### 2. Bulk Creation Features\n- Bulk campaign creation\n- Automatic ad group setup\n- Simultaneous creation of keywords and ads\n\n### 3. Safety and Transparency\n- Preview available with dry run mode\n- Real-time execution logging\n- Fully open source (TypeScript 92.9%)\n\n### 4. Technology Stack\n- TypeScript / Next.js\n- Tailwind CSS\n- Google Ads API\n\n## Benefits\n\n- **Time Savings**: Complete tasks in minutes that would take hours manually\n- **Error Reduction**: Prevent human errors through automation\n- **Scalability**: Process large-scale campaigns in bulk\n- **Customizability**: Freely improve as it's open source\n\n## GitHub Repository\n\nThe source code is available on the following GitHub repository:\n[https://github.com/GIZIN/google-ads-automation](https://github.com/GIZIN/google-ads-automation)\n\n## Setup Instructions\n\n1. Clone the repository\n2. Install dependencies with `npm install`\n3. Configure `.env.local` file\n4. Add test users in Google Cloud Console\n5. Start development server with `npm run dev`\n\n## License\n\nReleased under the MIT License, allowing commercial use.\n\n## Future Development\n\nWe will continue to improve features and evolve it into an even more user-friendly tool. We welcome feedback and contributions from the community.\n\n## Contact Us\n\nPlease feel free to contact us with any questions about the tool or for implementation support."
+    }
+  }
+}

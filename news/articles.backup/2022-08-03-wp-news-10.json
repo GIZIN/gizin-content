@@ -1,0 +1,21 @@
+{
+  "id": "wp-news-10",
+  "date": "2022-08-03",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測が配信開始しました。",
+      "description": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。 詳細はプレスリリースを配信しましたので、御覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html...",
+      "content": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。\n\n詳細はプレスリリースを配信しましたので、御覧ください。\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000001.000105891.html\">https://prtimes.jp/main/html/rd/p/000000001.000105891.html</a>\n\n&nbsp;"
+    },
+    "en": {
+      "title": "睡眠観測が配信開始しました。",
+      "description": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。 詳細はプレスリリースを配信しましたので、御覧ください。 https://prtimes.jp/main/html/rd/p/000000001.000105891.html...",
+      "content": "８月３日（水）、睡眠観測がAppleStoreとGooglePlayで配信開始しました。\n\n詳細はプレスリリースを配信しましたので、御覧ください。\n\n<a href=\"https://prtimes.jp/main/html/rd/p/000000001.000105891.html\">https://prtimes.jp/main/html/rd/p/000000001.000105891.html</a>\n\n&nbsp;"
+    }
+  }
+}

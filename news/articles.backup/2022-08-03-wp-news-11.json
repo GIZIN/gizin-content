@@ -1,0 +1,22 @@
+{
+  "id": "wp-news-11",
+  "date": "2022-08-03",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "睡眠観測が、AppStore有料ランキング「メディカル」１位、GooglePlay有料トップ「健康＆フィットネス」１位になりました。",
+      "description": "８月３日に配信開始した睡眠観測が、AppStore有料ランキング「メディカル」カテゴリで１位になりました。 GooglePlay有料ランキング「健康＆フィットネス」カテゴリで１位になりました。...",
+      "content": "８月３日に配信開始した睡眠観測が、AppStore有料ランキング「メディカル」カテゴリで１位になりました。\nGooglePlay有料ランキング「健康＆フィットネス」カテゴリで１位になりました。\n\n<img class=\"alignnone wp-image-2102\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/IMG_0943-473x1024.jpg\" alt=\"\" width=\"255\" height=\"552\" />　<img class=\"alignnone wp-image-2109\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/Screenshot_20220805-220622-498x1024.png\" alt=\"\" width=\"267\" height=\"549\" />"
+    },
+    "en": {
+      "title": "Sleep Observation Ranks #1 in App Store Medical Category and Google Play Health & Fitness Category",
+      "description": "Sleep Observation, released on August 3rd, has reached #1 in the App Store's paid Medical category ranking. It also achieved #1 in Google Play's paid Health & Fitness category ranking.",
+      "content": "Sleep Observation, released on August 3rd, has reached #1 in the App Store's paid Medical category ranking.\nIt also achieved #1 in Google Play's paid Health & Fitness category ranking.\n\n<img class=\"alignnone wp-image-2102\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/IMG_0943-473x1024.jpg\" alt=\"\" width=\"255\" height=\"552\" />　<img class=\"alignnone wp-image-2109\" src=\"http://gizin.co.jp/wp-content/uploads/2022/08/Screenshot_20220805-220622-498x1024.png\" alt=\"\" width=\"267\" height=\"549\" />"
+    }
+  },
+  "image": "/images/news/wp-news-11-appstore.jpg"
+}

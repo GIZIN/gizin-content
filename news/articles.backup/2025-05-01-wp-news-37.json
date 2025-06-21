@@ -1,0 +1,21 @@
+{
+  "id": "wp-news-37",
+  "date": "2025-05-01",
+  "category": "announcement",
+  "featured": false,
+  "tags": [
+    "お知らせ"
+  ],
+  "versions": {
+    "ja": {
+      "title": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました",
+      "description": "ギジン株式会社の2024年年次ご報告を動画にしました。NotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。まるでラジオ番組のように人が掛け合っておしゃべりしています。",
+      "content": "<iframe src=\"https://www.youtube.com/embed/V1reLIH8nfo\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n\nギジン株式会社の2024年年次ご報告を動画にしました。\nNotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。\nまるでラジオ番組のように人が掛け合っておしゃべりしています。\nテキストで読むのとまた違う楽しみとわかりやすさがありますね。\nぜひご視聴ください。"
+    },
+    "en": {
+      "title": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました",
+      "description": "[embed]https://youtu.be/V1reLIH8nfo[/embed] ギジン株式会社の2024年年次ご報告を動画にしました。 NotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。 まるでラジオ番組のように人が掛け合っておしゃべりしています。 テキストで読むのとまた違う楽しみとわかりやすさがありますね。 ぜひご視聴ください。...",
+      "content": "[embed]https://youtu.be/V1reLIH8nfo[/embed]\n\nギジン株式会社の2024年年次ご報告を動画にしました。\nNotebookLMに、年次報告書をアップロードして、音声開始ボタンを押すだけで生成されます。\nまるでラジオ番組のように人が掛け合っておしゃべりしています。\nテキストで読むのとまた違う楽しみとわかりやすさがありますね。\nぜひご視聴ください。"
+    }
+  }
+}

@@ -128,11 +128,20 @@ echo "確認後、pushの許可をお願いします"
 # 4. 人間の確認・許可後
 git push
 
-# 5. インデックス更新（TIPSの場合）
-./update-index.sh
-# または
-../scripts/update-tips-index.sh
+# 5. インデックス更新とキャッシュクリア
+./update-index.sh --tips  # TIPSの場合
+./update-index.sh --news  # Newsの場合
+
+# 6. キャッシュクリア（個別に実行する場合）
+./clear-cache.sh tips     # TIPSのキャッシュクリア
+./clear-cache.sh news     # Newsのキャッシュクリア
+./clear-cache.sh all      # 両方クリア
 ```
+
+#### ⚠️ キャッシュクリアの重要性
+- **記事を更新してもサイトに反映されない場合**は、キャッシュクリアが必要です
+- 特にNews記事の場合、`./clear-cache.sh news`を忘れずに実行してください
+- update-index.shに`--push`オプションを付けると自動的にキャッシュクリアされます
 
 #### 確認を求める理由
 - 記事内容の最終チェック

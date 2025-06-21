@@ -1,0 +1,27 @@
+{
+  "id": "wp-news-1",
+  "slug": "wp-news-1",
+  "date": "2020-03-30",
+  "category": "announcement",
+  "image": null,
+  "tags": {
+    "ja": [
+      "お知らせ"
+    ],
+    "en": [
+      "Announcement"
+    ]
+  },
+  "title": {
+    "ja": "コンテンツ制作サービスを開始しました",
+    "en": "Content Creation Service Launched"
+  },
+  "excerpt": {
+    "ja": "ギジンはコンテンツ制作サービスを開始しました。 詳細はこちらです。 コンテンツにお困りでしたらご相談くださいませ。...",
+    "en": "Gizin has launched a content creation service. Click here for details. Please contact us if you need help with content."
+  },
+  "content": {
+    "ja": "ギジンはコンテンツ制作サービスを開始しました。\n\n<a href=\"http://gizin.co.jp/service\">詳細はこちらです。</a>\n\nコンテンツにお困りでしたらご相談くださいませ。",
+    "en": "Gizin has launched a content creation service.\n\n<a href=\"http://gizin.co.jp/service\">Click here for details.</a>\n\nPlease contact us if you need help with content."
+  }
+}
