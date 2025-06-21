@@ -2,7 +2,9 @@
   "id": "suiminkansoku-50k-downloads",
   "date": "2025-06-21",
   "category": "announcement",
+  "featured": false,
   "tags": ["睡眠観測", "アプリ", "マイルストーン", "ヘルスケア"],
+  "image": "/images/news/suiminkansoku.jpg",
   "versions": {
     "ja": {
       "title": "睡眠観測アプリが5万ダウンロードに到達 - 新しい入眠体験が多くのユーザーに支持される",
