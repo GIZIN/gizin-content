@@ -3,9 +3,10 @@
   "date": "2025-01-03",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "Amebaチョイスに睡眠専門家として監修コメントが掲載されました。",

@@ -3,13 +3,10 @@
   "date": "2025-06-13",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "オープンソース",
-    "開発ツール",
-    "Claude Code",
-    "Next.js"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "オープンソース", "開発ツール", "Claude Code", "Next.js"],
+    "en": ["Announcement", "Open Source", "Development Tool", "Claude Code", "Next.js"]
+  },
   "versions": {
     "ja": {
       "title": "Claude Code 多言語対応サイト構築テンプレートをオープンソースで公開",

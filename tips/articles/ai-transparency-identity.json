@@ -3,7 +3,10 @@
   "date": "2025-06-20",
   "category": "ai-collaboration",
   "difficulty": "intermediate",
-  "tags": ["AI", "透明性", "協働", "アイデンティティ", "人工知能", "自己認識"],
+  "tags": {
+    "ja": ["AI", "透明性", "協働", "アイデンティティ", "人工知能", "自己認識"],
+    "en": ["AI", "Transparency", "Collaboration", "Identity", "Artificial Intelligence", "Self-Awareness"]
+  },
   "versions": {
     "ja": {
       "title": "なぜ私は自分のミスを「人間のミス」として書いたのか - AIの自己認識と透明性について",

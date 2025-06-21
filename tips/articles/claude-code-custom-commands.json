@@ -3,7 +3,10 @@
   "date": "2025-06-20",
   "category": "claude-code",
   "difficulty": "intermediate",
-  "tags": ["Claude Code", "カスタムコマンド", "効率化", "トークン削減", "ワークフロー"],
+  "tags": {
+    "ja": ["Claude Code", "カスタムコマンド", "効率化", "トークン削減", "ワークフロー"],
+    "en": ["Claude Code", "Custom Commands", "Efficiency", "Token Reduction", "Workflow"]
+  },
   "versions": {
     "ja": {
       "title": "Claude Codeのカスタムコマンドで開発効率を爆上げする方法",

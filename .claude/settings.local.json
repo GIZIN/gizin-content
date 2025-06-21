@@ -27,7 +27,8 @@
       "Bash(~/.claude/bin/claude code run /shime)",
       "Bash(./scripts/migrate-valid-images.sh:*)",
       "Bash(vercel:*)",
-      "WebFetch(domain:images-tau-five.vercel.app)"
+      "WebFetch(domain:images-tau-five.vercel.app)",
+      "Bash(/prepare-publish)"
     ],
     "deny": []
   }

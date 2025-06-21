@@ -3,9 +3,10 @@
   "date": "2022-08-03",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測が、AppStore有料ランキング「メディカル」１位、GooglePlay有料トップ「健康＆フィットネス」１位になりました。",

@@ -3,13 +3,10 @@
   "date": "2025-06-13",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "新サービス",
-    "AIEO",
-    "AI",
-    "SEO"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "新サービス", "AIEO", "AI", "SEO"],
+    "en": ["Announcement", "New Service", "AIEO", "AI", "SEO"]
+  },
   "versions": {
     "ja": {
       "title": "AIEO - AI Engine Optimization サービスの提供を開始しました",

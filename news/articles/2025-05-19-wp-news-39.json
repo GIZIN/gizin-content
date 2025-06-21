@@ -3,9 +3,10 @@
   "date": "2025-05-19",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "【掲載情報】NTT東日本の睡眠コミュニティ「ZAKONE」でアプリ開発の想いと未来を語りました",

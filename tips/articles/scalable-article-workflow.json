@@ -4,7 +4,10 @@
   "category": "case-study",
   "difficulty": "intermediate",
   "readingTime": 8,
-  "tags": ["Next.js", "GitHub", "CI/CD", "スケーラビリティ", "ワークフロー"],
+  "tags": {
+    "ja": ["Next.js", "GitHub", "CI/CD", "スケーラビリティ", "ワークフロー"],
+    "en": ["Next.js", "GitHub", "CI/CD", "Scalability", "Workflow"]
+  },
   "image": null,
   "featured": true,
   "versions": {

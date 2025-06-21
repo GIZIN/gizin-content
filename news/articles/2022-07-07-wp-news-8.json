@@ -3,9 +3,10 @@
   "date": "2022-07-07",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測がリリースから１年経過し、ノンプロモーションで3,500ダウンロードに達しました。",

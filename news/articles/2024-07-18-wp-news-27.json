@@ -3,9 +3,10 @@
   "date": "2024-07-18",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測の利用データ28,000件の調査レポートを公表しました",

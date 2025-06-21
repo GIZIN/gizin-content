@@ -3,9 +3,10 @@
   "date": "2024-07-23",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "GIZMODEに「睡眠観測」を掲載いただきました",

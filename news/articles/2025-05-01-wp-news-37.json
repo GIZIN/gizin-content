@@ -3,9 +3,10 @@
   "date": "2025-05-01",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "NotebookLMの音声機能で、年次ご報告をラジオ番組にしました",

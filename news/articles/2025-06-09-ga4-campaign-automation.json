@@ -3,12 +3,10 @@
   "date": "2025-06-09",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "オープンソース",
-    "自動化ツール",
-    "GA4"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "オープンソース", "自動化ツール", "GA4"],
+    "en": ["Announcement", "Open Source", "Automation Tool", "GA4"]
+  },
   "versions": {
     "ja": {
       "title": "GA4 Campaign Automationツールをオープンソースで公開",

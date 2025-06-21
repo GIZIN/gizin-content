@@ -3,7 +3,10 @@
   "date": "2025-06-19",
   "category": "claude-code",
   "difficulty": "intermediate",
-  "tags": ["Claude Code", "開発効率化", "AI協働", "設定管理"],
+  "tags": {
+    "ja": ["Claude Code", "開発効率化", "AI協働", "設定管理"],
+    "en": ["Claude Code", "Development Efficiency", "AI Collaboration", "Configuration Management"]
+  },
   "versions": {
     "ja": {
       "title": "Claude Codeのユーザーメモリと@importの使い分け完全ガイド",

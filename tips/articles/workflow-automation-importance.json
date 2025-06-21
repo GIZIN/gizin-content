@@ -3,7 +3,10 @@
   "date": "2025-06-20",
   "category": "ai-collaboration",
   "difficulty": "beginner",
-  "tags": ["自動化", "ワークフロー", "効率化", "ヒューマンエラー", "カスタムコマンド"],
+  "tags": {
+    "ja": ["自動化", "ワークフロー", "効率化", "ヒューマンエラー", "カスタムコマンド"],
+    "en": ["Automation", "Workflow", "Efficiency", "Human Error", "Custom Commands"]
+  },
   "versions": {
     "ja": {
       "title": "「記事を更新したのに公開されない！」から学ぶ固定ワークフローの自動化",

@@ -6,13 +6,10 @@
   "difficulty": "beginner",
   "readingTime": 8,
   "featured": true,
-  "tags": [
-    "AIEO",
-    "AI検索",
-    "SEO",
-    "ChatGPT",
-    "Claude"
-  ],
+  "tags": {
+    "ja": ["AIEO", "AI検索", "SEO", "ChatGPT", "Claude"],
+    "en": ["AIEO", "AI Search", "SEO", "ChatGPT", "Claude"]
+  },
   "title": {
     "ja": "AIEO（AI Engine Optimization）とは？SEOとの違いと今すぐできる対策",
     "en": "What is AIEO? How It Differs from SEO and What You Can Do Today"

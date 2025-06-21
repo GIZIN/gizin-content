@@ -3,9 +3,10 @@
   "date": "2022-07-16",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測のアップグレード版の予約注文を開始しました",

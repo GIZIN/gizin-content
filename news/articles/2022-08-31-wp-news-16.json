@@ -3,9 +3,10 @@
   "date": "2022-08-31",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測で子供の寝息を聴き猫をなでて眠れる新コンテンツ開始。9月7日まで無料。",

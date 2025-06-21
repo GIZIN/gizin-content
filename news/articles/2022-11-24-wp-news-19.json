@@ -3,9 +3,10 @@
   "date": "2022-11-24",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "日本の睡眠業界を盛り上げるZAKONEコミュニティに加盟しました。",

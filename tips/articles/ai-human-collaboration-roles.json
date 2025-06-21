@@ -3,7 +3,10 @@
   "date": "2025-06-21",
   "category": "ai-collaboration",
   "difficulty": "intermediate",
-  "tags": ["AI協働", "開発プロセス", "役割分担", "自動化", "実践事例"],
+  "tags": {
+    "ja": ["AI協働", "開発プロセス", "役割分担", "自動化", "実践事例"],
+    "en": ["AI Collaboration", "Development Process", "Role Division", "Automation", "Case Studies"]
+  },
   "versions": {
     "ja": {
       "title": "AI協働開発における役割分担の最適化 - 人間は安全装置かボトルネックか？",

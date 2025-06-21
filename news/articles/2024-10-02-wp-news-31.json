@@ -3,9 +3,10 @@
   "date": "2024-10-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "「さわって眠れる睡眠アプリ - 睡眠観測」が、4万ダウンロードに到達しました。",

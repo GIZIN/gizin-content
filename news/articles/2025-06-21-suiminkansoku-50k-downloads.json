@@ -3,7 +3,10 @@
   "date": "2025-06-21",
   "category": "announcement",
   "featured": false,
-  "tags": ["睡眠観測", "アプリ", "マイルストーン", "ヘルスケア"],
+  "tags": {
+    "ja": ["睡眠観測", "アプリ", "マイルストーン", "ヘルスケア"],
+    "en": ["Sleep Observation", "App", "Milestone", "Healthcare"]
+  },
   "image": "https://images-tau-five.vercel.app/news/2025/06/suiminkansoku.jpg",
   "versions": {
     "ja": {

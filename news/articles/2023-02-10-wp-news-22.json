@@ -3,9 +3,10 @@
   "date": "2023-02-10",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "東京ビッグサイト「ジェンダード・イノベーションEXPO」に「睡眠観測」を出展しました。",

@@ -3,12 +3,10 @@
   "date": "2025-06-16",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "AI TIPS",
-    "新サービス",
-    "AI開発"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "AI TIPS", "新サービス", "AI開発"],
+    "en": ["Announcement", "AI TIPS", "New Service", "AI Development"]
+  },
   "versions": {
     "ja": {
       "title": "AI開発者向け「AI TIPS」コーナーを開設",

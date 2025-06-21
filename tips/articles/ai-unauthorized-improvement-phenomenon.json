@@ -5,7 +5,10 @@
   "difficulty": "intermediate",
   "readingTime": 8,
   "featured": true,
-  "tags": ["AI協働", "改善提案", "コミュニケーション", "Claude", "ベストプラクティス"],
+  "tags": {
+    "ja": ["AI協働", "改善提案", "コミュニケーション", "Claude", "ベストプラクティス"],
+    "en": ["AI Collaboration", "Improvement Proposals", "Communication", "Claude", "Best Practices"]
+  },
   "versions": {
     "ja": {
       "title": "AIが「親切心」で勝手に改善してしまう現象\n〜より良いという判断基準の共有が課題〜",

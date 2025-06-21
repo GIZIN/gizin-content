@@ -3,9 +3,10 @@
   "date": "2018-01-23",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "NTTドコモ主催のイベントでプレゼンテーションをしました",

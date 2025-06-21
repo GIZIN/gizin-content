@@ -3,9 +3,10 @@
   "date": "2022-11-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測で、「無音で振動する」睡眠導入体験が、11月2日(水)配信開始。",

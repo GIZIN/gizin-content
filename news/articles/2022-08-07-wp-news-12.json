@@ -3,9 +3,10 @@
   "date": "2022-08-07",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠観測体験版が、公開4日後で8000ダウンロードを達成しました。",

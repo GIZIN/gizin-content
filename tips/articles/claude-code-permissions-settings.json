@@ -3,7 +3,10 @@
   "date": "2025-06-18",
   "category": "claude-code",
   "difficulty": "beginner",
-  "tags": ["Claude Code", "効率化", "設定", "permissions"],
+  "tags": {
+    "ja": ["Claude Code", "効率化", "設定", "permissions"],
+    "en": ["Claude Code", "Efficiency", "Configuration", "permissions"]
+  },
   "versions": {
     "ja": {
       "title": "Claude Codeでよく使うコマンドを確認なしで実行する方法",

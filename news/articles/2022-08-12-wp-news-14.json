@@ -3,9 +3,10 @@
   "date": "2022-08-12",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "FNNプライムオンラインに「睡眠観測」の取材記事が掲載されました。",

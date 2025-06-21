@@ -3,9 +3,10 @@
   "date": "2024-12-13",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "本物のローカルの魅力と出会えるニュースサイト「LOCALITY!」にインタビュー記事が掲載されました。",

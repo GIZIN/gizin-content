@@ -3,9 +3,10 @@
   "date": "2023-02-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "東京ビッグサイト「ジェンダード・イノベーションEXPO」にて法人向け製品を初出展します。",

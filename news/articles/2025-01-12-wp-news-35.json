@@ -3,9 +3,10 @@
   "date": "2025-01-12",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "ギジン株式会社 2024年 年次ご報告 ～創業10周年の感謝と新春の抱負～",

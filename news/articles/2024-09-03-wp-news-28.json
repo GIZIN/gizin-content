@@ -3,9 +3,10 @@
   "date": "2024-09-03",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "睡眠アプリに生成AI活用したコンテンツをリリースしました",

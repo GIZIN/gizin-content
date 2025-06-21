@@ -3,9 +3,10 @@
   "date": "2024-11-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "【テレビ出演】「さわって眠れる睡眠アプリ - 睡眠観測」を、ミヤギnews every.「情熱Labo」にて取り上げていただきました(2024年10月31日)",

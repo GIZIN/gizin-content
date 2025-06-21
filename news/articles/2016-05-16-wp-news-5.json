@@ -3,9 +3,10 @@
   "date": "2016-05-16",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "会津大学でプレゼンテーションをしました",

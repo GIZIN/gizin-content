@@ -3,9 +3,10 @@
   "date": "2020-03-30",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "コンテンツ制作サービスを開始しました",

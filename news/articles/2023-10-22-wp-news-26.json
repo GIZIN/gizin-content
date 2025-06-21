@@ -3,9 +3,10 @@
   "date": "2023-10-22",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "TOKYO MX 「クラウドダンディ」にて「睡眠観測」を取り上げていただきました。",

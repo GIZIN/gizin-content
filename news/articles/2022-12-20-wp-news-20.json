@@ -3,9 +3,10 @@
   "date": "2022-12-20",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "アスキーSTARTUPに「睡眠観測」を掲載頂きました。",

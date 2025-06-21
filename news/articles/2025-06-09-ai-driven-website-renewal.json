@@ -3,13 +3,10 @@
   "date": "2025-06-09",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "AI",
-    "Webサイト",
-    "Claude Code",
-    "リニューアル"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "AI", "Webサイト", "Claude Code", "リニューアル"],
+    "en": ["Announcement", "AI", "Website", "Claude Code", "Renewal"]
+  },
   "versions": {
     "ja": {
       "title": "AIドリブンなWebサイトにリニューアルしました",

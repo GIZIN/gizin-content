@@ -3,9 +3,10 @@
   "date": "2022-11-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "Tarzanに掲載いただきました。(11月2日発売)",

@@ -3,9 +3,10 @@
   "date": "2023-06-27",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "集英社OurAgeに「睡眠観測」を掲載いただきました。",

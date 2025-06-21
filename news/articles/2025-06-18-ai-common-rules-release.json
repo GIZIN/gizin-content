@@ -3,12 +3,10 @@
   "date": "2025-06-18",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "AI協働",
-    "オープンソース",
-    "開発効率化"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "AI協働", "オープンソース", "開発効率化"],
+    "en": ["Announcement", "AI Collaboration", "Open Source", "Development Efficiency"]
+  },
   "versions": {
     "ja": {
       "title": "AI協働開発の共通ルールをオープンソースとして公開",

@@ -3,10 +3,10 @@
   "date": "2025-06-09",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "新サービス"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "新サービス"],
+    "en": ["Announcement", "New Service"]
+  },
   "versions": {
     "ja": {
       "title": "AIプロトタイプ開発サービス「FAST DEV」を開始",

@@ -3,7 +3,10 @@
   "date": "2025-06-20",
   "category": "aieo",
   "difficulty": "intermediate",
-  "tags": ["AIEO", "失敗から学ぶ", "AI開発", "スコアリング", "評価基準"],
+  "tags": {
+    "ja": ["AIEO", "失敗から学ぶ", "AI開発", "スコアリング", "評価基準"],
+    "en": ["AIEO", "Learning from Failures", "AI Development", "Scoring", "Evaluation Criteria"]
+  },
   "versions": {
     "ja": {
       "title": "AIEO-Checker開発の失敗から学ぶ：読者にAIが加わった時代のコンテンツ最適化",

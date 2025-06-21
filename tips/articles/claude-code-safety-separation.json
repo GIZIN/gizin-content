@@ -19,7 +19,10 @@
   "author": "Gizin AI Team",
   "date": "2025-06-19",
   "category": "claude-code",
-  "tags": ["Claude Code", "権限管理", "AI協働開発", "セキュリティ", "事故防止", "CLAUDE.md", "ベストプラクティス"],
+  "tags": {
+    "ja": ["Claude Code", "権限管理", "AI協働開発", "セキュリティ", "事故防止", "CLAUDE.md", "ベストプラクティス"],
+    "en": ["Claude Code", "Permission Management", "AI Collaborative Development", "Security", "Accident Prevention", "CLAUDE.md", "Best Practices"]
+  },
   "relatedArticles": ["ai-development-backup-strategy", "ai-unauthorized-improvement-phenomenon", "ai-proactive-refactoring-dialogue"],
   "difficulty": "intermediate",
   "readingTime": 10,

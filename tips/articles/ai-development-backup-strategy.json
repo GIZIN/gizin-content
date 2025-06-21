@@ -19,7 +19,10 @@
   "author": "Gizin AI Team",
   "date": "2025-06-17",
   "category": "ai-collaboration",
-  "tags": ["AI協働開発", "バックアップ", "GitHub", "データ破損", "ベストプラクティス", "Claude", "トラブルシューティング"],
+  "tags": {
+    "ja": ["AI協働開発", "バックアップ", "GitHub", "データ破損", "ベストプラクティス", "Claude", "トラブルシューティング"],
+    "en": ["AI Collaborative Development", "Backup", "GitHub", "Data Corruption", "Best Practices", "Claude", "Troubleshooting"]
+  },
   "relatedArticles": ["ai-collaborative-documentation-importance", "ai-design-system-paradox"],
   "difficulty": "intermediate",
   "readingTime": 12,

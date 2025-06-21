@@ -3,11 +3,10 @@
   "date": "2025-06-09",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ",
-    "オープンソース",
-    "自動化ツール"
-  ],
+  "tags": {
+    "ja": ["お知らせ", "オープンソース", "自動化ツール"],
+    "en": ["Announcement", "Open Source", "Automation Tool"]
+  },
   "versions": {
     "ja": {
       "title": "Google Ads自動化ツールをオープンソースで公開",

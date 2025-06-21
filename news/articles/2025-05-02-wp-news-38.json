@@ -3,9 +3,10 @@
   "date": "2025-05-02",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "『睡眠観測』がさらに進化♪ 最新の声＆改善情報をプレスリリースに追記しました！",

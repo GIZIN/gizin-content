@@ -3,9 +3,10 @@
   "date": "2022-08-09",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "（メディア・記事）睡眠観測を掲載頂きました",

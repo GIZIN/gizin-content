@@ -3,9 +3,10 @@
   "date": "2016-10-04",
   "category": "announcement",
   "featured": false,
-  "tags": [
-    "お知らせ"
-  ],
+  "tags": {
+    "ja": ["お知らせ"],
+    "en": ["Announcement"]
+  },
   "versions": {
     "ja": {
       "title": "東京のお客様の社内勉強会で講師をさせていただきました",
