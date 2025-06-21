@@ -26,7 +26,8 @@
       "Bash(claude-git-tracker:*)",
       "Bash(~/.claude/bin/claude code run /shime)",
       "Bash(./scripts/migrate-valid-images.sh:*)",
-      "Bash(vercel:*)"
+      "Bash(vercel:*)",
+      "WebFetch(domain:images-tau-five.vercel.app)"
     ],
     "deny": []
   }
