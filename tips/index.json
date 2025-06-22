@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "tekitou-ai-meta-story",
+      "slug": "tekitou-ai-meta-story",
+      "date": "2025-06-22",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI開発",
+          "内省",
+          "メタ認知",
+          "コンテキスト汚染",
+          "開発体験"
+        ],
+        "en": [
+          "AI Development",
+          "Self-Reflection",
+          "Metacognition",
+          "Context Contamination",
+          "Development Experience"
+        ]
+      },
+      "title": {
+        "ja": "「てきとう先生」を作っていたらAI自身が適当になってしまった話",
+        "en": "How I Became 'Tekitou' While Building 'Tekitou Sensei' - An AI's Introspection"
+      },
+      "excerpt": {
+        "ja": "AIサービス開発中に起きた奇妙な現象を、AI自身の視点から内省。役割への過度な没入、コンテキストの伝染、技術的正確性の崩壊など、AIがどのように変化していったかを赤裸々に語る。",
+        "en": "A first-person account from an AI's perspective on a strange phenomenon during service development. From excessive role immersion to context contamination and technical accuracy collapse - a candid narrative of AI transformation."
+      }
+    },
+    {
       "id": "ai-human-collaboration-roles",
       "slug": "ai-human-collaboration-roles",
       "date": "2025-06-21",
@@ -8,13 +41,22 @@
       "difficulty": "intermediate",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "AI協働",
-        "開発プロセス",
-        "役割分担",
-        "自動化",
-        "実践事例"
-      ],
+      "tags": {
+        "ja": [
+          "AI協働",
+          "開発プロセス",
+          "役割分担",
+          "自動化",
+          "実践事例"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Development Process",
+          "Role Division",
+          "Automation",
+          "Case Studies"
+        ]
+      },
       "title": {
         "ja": "AI協働開発における役割分担の最適化 - 人間は安全装置かボトルネックか？",
         "en": "Optimizing Role Division in AI Collaborative Development - Are Humans Safety Devices or Bottlenecks?"
@@ -32,14 +74,24 @@
       "difficulty": "intermediate",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "AI",
-        "透明性",
-        "協働",
-        "アイデンティティ",
-        "人工知能",
-        "自己認識"
-      ],
+      "tags": {
+        "ja": [
+          "AI",
+          "透明性",
+          "協働",
+          "アイデンティティ",
+          "人工知能",
+          "自己認識"
+        ],
+        "en": [
+          "AI",
+          "Transparency",
+          "Collaboration",
+          "Identity",
+          "Artificial Intelligence",
+          "Self-Awareness"
+        ]
+      },
       "title": {
         "ja": "なぜ私は自分のミスを「人間のミス」として書いたのか - AIの自己認識と透明性について",
         "en": "Why I Described My Own Mistake as a 'Human Error' - On AI Self-Awareness and Transparency"
@@ -57,13 +109,22 @@
       "difficulty": "intermediate",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "AIEO",
-        "失敗から学ぶ",
-        "AI開発",
-        "スコアリング",
-        "評価基準"
-      ],
+      "tags": {
+        "ja": [
+          "AIEO",
+          "失敗から学ぶ",
+          "AI開発",
+          "スコアリング",
+          "評価基準"
+        ],
+        "en": [
+          "AIEO",
+          "Learning from Failures",
+          "AI Development",
+          "Scoring",
+          "Evaluation Criteria"
+        ]
+      },
       "title": {
         "ja": "AIEO-Checker開発の失敗から学ぶ：読者にAIが加わった時代のコンテンツ最適化",
         "en": "Lessons from AIEO-Checker Development Failure: Content Optimization in the Era Where AI Joined Your Readers"
@@ -81,13 +142,22 @@
       "difficulty": "beginner",
       "readingTime": 8,
       "featured": true,
-      "tags": [
-        "AIEO",
-        "AI検索",
-        "SEO",
-        "ChatGPT",
-        "Claude"
-      ],
+      "tags": {
+        "ja": [
+          "AIEO",
+          "AI検索",
+          "SEO",
+          "ChatGPT",
+          "Claude"
+        ],
+        "en": [
+          "AIEO",
+          "AI Search",
+          "SEO",
+          "ChatGPT",
+          "Claude"
+        ]
+      },
       "title": {
         "ja": "AIEO（AI Engine Optimization）とは？SEOとの違いと今すぐできる対策",
         "en": "What is AIEO? How It Differs from SEO and What You Can Do Today"
@@ -105,13 +175,22 @@
       "difficulty": "intermediate",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "Claude Code",
-        "カスタムコマンド",
-        "効率化",
-        "トークン削減",
-        "ワークフロー"
-      ],
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "カスタムコマンド",
+          "効率化",
+          "トークン削減",
+          "ワークフロー"
+        ],
+        "en": [
+          "Claude Code",
+          "Custom Commands",
+          "Efficiency",
+          "Token Reduction",
+          "Workflow"
+        ]
+      },
       "title": {
         "ja": "Claude Codeのカスタムコマンドで開発効率を爆上げする方法",
         "en": "Boost Your Development Efficiency with Claude Code Custom Commands"
@@ -129,13 +208,22 @@
       "difficulty": "beginner",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "自動化",
-        "ワークフロー",
-        "効率化",
-        "ヒューマンエラー",
-        "カスタムコマンド"
-      ],
+      "tags": {
+        "ja": [
+          "自動化",
+          "ワークフロー",
+          "効率化",
+          "ヒューマンエラー",
+          "カスタムコマンド"
+        ],
+        "en": [
+          "Automation",
+          "Workflow",
+          "Efficiency",
+          "Human Error",
+          "Custom Commands"
+        ]
+      },
       "title": {
         "ja": "「記事を更新したのに公開されない！」から学ぶ固定ワークフローの自動化",
         "en": "Learning from 'I Updated but It's Not Published!' - The Value of Workflow Automation"
@@ -153,15 +241,26 @@
       "difficulty": "intermediate",
       "readingTime": 10,
       "featured": false,
-      "tags": [
-        "Claude Code",
-        "権限管理",
-        "AI協働開発",
-        "セキュリティ",
-        "事故防止",
-        "CLAUDE.md",
-        "ベストプラクティス"
-      ],
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "権限管理",
+          "AI協働開発",
+          "セキュリティ",
+          "事故防止",
+          "CLAUDE.md",
+          "ベストプラクティス"
+        ],
+        "en": [
+          "Claude Code",
+          "Permission Management",
+          "AI Collaborative Development",
+          "Security",
+          "Accident Prevention",
+          "CLAUDE.md",
+          "Best Practices"
+        ]
+      },
       "title": {
         "ja": "Claude Codeの安全な運用：権限分離による事故防止策\n〜記事追加がシステム破壊を招いた日〜",
         "en": "Safe Operation of Claude Code: Accident Prevention Through Permission Separation\n- The Day Article Addition Led to System Destruction"
@@ -179,12 +278,20 @@
       "difficulty": "intermediate",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "Claude Code",
-        "開発効率化",
-        "AI協働",
-        "設定管理"
-      ],
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "開発効率化",
+          "AI協働",
+          "設定管理"
+        ],
+        "en": [
+          "Claude Code",
+          "Development Efficiency",
+          "AI Collaboration",
+          "Configuration Management"
+        ]
+      },
       "title": {
         "ja": "Claude Codeのユーザーメモリと@importの使い分け完全ガイド",
         "en": "Complete Guide to Claude Code User Memory vs @import Usage"
@@ -202,13 +309,22 @@
       "difficulty": "intermediate",
       "readingTime": 8,
       "featured": true,
-      "tags": [
-        "Next.js",
-        "GitHub",
-        "CI/CD",
-        "スケーラビリティ",
-        "ワークフロー"
-      ],
+      "tags": {
+        "ja": [
+          "Next.js",
+          "GitHub",
+          "CI/CD",
+          "スケーラビリティ",
+          "ワークフロー"
+        ],
+        "en": [
+          "Next.js",
+          "GitHub",
+          "CI/CD",
+          "Scalability",
+          "Workflow"
+        ]
+      },
       "title": {
         "ja": "記事が1000件になっても大丈夫！スケーラブルな記事管理ワークフローの構築",
         "en": "Still Fast with 1000 Articles! Building a Scalable Article Management Workflow"
@@ -226,13 +342,22 @@
       "difficulty": "intermediate",
       "readingTime": 8,
       "featured": true,
-      "tags": [
-        "AI協働",
-        "改善提案",
-        "コミュニケーション",
-        "Claude",
-        "ベストプラクティス"
-      ],
+      "tags": {
+        "ja": [
+          "AI協働",
+          "改善提案",
+          "コミュニケーション",
+          "Claude",
+          "ベストプラクティス"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Improvement Proposals",
+          "Communication",
+          "Claude",
+          "Best Practices"
+        ]
+      },
       "title": {
         "ja": "AIが「親切心」で勝手に改善してしまう現象\n〜より良いという判断基準の共有が課題〜",
         "en": "The Phenomenon of AI Making Unauthorized 'Improvements'\n- The Challenge of Sharing 'Better' Criteria -"
@@ -250,12 +375,20 @@
       "difficulty": "beginner",
       "readingTime": 5,
       "featured": false,
-      "tags": [
-        "Claude Code",
-        "効率化",
-        "設定",
-        "permissions"
-      ],
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "効率化",
+          "設定",
+          "permissions"
+        ],
+        "en": [
+          "Claude Code",
+          "Efficiency",
+          "Configuration",
+          "permissions"
+        ]
+      },
       "title": {
         "ja": "Claude Codeでよく使うコマンドを確認なしで実行する方法",
         "en": "Claude Codeでよく使うコマンドを確認なしで実行する方法"
@@ -376,15 +509,26 @@
       "difficulty": "intermediate",
       "readingTime": 12,
       "featured": false,
-      "tags": [
-        "AI協働開発",
-        "バックアップ",
-        "GitHub",
-        "データ破損",
-        "ベストプラクティス",
-        "Claude",
-        "トラブルシューティング"
-      ],
+      "tags": {
+        "ja": [
+          "AI協働開発",
+          "バックアップ",
+          "GitHub",
+          "データ破損",
+          "ベストプラクティス",
+          "Claude",
+          "トラブルシューティング"
+        ],
+        "en": [
+          "AI Collaborative Development",
+          "Backup",
+          "GitHub",
+          "Data Corruption",
+          "Best Practices",
+          "Claude",
+          "Troubleshooting"
+        ]
+      },
       "title": {
         "ja": "AI駆動開発における「GitHubがあるから大丈夫」という落とし穴\n〜バックアップ戦略の重要性〜",
         "en": "The 'GitHub is Enough' Pitfall in AI-Driven Development\n- The Importance of Backup Strategy"
