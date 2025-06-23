@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "claude-memory-optimization",
+      "slug": "claude-memory-optimization",
+      "date": "2025-06-23",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "メモリ効率化",
+          "自然言語処理",
+          "設計パターン",
+          "AI協働"
+        ],
+        "en": [
+          "Claude Code",
+          "Memory Optimization",
+          "Natural Language Processing",
+          "Design Patterns",
+          "AI Collaboration"
+        ]
+      },
+      "title": {
+        "ja": "Claude Codeのメモリを効率化する：自然言語インデックスの設計パターン",
+        "en": "Optimizing Claude Code's Memory: The Natural Language Index Design Pattern"
+      },
+      "excerpt": {
+        "ja": "複数プロジェクトで発生した日報フォーマットの不統一問題。その原因調査から生まれた、CLAUDE.mdを自然言語インデックスとして使う革新的な設計パターン。人間の自然な指示とAIの正確な実行を両立する実践的な解決策。",
+        "en": "Inconsistent daily report formatting across multiple projects revealed a fundamental issue. From investigating this problem emerged an innovative design pattern: using CLAUDE.md as a natural language index. A practical solution that balances natural human instructions with accurate AI execution."
+      }
+    },
+    {
       "id": "supabase-to-gcs-migration",
       "slug": "supabase-to-gcs-migration",
       "date": "2025-06-23",
