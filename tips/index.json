@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "department-store-wordpress-to-claudecode",
-      "slug": "department-store-wordpress-to-claudecode",
-      "date": "2025-06-23",
-      "category": "case-study",
-      "difficulty": "intermediate",
-      "readingTime": 5,
-      "featured": false,
-      "tags": {
-        "ja": [
-          "自動化",
-          "WordPress",
-          "Claude Code",
-          "百貨店",
-          "DX",
-          "業務効率化"
-        ],
-        "en": [
-          "automation",
-          "WordPress",
-          "Claude Code",
-          "department store",
-          "DX",
-          "efficiency"
-        ]
-      },
-      "title": {
-        "ja": "百貨店のホームページ更新地獄からの解放：WordPressからClaude Codeへの転換",
-        "en": "Breaking Free from WordPress Update Hell: A Department Store's Journey to Claude Code"
-      },
-      "excerpt": {
-        "ja": "百貨店のホームページ運営でWordPress更新に苦労している現場の実態と、Claude Codeによる記事自動掲載システムがもたらす劇的な業務改善を詳しく解説します。",
-        "en": "A detailed look at the harsh reality of WordPress content management in department store operations and the dramatic improvements brought by Claude Code's automated article publishing system."
-      }
-    },
-    {
       "id": "supabase-to-gcs-migration",
       "slug": "supabase-to-gcs-migration",
       "date": "2025-06-23",
