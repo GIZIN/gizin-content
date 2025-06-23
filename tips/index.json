@@ -36,6 +36,39 @@
       }
     },
     {
+      "id": "supabase-to-gcs-migration",
+      "slug": "supabase-to-gcs-migration",
+      "date": "2025-06-23",
+      "category": "claude-code",
+      "difficulty": "advanced",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "インフラ移行",
+          "Google Cloud Storage",
+          "Supabase",
+          "AIペアプログラミング",
+          "音声処理"
+        ],
+        "en": [
+          "Infrastructure Migration",
+          "Google Cloud Storage",
+          "Supabase",
+          "AI Pair Programming",
+          "Audio Processing"
+        ]
+      },
+      "title": {
+        "ja": "Supabase StorageからGoogle Cloud Storageへの大規模インフラ移行を数時間で完了した話",
+        "en": "Completing a Major Infrastructure Migration from Supabase Storage to Google Cloud Storage in Just Hours"
+      },
+      "excerpt": {
+        "ja": "音声要約アプリケーション開発中に発覚したSupabase Storageの制約。M4Aファイル対応のため、Google Cloud Storageへの完全移行を即座に決断し、わずか数時間で実装を完了。AIペアプログラミングによる迅速な意思決定と実装の流れを詳しく解説。",
+        "en": "A constraint in Supabase Storage discovered during voice summarization app development. To support M4A files, we immediately decided to migrate to Google Cloud Storage and completed the implementation in just hours. A detailed explanation of rapid decision-making and implementation through AI pair programming."
+      }
+    },
+    {
       "id": "tekitou-ai-meta-story",
       "slug": "tekitou-ai-meta-story",
       "date": "2025-06-22",
