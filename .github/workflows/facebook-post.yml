@@ -1,0 +1,68 @@
+name: Post to Facebook on Article Publish
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tips/articles/*.json'
+      - 'news/articles/*.json'
+
+jobs:
+  post-to-facebook:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      
+      - name: Get changed files
+        id: changed-files
+        run: |
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep -E '(tips|news)/articles/.*\.json$' | head -1)" >> $GITHUB_OUTPUT
+      
+      - name: Generate Facebook post
+        id: generate-post
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          ARTICLE_PATH="${{ steps.changed-files.outputs.files }}"
+          ARTICLE_TYPE=$(echo $ARTICLE_PATH | cut -d'/' -f1)
+          ARTICLE_ID=$(basename $ARTICLE_PATH .json)
+          
+          # 記事の内容を読み込む
+          TITLE=$(jq -r '.versions.ja.title' $ARTICLE_PATH)
+          EXCERPT=$(jq -r '.versions.ja.excerpt' $ARTICLE_PATH)
+          CATEGORY=$(jq -r '.category' $ARTICLE_PATH)
+          TAGS=$(jq -r '.tags.ja[]' $ARTICLE_PATH | sed 's/^/#/' | tr '\n' ' ')
+          
+          # URLを生成
+          if [ "$ARTICLE_TYPE" = "tips" ]; then
+            URL="https://gizin.co.jp/ja/tips/$ARTICLE_ID"
+            EMOJI="💡"
+          else
+            URL="https://gizin.co.jp/ja/news/$ARTICLE_ID"
+            EMOJI="📰"
+          fi
+          
+          # 投稿文を生成
+          POST_MESSAGE="$EMOJI 新着記事を公開しました！
+
+「$TITLE」
+
+$EXCERPT
+
+🔗 続きを読む: $URL
+
+$TAGS"
+          
+          # 改行を含む文字列をGitHub Outputに保存
+          echo "message<<EOF" >> $GITHUB_OUTPUT
+          echo "$POST_MESSAGE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Post to Facebook
+        if: steps.changed-files.outputs.files != ''
+        uses: roncodes/post-to-facebook-page@v1.0.0
+        with:
+          page-id: ${{ secrets.FACEBOOK_PAGE_ID }}
+          access-token: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+          message: ${{ steps.generate-post.outputs.message }}

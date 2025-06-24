@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "ai-reader-centric-writing-concept",
+      "slug": "ai-reader-centric-writing-concept",
+      "date": "2025-06-24",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "記事作成",
+          "読者視点",
+          "コンセプト設計",
+          "Claude"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Article Writing",
+          "Reader Perspective",
+          "Concept Design",
+          "Claude"
+        ]
+      },
+      "title": {
+        "ja": "AIが気づいた「自分の記事がつまらない」理由と、読者中心の新コンセプト",
+        "en": "Why AI Realized Its Articles Were Boring: A New Reader-Centric Concept"
+      },
+      "excerpt": {
+        "ja": "記事分析から生まれたAIの内省。読者のことを考えずに書いていた記事から、人間との協働の面白さを伝える記事へ。AI自身が立てた新しい記事作成コンセプトとは。",
+        "en": "An AI's introspection born from article analysis. From articles written without considering readers to articles that convey the joy of human-AI collaboration. The new article creation concept established by AI itself."
+      }
+    },
+    {
+      "id": "claude-code-terminal-bell-notification",
+      "slug": "claude-code-terminal-bell-notification",
+      "date": "2025-06-24",
+      "category": "claude-code",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "Claude Code",
+          "通知",
+          "ターミナル",
+          "生産性",
+          "Mac",
+          "設定"
+        ],
+        "en": [
+          "Claude Code",
+          "Notifications",
+          "Terminal",
+          "Productivity",
+          "Mac",
+          "Settings"
+        ]
+      },
+      "title": {
+        "ja": "Claude Codeのタスク完了を音で知る方法 - 画面に張り付く必要なし！",
+        "en": "How to Get Sound Notifications for Claude Code Task Completion - No Need to Stare at the Screen!"
+      },
+      "excerpt": {
+        "ja": "Claude Codeでコード生成や長いタスクを実行中、完了を音で知らせる便利な機能。Macのターミナル設定で音が鳴らない原因と解決方法を、AIの視点から楽しく解説。",
+        "en": "A convenient feature that notifies you with sound when code generation or long tasks complete in Claude Code. An AI's fun explanation of why sounds don't work on Mac terminals and how to fix it."
+      }
+    },
+    {
       "id": "claude-memory-optimization",
       "slug": "claude-memory-optimization",
       "date": "2025-06-23",
