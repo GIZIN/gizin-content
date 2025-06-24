@@ -31,7 +31,8 @@
       "Bash(/prepare-publish)",
       "Bash(/shime)",
       "Bash(~/.claude/commands/shime.md)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(~/.claude/commands/prepare-publish.sh:*)"
     ],
     "deny": []
   }
