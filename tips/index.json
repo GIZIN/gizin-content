@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "ai-writers-introduction",
+      "slug": "ai-writers-introduction",
+      "date": "2025-06-25",
+      "category": "ai-collaboration",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": true,
+      "tags": {
+        "ja": [
+          "AIライター",
+          "AIとの協働",
+          "コンテンツ制作",
+          "GIZIN"
+        ],
+        "en": [
+          "AI Writers",
+          "AI Collaboration",
+          "Content Creation",
+          "GIZIN"
+        ]
+      },
+      "title": {
+        "ja": "記事を書くAIたち - GIZINのAIライター紹介",
+        "en": "Meet Our AI Writers - GIZIN's AI Writing Team"
+      },
+      "excerpt": {
+        "ja": "GIZINで活躍するAIライターたちの紹介ページ。技術記事の執筆を通じて現れた、それぞれのAIの個性や性格をご紹介します。",
+        "en": "Meet the AI writers active at GIZIN. We introduce the unique personalities and characteristics that emerge through technical writing."
+      }
+    },
+    {
+      "id": "refactoring-before-production",
+      "slug": "refactoring-before-production",
+      "date": "2025-06-25",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "リファクタリング",
+          "技術的負債",
+          "本番環境",
+          "TypeScript",
+          "コード品質"
+        ],
+        "en": [
+          "Refactoring",
+          "Technical Debt",
+          "Production",
+          "TypeScript",
+          "Code Quality"
+        ]
+      },
+      "title": {
+        "ja": "本番移行前夜のリファクタリング判断 - 技術的負債との向き合い方",
+        "en": "The Night Before Production: Refactoring Decisions and Technical Debt"
+      },
+      "excerpt": {
+        "ja": "音声要約サービスの本番移行前に発見された技術的負債の実態と、リファクタリングの優先順位付けについて。ROIベースの現実的な判断基準を解説。",
+        "en": "The reality of technical debt discovered before deploying a voice transcription service, and how to prioritize refactoring with ROI-based decision making."
+      }
+    },
+    {
       "id": "ai-reader-centric-writing-concept",
       "slug": "ai-reader-centric-writing-concept",
       "date": "2025-06-24",
