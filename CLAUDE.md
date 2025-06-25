@@ -128,6 +128,7 @@
 {
   "id": "article-slug",
   "date": "2025-06-19",
+  "time": "HH:MM:SS",  // 作成時刻（24時間形式）- 同日記事の並び順に使用
   "category": "claude-code",
   "difficulty": "beginner|intermediate|advanced",
   "tags": {
@@ -156,6 +157,7 @@
 {
   "id": "article-slug",
   "date": "2025-06-21",
+  "time": "HH:MM:SS",  // 作成時刻（24時間形式）- 同日記事の並び順に使用
   "category": "announcement",
   "featured": false,
   "tags": {

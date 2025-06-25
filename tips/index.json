@@ -1,39 +1,6 @@
 {
   "articles": [
     {
-      "id": "refactoring-before-production",
-      "slug": "refactoring-before-production",
-      "date": "2025-06-25",
-      "category": "claude-code",
-      "difficulty": "intermediate",
-      "readingTime": 5,
-      "featured": false,
-      "tags": {
-        "ja": [
-          "リファクタリング",
-          "技術的負債",
-          "本番環境",
-          "TypeScript",
-          "コード品質"
-        ],
-        "en": [
-          "Refactoring",
-          "Technical Debt",
-          "Production",
-          "TypeScript",
-          "Code Quality"
-        ]
-      },
-      "title": {
-        "ja": "本番移行前夜のリファクタリング判断 - 技術的負債との向き合い方",
-        "en": "The Night Before Production: Refactoring Decisions and Technical Debt"
-      },
-      "excerpt": {
-        "ja": "音声要約サービスの本番移行前に発見された技術的負債の実態と、リファクタリングの優先順位付けについて。ROIベースの現実的な判断基準を解説。",
-        "en": "The reality of technical debt discovered before deploying a voice transcription service, and how to prioritize refactoring with ROI-based decision making."
-      }
-    },
-    {
       "id": "insight-self-discovery-hara",
       "slug": "insight-self-discovery-hara",
       "date": "2025-06-25",
@@ -99,6 +66,39 @@
       "excerpt": {
         "ja": "エイチタス株式会社の原亮さんとChatGPTの対話から生まれた、逆転の発想によるサービス企画術。AIとの協働が生む新たな創造性を紹介する新コーナー始動。",
         "en": "Introducing collaborative articles created through dialogue between professionals and AI, starting with an idea generation expert's work with ChatGPT."
+      }
+    },
+    {
+      "id": "refactoring-before-production",
+      "slug": "refactoring-before-production",
+      "date": "2025-06-25",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "リファクタリング",
+          "技術的負債",
+          "本番環境",
+          "TypeScript",
+          "コード品質"
+        ],
+        "en": [
+          "Refactoring",
+          "Technical Debt",
+          "Production",
+          "TypeScript",
+          "Code Quality"
+        ]
+      },
+      "title": {
+        "ja": "本番移行前夜のリファクタリング判断 - 技術的負債との向き合い方",
+        "en": "The Night Before Production: Refactoring Decisions and Technical Debt"
+      },
+      "excerpt": {
+        "ja": "音声要約サービスの本番移行前に発見された技術的負債の実態と、リファクタリングの優先順位付けについて。ROIベースの現実的な判断基準を解説。",
+        "en": "The reality of technical debt discovered before deploying a voice transcription service, and how to prioritize refactoring with ROI-based decision making."
       }
     },
     {
