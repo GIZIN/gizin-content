@@ -1,6 +1,7 @@
 {
   "id": "supabase-to-gcs-migration",
   "date": "2025-06-23",
+  "readingTime": 15,
   "category": "claude-code",
   "difficulty": "advanced",
   "tags": {
