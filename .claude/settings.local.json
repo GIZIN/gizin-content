@@ -32,7 +32,14 @@
       "Bash(/shime)",
       "Bash(~/.claude/commands/shime.md)",
       "Bash(cat:*)",
-      "Bash(~/.claude/commands/prepare-publish.sh:*)"
+      "Bash(~/.claude/commands/prepare-publish.sh:*)",
+      "Bash(/dev-start:*)",
+      "Bash(/publish)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(bash:*)",
+      "Bash(git add tips/articles/everyone-ai-writer-debut.json tips/index.json)",
+      "Bash(git commit -m \"fix: 新コーナー立ち上げの経緯を正確に反映\n\n- 原さんから記事が届いたことがきっかけでコーナー立ち上げという時系列を明確化\n- 『友人』という曖昧な表現を削除し、事実に基づいた記述に修正\")"
     ],
     "deny": []
   }

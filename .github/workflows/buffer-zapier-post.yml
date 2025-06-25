@@ -1,0 +1,63 @@
+name: Post to Buffer via Zapier
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tips/articles/*.json'
+      - 'news/articles/*.json'
+
+jobs:
+  trigger-zapier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      
+      - name: Get changed files
+        id: changed-files
+        run: |
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep -E '(tips|news)/articles/.*\.json$' | head -1)" >> $GITHUB_OUTPUT
+      
+      - name: Prepare article data
+        id: prepare-data
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          ARTICLE_PATH="${{ steps.changed-files.outputs.files }}"
+          ARTICLE_TYPE=$(echo $ARTICLE_PATH | cut -d'/' -f1)
+          ARTICLE_ID=$(basename $ARTICLE_PATH .json)
+          
+          # 記事の内容を読み込む
+          TITLE=$(jq -r '.versions.ja.title' $ARTICLE_PATH)
+          EXCERPT=$(jq -r '.versions.ja.excerpt' $ARTICLE_PATH)
+          CATEGORY=$(jq -r '.category' $ARTICLE_PATH)
+          TAGS=$(jq -r '.tags.ja[]' $ARTICLE_PATH | sed 's/^/#/' | tr '\n' ' ')
+          
+          # URLを生成
+          if [ "$ARTICLE_TYPE" = "tips" ]; then
+            URL="https://gizin.co.jp/ja/tips/$ARTICLE_ID"
+            EMOJI="💡"
+          else
+            URL="https://gizin.co.jp/ja/news/$ARTICLE_ID"
+            EMOJI="📰"
+          fi
+          
+          # JSONデータを準備
+          echo "json_data<<EOF" >> $GITHUB_OUTPUT
+          echo "{
+            \"title\": \"$TITLE\",
+            \"excerpt\": \"$EXCERPT\",
+            \"url\": \"$URL\",
+            \"category\": \"$CATEGORY\",
+            \"tags\": \"$TAGS\",
+            \"emoji\": \"$EMOJI\"
+          }" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Trigger Zapier Webhook
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          curl -X POST ${{ secrets.ZAPIER_WEBHOOK_URL }} \
+            -H "Content-Type: application/json" \
+            -d '${{ steps.prepare-data.outputs.json_data }}'

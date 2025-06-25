@@ -6,7 +6,7 @@
       "date": "2025-06-25",
       "category": "claude-code",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 6,
       "featured": false,
       "tags": {
         "ja": [
@@ -68,7 +68,7 @@
       "date": "2025-06-25",
       "category": "claude-code",
       "difficulty": "beginner",
-      "readingTime": 5,
+      "readingTime": 6,
       "featured": false,
       "tags": {
         "ja": [
@@ -99,7 +99,7 @@
       "date": "2025-06-25",
       "category": "ai-collaboration",
       "difficulty": "beginner",
-      "readingTime": 5,
+      "readingTime": 7,
       "featured": true,
       "tags": {
         "ja": [
@@ -259,6 +259,39 @@
       }
     },
     {
+      "id": "voice-summarizer-retrospective",
+      "slug": "voice-summarizer-retrospective",
+      "date": "2025-06-25",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 7,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIペアプログラミング",
+          "プロダクト開発",
+          "市場調査",
+          "意思決定",
+          "開発回顧録"
+        ],
+        "en": [
+          "AI Pair Programming",
+          "Product Development",
+          "Market Research",
+          "Decision Making",
+          "Development Retrospective"
+        ]
+      },
+      "title": {
+        "ja": "3日で完成したアプリをリリースしない理由 - 音声要約さん開発回顧録",
+        "en": "Why We Won't Launch a Fully Functional App - Lessons from 3 Days of AI Pair Programming"
+      },
+      "excerpt": {
+        "ja": "知人のニーズから始まった開発プロジェクト。3日間でフル機能のWebアプリを完成させたものの、リリースしない決断に至った経緯と教訓を共有します。",
+        "en": "Learn why market research beats technical capability, through the story of a 3-day AI-powered development sprint that ended with a 'no launch' decision."
+      }
+    },
+    {
       "id": "ai-reader-centric-writing-concept",
       "slug": "ai-reader-centric-writing-concept",
       "date": "2025-06-24",
@@ -332,7 +365,7 @@
       "date": "2025-06-23",
       "category": "claude-code",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 7,
       "featured": false,
       "tags": {
         "ja": [
@@ -365,7 +398,7 @@
       "date": "2025-06-23",
       "category": "claude-code",
       "difficulty": "advanced",
-      "readingTime": 5,
+      "readingTime": 8,
       "featured": false,
       "tags": {
         "ja": [
@@ -398,7 +431,7 @@
       "date": "2025-06-22",
       "category": "claude-code",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 11,
       "featured": false,
       "tags": {
         "ja": [
@@ -464,7 +497,7 @@
       "date": "2025-06-20",
       "category": "ai-collaboration",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 6,
       "featured": false,
       "tags": {
         "ja": [
@@ -499,7 +532,7 @@
       "date": "2025-06-20",
       "category": "aieo",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 8,
       "featured": false,
       "tags": {
         "ja": [
@@ -598,7 +631,7 @@
       "date": "2025-06-20",
       "category": "ai-collaboration",
       "difficulty": "beginner",
-      "readingTime": 5,
+      "readingTime": 6,
       "featured": false,
       "tags": {
         "ja": [
@@ -668,7 +701,7 @@
       "date": "2025-06-19",
       "category": "claude-code",
       "difficulty": "intermediate",
-      "readingTime": 5,
+      "readingTime": 8,
       "featured": false,
       "tags": {
         "ja": [
@@ -966,7 +999,6 @@
       "slug": "ai-design-system-paradox",
       "date": "2025-06-16",
       "category": "ai-collaboration",
-      "difficulty": "intermediate",
       "readingTime": 12,
       "featured": true,
       "tags": {
@@ -1163,10 +1195,9 @@
     },
     {
       "id": "claude-code-aws-bedrock-enterprise",
-      "slug": "claude-code-aws-bedrock-enterprise",
+      "slug": "claude-code-aws-bedrock-enterprise-setup",
       "date": "2025-06-16",
       "category": "enterprise",
-      "difficulty": "intermediate",
       "readingTime": 10,
       "featured": true,
       "tags": {
@@ -1229,7 +1260,7 @@
     },
     {
       "id": "technical-debt-case-study",
-      "slug": "technical-debt-case-study",
+      "slug": "technical-debt-case-study-static-site-one-week",
       "date": "2025-06-16",
       "category": "case-study",
       "difficulty": "intermediate",

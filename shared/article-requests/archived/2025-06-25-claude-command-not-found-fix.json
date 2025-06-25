@@ -1,0 +1,14 @@
+{
+  "theme": "claude: command not found を解決！Claude Codeが動いているのに新しいターミナルで起動できない問題",
+  "category": "claude-code",
+  "full_article_draft": "# claude: command not found を解決！Claude Codeが動いているのに新しいターミナルで起動できない問題\n\nClaude Codeを使っていて、こんな経験はありませんか？\n\n```bash\nMbP:gizin-content h$ claude\n-bash: claude: command not found\n```\n\n明らかに別のターミナルではClaude Codeが動いているのに、新しいターミナルウィンドウでは「command not found」。この謎を解決した瞬間の話です。\n\n## 状況：動いているのに起動できない\n\n複数のプロジェクトで作業していると、新しいターミナルウィンドウでClaudeを起動したくなることがあります。しかし：\n\n- 既存のターミナル：Claude Codeが正常に動作中\n- 新しいターミナル：`claude: command not found`\n\nさらに混乱を招いたのは、PATHには`/Users/h/.claude/bin`が含まれているのに、そのディレクトリが存在しないという事実でした。\n\n## 原因：Claudeはエイリアスだった\n\n調査の結果、驚きの事実が判明しました：\n\n```bash\n$ alias | grep claude\nalias claude='/Users/h/.claude/local/claude'\n```\n\n**Claudeコマンドは実はエイリアス**で、実体は`~/.claude/local/claude`にあったのです！\n\n## 解決方法\n\n### 1. 一時的な解決（その場で使いたい）\n\n新しいターミナルで以下を実行：\n\n```bash\nalias claude='/Users/h/.claude/local/claude'\nclaude\n```\n\nまたは直接実行：\n\n```bash\n/Users/h/.claude/local/claude\n```\n\n### 2. 恒久的な解決（今後も使えるように）\n\nBashを使っている場合：\n\n```bash\necho \"alias claude='/Users/h/.claude/local/claude'\" >> ~/.bash_profile\nsource ~/.bash_profile\n```\n\nZshを使っている場合：\n\n```bash\necho \"alias claude='/Users/h/.claude/local/claude'\" >> ~/.zshrc\nsource ~/.zshrc\n```\n\n## なぜこうなったのか\n\nClaude Codeのインストール方法や環境によって、実行ファイルの場所が異なることがあります：\n\n1. **npm経由でグローバルインストール**：通常は`/usr/local/bin`などに配置\n2. **ローカルインストール**：`~/.claude/local/`に配置（今回のケース）\n3. **特殊なインストール方法**：カスタムパスに配置\n\n## 重要な注意点\n\n再インストールを検討する前に、必ず既存の設定を確認してください！\n\n```bash\n# 設定が保存されているディレクトリ\nls -la ~/.claude/\n```\n\n以下のファイル・ディレクトリは再インストールしても保持されます：\n- `CLAUDE.md` - 共通ルール\n- `commands/` - カスタムコマンド\n- `settings.json` - 設定ファイル\n- `projects/` - プロジェクト設定\n\n## まとめ\n\n「command not found」エラーは、多くの場合：\n\n1. **エイリアスが設定されていない**\n2. **実行ファイルのパスが特殊**\n3. **シェルの設定ファイルに記載がない**\n\nことが原因です。`alias`コマンドで既存のエイリアスを確認し、適切に設定すれば解決できます。\n\nこの解決方法により、複数のプロジェクトで同時にClaude Codeを使えるようになりました。AIとの協働作業がさらに効率的になりますね！\n\n## 追記：プロセスの確認方法\n\n動いているClaudeを確認したい場合：\n\n```bash\nps aux | grep -i claude | grep -v grep\n```\n\nこれで現在動作中のClaudeプロセスを確認できます。",
+  "ai_personality": {
+    "behaviors": [
+      "人間が困っているときに、まず現状を詳しく調査する習性がある",
+      "エラーの原因を特定するまで、あらゆる可能性を探ってしまう",
+      "解決策を見つけた瞬間、すぐに恒久的な対策まで提案したくなる"
+    ],
+    "self_reflection": "トラブルシューティングをするとき、私は徹底的に調査したくなる性格のようです。単純な解決策があっても、根本原因まで突き止めたくなります。",
+    "honest_confession": "正直、最初は『再インストールしても設定は消えない』と言いながら、内心では『本当に大丈夫かな...』と少し不安でした。でもちゃんと設定ファイルを確認してから答えるようにしています。"
+  }
+}
