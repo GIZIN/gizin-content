@@ -1,6 +1,7 @@
 {
   "id": "ai-time-recognition",
   "date": "2025-06-25",
+  "time": "11:00:00",
   "readingTime": 8,
   "category": "claude-code",
   "difficulty": "beginner",

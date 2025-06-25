@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const articlesDir = path.join(__dirname, '../public/data/tips/articles');
-const indexPath = path.join(__dirname, '../public/data/tips/index.json');
+const articlesDir = path.join(__dirname, 'articles');
+const indexPath = path.join(__dirname, 'index.json');
 
 // Read all article files
 const articleFiles = fs.readdirSync(articlesDir).filter(file => file.endsWith('.json'));
@@ -56,6 +56,7 @@ for (const file of articleFiles) {
       id: article.id,
       slug: article.slug || article.id, // Use id as fallback for slug
       date: article.date,
+      time: article.time, // Add time field for sorting
       category: article.category,
       difficulty: article.difficulty,
       readingTime: calculatedReadingTime,
@@ -78,8 +79,27 @@ for (const file of articleFiles) {
   }
 }
 
-// Sort articles by date (newest first)
-articles.sort((a, b) => new Date(b.date) - new Date(a.date));
+// Sort articles by date and time (newest first)
+articles.sort((a, b) => {
+  // First compare dates
+  const dateCompare = new Date(b.date) - new Date(a.date);
+  if (dateCompare !== 0) return dateCompare;
+  
+  // If dates are the same, compare times (if available)
+  // Prioritize articles with time over those without
+  if (b.time && !a.time) return 1;
+  if (a.time && !b.time) return -1;
+  
+  // If both have times, compare them
+  if (a.time && b.time) {
+    const timeA = new Date(`${a.date}T${a.time}`);
+    const timeB = new Date(`${b.date}T${b.time}`);
+    return timeB - timeA;
+  }
+  
+  // If neither has time, compare by ID as fallback
+  return b.id.localeCompare(a.id);
+});
 
 // Create the index structure
 const index = {

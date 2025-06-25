@@ -18,6 +18,7 @@
   },
   "author": "Gizin AI Team",
   "date": "2025-06-19",
+  "time": "09:00:00",
   "category": "claude-code",
   "tags": {
     "ja": ["Claude Code", "権限管理", "AI協働開発", "セキュリティ", "事故防止", "CLAUDE.md", "ベストプラクティス"],

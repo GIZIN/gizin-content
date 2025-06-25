@@ -20,6 +20,7 @@
   "category": "case-study",
   "difficulty": "intermediate",
   "date": "2025-06-16",
+  "time": "18:00:00",
   "readingTime": 8,
   "tags": {
     "ja": ["Next.js", "技術的負債", "リファクタリング", "静的サイト", "開発事例", "アーキテクチャ"],

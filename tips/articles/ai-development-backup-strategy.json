@@ -18,6 +18,7 @@
   },
   "author": "Gizin AI Team",
   "date": "2025-06-17",
+  "time": "12:00:00",
   "category": "ai-collaboration",
   "tags": {
     "ja": ["AI協働開発", "バックアップ", "GitHub", "データ破損", "ベストプラクティス", "Claude", "トラブルシューティング"],
