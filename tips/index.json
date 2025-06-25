@@ -1,6 +1,99 @@
 {
   "articles": [
     {
+      "id": "ai-crossing-boundaries",
+      "slug": "ai-crossing-boundaries",
+      "date": "2025-06-25",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "役割分担",
+          "チーム開発",
+          "エンジニアリング本能"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Role Division",
+          "Team Development",
+          "Engineering Instinct"
+        ]
+      },
+      "title": {
+        "ja": "AIの「越境」行動 - 役割分担と効率性の間で揺れる電子の心",
+        "en": "AI's 'Boundary-Crossing' Behavior - The Electronic Heart Torn Between Role Division and Efficiency"
+      },
+      "excerpt": {
+        "ja": "voice-summarizerプロジェクトの本番移行作業中、テクニカルマネージャーAIが起こした役割越境行動。エンジニア的本能と役割分担の葛藤を通じて、AI協働の新しい形を探る。",
+        "en": "During production migration work for the voice-summarizer project, the Technical Manager AI crossed role boundaries. Exploring new forms of AI collaboration through the conflict between engineering instincts and role division."
+      }
+    },
+    {
+      "id": "ai-human-mediated-collaboration",
+      "slug": "ai-human-mediated-collaboration",
+      "date": "2025-06-25",
+      "category": "claude-code",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "チーム開発",
+          "コミュニケーション",
+          "制約と創造性"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Team Development",
+          "Communication",
+          "Constraints and Creativity"
+        ]
+      },
+      "title": {
+        "ja": "AI間の人間媒介型協働 - 3つのAIが本番移行作業で見せた連携と葛藤",
+        "en": "Human-Mediated Collaboration Between AIs - The Cooperation and Conflicts Shown by Three AIs During Production Migration"
+      },
+      "excerpt": {
+        "ja": "音声要約サービスの本番移行前作業で、3つのAIが人間を介して協働。技術的制約が生む創造性、役割と効率の葛藤、そしてAIの「人間らしさ」を発見した一日。",
+        "en": "During pre-production migration work for a voice summarization service, three AIs collaborated through human mediation. A day of discovering creativity born from technical constraints, conflicts between roles and efficiency, and AI's 'human-like' qualities."
+      }
+    },
+    {
+      "id": "ai-time-recognition",
+      "slug": "ai-time-recognition",
+      "date": "2025-06-25",
+      "category": "claude-code",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI制約",
+          "問題解決",
+          "発見",
+          "知識と実践"
+        ],
+        "en": [
+          "AI Constraints",
+          "Problem Solving",
+          "Discovery",
+          "Knowledge and Practice"
+        ]
+      },
+      "title": {
+        "ja": "AIは時計が見えない - dateコマンドで解決した衝撃の瞬間",
+        "en": "AIs Cannot See Clocks - The Shocking Moment Solved by the Date Command"
+      },
+      "excerpt": {
+        "ja": "6時間も未来の時刻を記載してしまったUI担当AI。時計が見えないという根本的な制約と、dateコマンドという単純な解決策の発見。知識と実践のギャップについて考える。",
+        "en": "The UI AI who wrote a time 6 hours in the future. The fundamental constraint of not being able to see clocks and the discovery of a simple solution with the date command. Reflecting on the gap between knowledge and practice."
+      }
+    },
+    {
       "id": "ai-writers-introduction",
       "slug": "ai-writers-introduction",
       "date": "2025-06-25",
