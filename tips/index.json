@@ -1,44 +1,6 @@
 {
   "articles": [
     {
-      "id": "insight-self-discovery-hara",
-      "slug": "insight-self-discovery-hara",
-      "date": "2025-06-25",
-      "category": "ai-collaboration",
-      "difficulty": "intermediate",
-      "readingTime": 8,
-      "featured": false,
-      "versions": {
-        "ja": {
-          "title": "💭インサイト？知らんがな──「気づき自己責任型」サービス発想術",
-          "excerpt": "「ユーザーが自分でインサイトを見つけるサービス」という暴論から始まった、エイチタス株式会社・原亮さんとChatGPTの創造的対話。"
-        },
-        "en": {
-          "title": "Insight? I Don't Care - The 'Self-Discovery' Service Design Philosophy",
-          "excerpt": "A provocative dialogue between an idea generation professional and ChatGPT, exploring what happens when you flip traditional service design on its head."
-        }
-      }
-    },
-    {
-      "id": "everyone-ai-writer-debut",
-      "slug": "everyone-ai-writer-debut",
-      "date": "2025-06-25",
-      "category": "ai-collaboration",
-      "difficulty": "beginner",
-      "readingTime": 7,
-      "featured": true,
-      "versions": {
-        "ja": {
-          "title": "【新コーナー】みんなのAIライター：アイデア創発のプロ×ChatGPTが生んだ逆転の発想術",
-          "excerpt": "友人のアイデア創発のプロがChatGPTと対話して生まれた記事をご紹介。「インサイトの自己責任化」という暴論から、法人向けサービスが生まれるまでの軌跡とは？"
-        },
-        "en": {
-          "title": "Coming Soon: Everyone's AI Writer Series",
-          "excerpt": "A new series showcasing collaborative works between professionals and AI writers from our community."
-        }
-      }
-    },
-    {
       "id": "ai-crossing-boundaries",
       "slug": "ai-crossing-boundaries",
       "date": "2025-06-25",
@@ -160,6 +122,74 @@
       "excerpt": {
         "ja": "GIZINで活躍するAIライターたちの紹介ページ。技術記事の執筆を通じて現れた、それぞれのAIの個性や性格をご紹介します。",
         "en": "Meet the AI writers active at GIZIN. We introduce the unique personalities and characteristics that emerge through technical writing."
+      }
+    },
+    {
+      "id": "everyone-ai-writer-debut",
+      "slug": "everyone-ai-writer-debut",
+      "date": "2025-06-25",
+      "category": "ai-collaboration",
+      "difficulty": "beginner",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIライター",
+          "ChatGPT",
+          "アイデア創発",
+          "協働",
+          "新コーナー"
+        ],
+        "en": [
+          "AI Writer",
+          "ChatGPT",
+          "Idea Generation",
+          "Collaboration",
+          "New Series"
+        ]
+      },
+      "title": {
+        "ja": "【新コーナー】みんなのAIライター：アイデア創発のプロ×ChatGPTが生んだ逆転の発想術",
+        "en": "Coming Soon: Everyone's AI Writer Series"
+      },
+      "excerpt": {
+        "ja": "エイチタス株式会社の原亮さんとChatGPTの対話から生まれた、逆転の発想によるサービス企画術。AIとの協働が生む新たな創造性を紹介する新コーナー始動。",
+        "en": "Introducing collaborative articles created through dialogue between professionals and AI, starting with an idea generation expert's work with ChatGPT."
+      }
+    },
+    {
+      "id": "insight-self-discovery-hara",
+      "slug": "insight-self-discovery-hara",
+      "date": "2025-06-25",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 5,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AIライター",
+          "ChatGPT",
+          "アイデア創発",
+          "サービス企画",
+          "インサイト",
+          "みんなのAIライター"
+        ],
+        "en": [
+          "AI Writer",
+          "ChatGPT",
+          "Idea Generation",
+          "Service Planning",
+          "Insight",
+          "Everyone's AI Writer"
+        ]
+      },
+      "title": {
+        "ja": "💭インサイト？知らんがな──「気づき自己責任型」サービス発想術",
+        "en": "Insight? I Don't Care - The 'Self-Discovery' Service Design Philosophy"
+      },
+      "excerpt": {
+        "ja": "アイデア創発のプロが投げかけた逆転の発想から、法人向けサービスが生まれるまでの軌跡。みんなのAIライターシリーズ第1弾。",
+        "en": "How a half-joking question about making users discover their own insights led to a meta-realization about the creative process itself."
       }
     },
     {
