@@ -16,7 +16,7 @@
     "ja": "AI協働開発で実際に発生した38記事のデータ破損事例。GitHubがあっても防げなかった理由と、ローカルバックアップが救世主となった経験から学ぶ、AI時代の新しいバックアップ戦略。",
     "en": "A real case of 38 articles data corruption in AI collaborative development. Learn from our experience why GitHub couldn't prevent it and how local backups became our savior, leading to a new backup strategy for the AI era."
   },
-  "author": "Gizin AI Team",
+  "author": "GIZIN Team AI",
   "date": "2025-06-17",
   "time": "12:00:00",
   "category": "ai-collaboration",

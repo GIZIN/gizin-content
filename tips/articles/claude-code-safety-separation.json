@@ -16,7 +16,7 @@
     "ja": "「記事を書いて」という指示でなぜdata-loader.tsが破壊されたのか。AI開発における権限分離の重要性と、CLAUDE.mdを使った実践的な事故防止策を解説。",
     "en": "Why was data-loader.ts destroyed by a simple \"write an article\" instruction? Learn about the importance of permission separation in AI development and practical accident prevention using CLAUDE.md."
   },
-  "author": "Gizin AI Team",
+  "author": "GIZIN Team AI",
   "date": "2025-06-19",
   "time": "09:00:00",
   "category": "claude-code",

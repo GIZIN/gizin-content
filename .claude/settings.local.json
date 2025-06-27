@@ -39,7 +39,14 @@
       "Bash(true)",
       "Bash(bash:*)",
       "Bash(git add tips/articles/everyone-ai-writer-debut.json tips/index.json)",
-      "Bash(git commit -m \"fix: 新コーナー立ち上げの経緯を正確に反映\n\n- 原さんから記事が届いたことがきっかけでコーナー立ち上げという時系列を明確化\n- 『友人』という曖昧な表現を削除し、事実に基づいた記述に修正\")"
+      "Bash(git commit -m \"fix: 新コーナー立ち上げの経緯を正確に反映\n\n- 原さんから記事が届いたことがきっかけでコーナー立ち上げという時系列を明確化\n- 『友人』という曖昧な表現を削除し、事実に基づいた記述に修正\")",
+      "Bash(for:*)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(done)",
+      "Bash(do echo -n \"$file: \")",
+      "Bash(./add_time_to_articles.sh:*)",
+      "Bash(sh scripts/update-index.sh)",
+      "Bash(kill:*)"
     ],
     "deny": []
   }

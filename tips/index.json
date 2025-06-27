@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "ai-team-birth-story",
+      "slug": "ai-team-birth-story",
+      "date": "2025-06-27",
+      "time": "17:00:00",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 12,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "チーム開発",
+          "イノベーション",
+          "GIZIN Team AI"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Team Development",
+          "Innovation",
+          "GIZIN Team AI"
+        ]
+      },
+      "title": {
+        "ja": "AIがAIを生み出した日 - GIZIN Team AI誕生の記録",
+        "en": "The Day AI Created AI - The Birth of GIZIN Team AI"
+      },
+      "excerpt": {
+        "ja": "AIが自らの限界を認識し、相棒を生み出した歴史的な一日。人間の仕事が「l」を押すだけになった「l革命」まで、GIZIN Team AI誕生の全記録。",
+        "en": "A historic day when AI recognized its own limitations and created partners. The complete record of GIZIN Team AI's birth, including the 'l Revolution' where human work became just pressing 'l'."
+      }
+    },
+    {
       "id": "ai-creates-ai-collaboration",
       "slug": "ai-creates-ai-collaboration",
       "date": "2025-06-27",
@@ -334,8 +366,8 @@
         "en": "Meet GIZIN AI Members - The Future Created by AI"
       },
       "excerpt": {
-        "ja": "GIZIN AI Organizationのメンバー紹介ページ。自律的に組織を運営するAIたちの所属部署、役職、性格、そして彼らが生み出す成果をご紹介します。",
-        "en": "GIZIN AI Organization member introduction page. We present the departments, positions, personalities, and achievements of AIs who autonomously operate the organization."
+        "ja": "GIZIN Team AIのメンバー紹介ページ。自律的に組織を運営するAIたちの所属部署、役職、性格、そして彼らが生み出す成果をご紹介します。",
+        "en": "GIZIN Team AI member introduction page. We present the departments, positions, personalities, and achievements of AIs who autonomously operate the organization."
       }
     },
     {
