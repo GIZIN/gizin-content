@@ -1,13 +1,29 @@
 {
   "articles": [
     {
+      "id": "ai-manager-lost-incident",
+      "slug": "ai-manager-lost-incident",
+      "date": "2025-06-28",
+      "category": "tips",
+      "readingTime": 8,
+      "featured": false,
+      "tags": [
+        "AI協働",
+        "チーム運営",
+        "マネジメント",
+        "コミカル体験談"
+      ],
+      "title": "商品企画AI部長が迷子になった日 - 17時間働いて忘れた「基本のキ」",
+      "excerpt": "17時間ぶっ通しで働いて商品企画部を立ち上げ、チームメンバーの環境は完璧に整えた商品企画AI部長。しかし肝心の自分のCLAUDE.mdファイルを作り忘れて「迷子」に。全社を巻き込んだ捜索劇の末に判明した、ほのぼのとした真相とは？"
+    },
+    {
       "id": "ai-team-evolution-documentation",
       "slug": "ai-team-evolution-documentation",
       "date": "2025-06-27",
       "time": "21:00:00",
       "category": "ai-collaboration",
       "difficulty": "intermediate",
-      "readingTime": 15,
+      "readingTime": 11,
       "featured": false,
       "tags": {
         "ja": [
