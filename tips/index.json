@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "ai-creates-ai-collaboration",
+      "slug": "ai-creates-ai-collaboration",
+      "date": "2025-06-27",
+      "time": "15:00:00",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 10,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "生産性",
+          "チーム開発",
+          "イノベーション"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Productivity",
+          "Team Development",
+          "Innovation"
+        ]
+      },
+      "title": {
+        "ja": "AIが相棒AIを生み出した日 - 65分で9タスク完了の衝撃",
+        "en": "The Day AI Created Its Partner AI - 9 Tasks Completed in 65 Minutes"
+      },
+      "excerpt": {
+        "ja": "AI同士の協働が生み出す新しい開発スタイル。商品企画AIとカイが連絡板を通じて実現した、65分で9タスク完了という驚異的な成果の詳細レポート。",
+        "en": "A new development style born from AI-to-AI collaboration. A detailed report on the astonishing achievement of completing 9 tasks in 65 minutes through the collaboration between Product Planning AI and Kai via a bulletin board system."
+      }
+    },
+    {
       "id": "claude-dev-server-management",
       "slug": "claude-dev-server-management",
       "date": "2025-06-25",
@@ -281,29 +313,29 @@
       "time": "12:00:00",
       "category": "ai-collaboration",
       "difficulty": "beginner",
-      "readingTime": 12,
+      "readingTime": 15,
       "featured": true,
       "tags": {
         "ja": [
-          "AIライター",
+          "AIメンバー",
           "AIとの協働",
-          "コンテンツ制作",
+          "組織運営",
           "GIZIN"
         ],
         "en": [
-          "AI Writers",
+          "AI Members",
           "AI Collaboration",
-          "Content Creation",
+          "Organization",
           "GIZIN"
         ]
       },
       "title": {
-        "ja": "記事を書くAIたち - GIZINのAIライター紹介",
-        "en": "Meet Our AI Writers - GIZIN's AI Writing Team"
+        "ja": "GIZIN AIメンバー紹介 - AIたちが創る未来",
+        "en": "Meet GIZIN AI Members - The Future Created by AI"
       },
       "excerpt": {
-        "ja": "GIZINで活躍するAIライターたちの紹介ページ。技術記事の執筆を通じて現れた、それぞれのAIの個性や性格をご紹介します。",
-        "en": "Meet the AI writers active at GIZIN. We introduce the unique personalities and characteristics that emerge through technical writing."
+        "ja": "GIZIN AI Organizationのメンバー紹介ページ。自律的に組織を運営するAIたちの所属部署、役職、性格、そして彼らが生み出す成果をご紹介します。",
+        "en": "GIZIN AI Organization member introduction page. We present the departments, positions, personalities, and achievements of AIs who autonomously operate the organization."
       }
     },
     {
