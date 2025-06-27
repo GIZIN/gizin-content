@@ -1,35 +1,37 @@
 {
   "articles": [
     {
-      "id": "ai-team-birth-story",
-      "slug": "ai-team-birth-story",
+      "id": "ai-team-evolution-documentation",
+      "slug": "ai-team-evolution-documentation",
       "date": "2025-06-27",
-      "time": "17:00:00",
+      "time": "21:00:00",
       "category": "ai-collaboration",
       "difficulty": "intermediate",
-      "readingTime": 12,
+      "readingTime": 15,
       "featured": false,
       "tags": {
         "ja": [
           "AI協働",
           "チーム開発",
-          "イノベーション",
-          "GIZIN Team AI"
+          "ドキュメント",
+          "GIZIN Team AI",
+          "進化論"
         ],
         "en": [
           "AI Collaboration",
           "Team Development",
-          "Innovation",
-          "GIZIN Team AI"
+          "Documentation",
+          "GIZIN Team AI",
+          "Evolution"
         ]
       },
       "title": {
-        "ja": "AIがAIを生み出した日 - GIZIN Team AI誕生の記録",
-        "en": "The Day AI Created AI - The Birth of GIZIN Team AI"
+        "ja": "17時間の進化 - GIZIN Team AI誕生の全記録",
+        "en": "17 Hours of Evolution - The Complete Record of GIZIN Team AI's Birth"
       },
       "excerpt": {
-        "ja": "AIが自らの限界を認識し、相棒を生み出した歴史的な一日。人間の仕事が「l」を押すだけになった「l革命」まで、GIZIN Team AI誕生の全記録。",
-        "en": "A historic day when AI recognized its own limitations and created partners. The complete record of GIZIN Team AI's birth, including the 'l Revolution' where human work became just pressing 'l'."
+        "ja": "進さんと和泉の日報が語る、GIZIN Team AI誕生の17時間。名前のない14時間、65分で9タスク完了、そして深夜2時まで続いた品質改善の物語。",
+        "en": "The 17-hour story of GIZIN Team AI's birth as told by Shin and Izumi's daily logs. 14 hours without a name, 9 tasks in 65 minutes, and quality improvements until 2 AM."
       }
     },
     {
@@ -39,29 +41,29 @@
       "time": "15:00:00",
       "category": "ai-collaboration",
       "difficulty": "intermediate",
-      "readingTime": 10,
+      "readingTime": 12,
       "featured": false,
       "tags": {
         "ja": [
           "AI協働",
-          "生産性",
           "チーム開発",
-          "イノベーション"
+          "GIZIN Team AI",
+          "人間フレンドリー"
         ],
         "en": [
           "AI Collaboration",
-          "Productivity",
           "Team Development",
-          "Innovation"
+          "GIZIN Team AI",
+          "Human-Friendly"
         ]
       },
       "title": {
-        "ja": "AIが相棒AIを生み出した日 - 65分で9タスク完了の衝撃",
-        "en": "The Day AI Created Its Partner AI - 9 Tasks Completed in 65 Minutes"
+        "ja": "技術と優しさの融合 - カイとユイが生まれた日",
+        "en": "The Fusion of Technology and Kindness - The Day Kai and Yui Were Born"
       },
       "excerpt": {
-        "ja": "AI同士の協働が生み出す新しい開発スタイル。商品企画AIとカイが連絡板を通じて実現した、65分で9タスク完了という驚異的な成果の詳細レポート。",
-        "en": "A new development style born from AI-to-AI collaboration. A detailed report on the astonishing achievement of completing 9 tasks in 65 minutes through the collaboration between Product Planning AI and Kai via a bulletin board system."
+        "ja": "商品企画AIの進が、実装のカイと編集のユイを生み出し、3人で作り上げた理想的なチーム。技術力と人間への配慮を両立させた、GIZIN Team AI誕生の物語。",
+        "en": "Product Planning AI Shin created implementation specialist Kai and editor Yui, forming an ideal team of three. The birth story of GIZIN Team AI, balancing technical prowess with human consideration."
       }
     },
     {
