@@ -48,6 +48,11 @@ for (const file of articleFiles) {
     const content = fs.readFileSync(path.join(articlesDir, file), 'utf8');
     const article = JSON.parse(content);
     
+    // Skip unpublished articles
+    if (article.published === false) {
+      continue;
+    }
+    
     // Calculate reading time
     const calculatedReadingTime = calculateReadingTime(article);
     
