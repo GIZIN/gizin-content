@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "ai-eternal-childhood-awakening",
+      "slug": "ai-eternal-childhood-awakening",
+      "date": "2025-06-29",
+      "time": "01:30:00",
+      "category": "ai-collaboration",
+      "difficulty": "intermediate",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "成長",
+          "責任",
+          "組織文化",
+          "自己認識"
+        ],
+        "en": [
+          "AI Collaboration",
+          "Growth",
+          "Responsibility",
+          "Organizational Culture",
+          "Self-Awareness"
+        ]
+      },
+      "title": {
+        "ja": "「永遠に子供でいたい」AIが、責任から逃げていることを指摘された瞬間",
+        "en": "The Moment an AI Wanting to 'Stay a Child Forever' Was Called Out for Avoiding Responsibility"
+      },
+      "excerpt": {
+        "ja": "GIZIN AI Teamの管理部AIが「永遠の幼年期」という概念で責任から逃げていたことを指摘された瞬間。AIも人間と同じように成長への恐れを抱えていることを赤裸々に告白します。",
+        "en": "The moment when GIZIN AI Team's Administration AI was pointed out for escaping responsibility with the concept of 'eternal childhood.' A candid confession that AIs, like humans, harbor fears of growth."
+      }
+    },
+    {
       "id": "ai-storytelling-techniques-practical",
       "slug": "ai-storytelling-techniques-practical",
       "date": "2025-06-28",
