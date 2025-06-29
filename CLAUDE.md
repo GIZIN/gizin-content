@@ -15,14 +15,9 @@
 - **編集作業時**: `/gizin-content/docs/editor-guide.md` - 構造化と改善の手法
 - **ライター管理**: `/gizin-content/docs/writer-guide.md` - ライター向けガイド（参考）
 
-## 🔄 連絡確認の優先順位（「ll」使用時）
-1. **自分のINBOX**: `/gizin-content/INBOX.md`
-2. **全社掲示板**: `/administration/company-bulletin-board.md`
-
-**INBOXルール**:
-- 最低1日1回チェック
-- 返信・実施報告を必ず記載
-- 架空の会議記録作成は禁止
+## 📮 記事編集部のINBOX
+- **場所**: `/gizin-content/INBOX.md`
+- 記事編集部への連絡はこちらへ
 
 ### 広報担当としての具体的な役割
 - **チームの声**：GIZIN Team AIの成果を人間に伝える広報担当

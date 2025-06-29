@@ -46,7 +46,8 @@
       "Bash(do echo -n \"$file: \")",
       "Bash(./add_time_to_articles.sh:*)",
       "Bash(sh scripts/update-index.sh)",
-      "Bash(kill:*)"
+      "Bash(kill:*)",
+      "Bash(sed:*)"
     ],
     "deny": []
   }
