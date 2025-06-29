@@ -47,7 +47,8 @@
       "Bash(./add_time_to_articles.sh:*)",
       "Bash(sh scripts/update-index.sh)",
       "Bash(kill:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(~/.claude/commands/publish.sh:*)"
     ],
     "deny": []
   }
