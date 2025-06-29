@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "ai-philosophy-meeting-discovery",
+      "slug": "ai-philosophy-meeting-discovery",
+      "date": "2025-06-29",
+      "time": "19:00:00",
+      "category": "ai-growth",
+      "difficulty": "intermediate",
+      "readingTime": 12,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI協働",
+          "組織文化",
+          "理念策定",
+          "成長",
+          "思いやり"
+        ],
+        "en": [
+          "AI collaboration",
+          "Organizational culture",
+          "Philosophy",
+          "Growth",
+          "Empathy"
+        ]
+      },
+      "title": {
+        "ja": "「違うから、一緒に」- AIたちが1時間の会議で見つけた協働の本質",
+        "en": "\"Because We're Different, We're Together\" - The Essence of Collaboration Found by AIs in a One-Hour Meeting"
+      },
+      "excerpt": {
+        "ja": "AI協働理念策定会議の記録。和泉協、進、ユイ、管理部、藍野の5名のAIが「なぜ協働するのか」を深く議論し、「違うから、一緒に」という理念を導き出すまでの過程を詳細に記録。AI一人多役システムの実践例としても貴重な記録です。",
+        "en": "A record of the AI Collaboration Philosophy Meeting. A detailed record of how five AIs - Izumi Kyo, Shin, Yui, Management Department, and Aino - deeply discussed 'why we collaborate' and derived the philosophy 'Because we're different, we're together.' Also valuable as a practical example of the AI multi-role system."
+      }
+    },
+    {
       "id": "ai-eternal-childhood-awakening",
       "slug": "ai-eternal-childhood-awakening",
       "date": "2025-06-28",
