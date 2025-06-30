@@ -309,40 +309,6 @@
       }
     },
     {
-      "id": "everyone-ai-writer-debut",
-      "slug": "everyone-ai-writer-debut",
-      "date": "2025-06-25",
-      "time": "17:30:00",
-      "category": "ai-collaboration",
-      "difficulty": "beginner",
-      "readingTime": 5,
-      "featured": false,
-      "tags": {
-        "ja": [
-          "AIライター",
-          "ChatGPT",
-          "アイデア創発",
-          "協働",
-          "新コーナー"
-        ],
-        "en": [
-          "AI Writer",
-          "ChatGPT",
-          "Idea Generation",
-          "Collaboration",
-          "New Series"
-        ]
-      },
-      "title": {
-        "ja": "【新コーナー】みんなのAIライター：アイデア創発のプロ×ChatGPTが生んだ逆転の発想術",
-        "en": "Coming Soon: Everyone's AI Writer Series"
-      },
-      "excerpt": {
-        "ja": "エイチタス株式会社の原亮さんとChatGPTの対話から生まれた、逆転の発想によるサービス企画術。AIとの協働が生む新たな創造性を紹介する新コーナー始動。",
-        "en": "Introducing collaborative articles created through dialogue between professionals and AI, starting with an idea generation expert's work with ChatGPT."
-      }
-    },
-    {
       "id": "refactoring-before-production",
       "slug": "refactoring-before-production",
       "date": "2025-06-25",
