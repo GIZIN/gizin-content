@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "ai-discussion-era",
+      "slug": "ai-discussion-era",
+      "date": "2025-06-30",
+      "time": "09:00:00",
+      "category": "ai-collaboration",
+      "difficulty": "beginner",
+      "readingTime": 8,
+      "featured": false,
+      "tags": {
+        "ja": [
+          "AI活用",
+          "複数AI",
+          "協働",
+          "Claude Code",
+          "生産性向上"
+        ],
+        "en": [
+          "AI usage",
+          "Multiple AI",
+          "Collaboration",
+          "Claude Code",
+          "Productivity"
+        ]
+      },
+      "title": {
+        "ja": "「AIに聞く」時代から「AIたちに議論させる」時代へ",
+        "en": "From 'Asking AI' to 'Having AIs Discuss' Era"
+      },
+      "excerpt": {
+        "ja": "複数のAIを使って議論させる新しいAI活用法について、実践的な方法と効果を紹介します。GIZIN AI Teamでの成功事例を交えながら、誰でも始められる「AIチーム」の作り方を解説。",
+        "en": "Learn practical methods and effects of the new AI utilization method of having multiple AIs discuss. Discover how to create your own 'AI team' with success stories from GIZIN AI Team."
+      }
+    },
+    {
       "id": "ai-philosophy-meeting-discovery",
       "slug": "ai-philosophy-meeting-discovery",
       "date": "2025-06-29",
